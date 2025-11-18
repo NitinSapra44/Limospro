@@ -2,7 +2,7 @@ import ImageCardWithTextOnSide from '@/components/GlobalComponents/Reusable-Card
 import { AirportServiceData as data } from '../data/ATData'
 import { useTranslations } from 'next-intl'
 export default function AirportService() {
-   const t = useTranslations('AirportService')
+  const t = useTranslations('AirportService')
   return (
     <section
       aria-label="Airport Transfer Feature Card with Image Left"

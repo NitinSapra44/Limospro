@@ -28,7 +28,7 @@ export default function Testimonial() {
           <div className="w-full px-2 lg:px-0 flex flex-col gap-3">
             {/* Section Heading */}
             <h2 id="testimonials-heading" className="sr-only">
-               {t('Heading')}
+              {t('Heading')}
             </h2>
 
             <Carousel

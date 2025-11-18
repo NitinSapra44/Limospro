@@ -10,7 +10,7 @@ const RideBookingCard = dynamic(
 import { useTranslations } from 'next-intl'
 
 export default function HeroSectionAT() {
-   const t = useTranslations('hero.home')
+  const t = useTranslations('hero.home')
   return (
     <section aria-label="Airport Transfer Hero Section">
       <HeroSection

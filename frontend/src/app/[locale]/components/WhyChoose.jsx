@@ -8,7 +8,6 @@ export default function WhyChoose() {
   return (
     <section id="why-choose" aria-labelledby="why-choose-limospro" className="w-full flex py-16">
       <div className="flex flex-col gap-4 lg:w-[80%] max-w-[1440px] w-full mx-auto items-start">
-
         {/* Section Heading */}
         <div className="gap-2 px-3 lg:px-0 flex flex-col">
           <p

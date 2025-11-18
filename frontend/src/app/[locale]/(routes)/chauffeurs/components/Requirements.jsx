@@ -2,7 +2,7 @@ import ImageCardWithTextOnSideAndButton from '@/components/GlobalComponents/Reus
 import { RequirementsData as data } from '../data/ChaufferData'
 import { useTranslations } from 'next-intl'
 export default function Requirements() {
-   const t = useTranslations('ChaufferRequirements') 
+  const t = useTranslations('ChaufferRequirements')
   return (
     <section
       aria-label="Chauffeur Info Card"

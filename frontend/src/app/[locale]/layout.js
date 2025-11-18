@@ -22,7 +22,7 @@ export default async function LocaleLayout({ children, params }) {
   // Wrap children in a div instead of html/body
   return (
     <NextIntlClientProvider locale={locale} messages={messages}>
-      <div lang={locale} dir={isRTL ? 'rtl' : 'ltr'} >
+      <div lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
         <ClientLayout header2Routes={['/chauffeurs', '/blog']} locale={locale}>
           {children}
         </ClientLayout>

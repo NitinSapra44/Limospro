@@ -2,7 +2,7 @@ import FaqCard from '@/components/GlobalComponents/Reusable-Cards/faq'
 import { FAQData } from '../data/ChaufferData'
 import { useTranslations } from 'next-intl'
 export default function FAQ() {
-  const t = useTranslations('ChaufferFAQ') 
+  const t = useTranslations('ChaufferFAQ')
   return (
     <section
       aria-label="Chauffeur Frequently Asked Questions"
@@ -15,7 +15,7 @@ export default function FAQ() {
         >
           {t('Heading')}
         </h2>
-        <FaqCard FaqData={t.raw('FAQData')}/>
+        <FaqCard FaqData={t.raw('FAQData')} />
       </div>
     </section>
   )

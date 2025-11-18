@@ -29,7 +29,7 @@ export default function BookARide() {
             className="bg-gradient-to-r from-[#0062C4] to-[#004C97] text-base !font-bold px-10 !py-8 hover:cursor-pointer"
             aria-label="Book Houston Airport Limo Service"
           >
-           {t('Button')}
+            {t('Button')}
           </Button>
         </div>
       </div>

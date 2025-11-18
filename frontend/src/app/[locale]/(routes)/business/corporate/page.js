@@ -36,12 +36,11 @@ export const metadata = {
 }
 
 export default function Page() {
-   const t = useTranslations('Navigation4') 
+  const t = useTranslations('Navigation4')
   return (
     <main>
       <HeroSectionBC />
-      <Services Service={t('service')}        
-        Subservice={t('subservice')}   />
+      <Services Service={t('service')} Subservice={t('subservice')} />
       <DedicatedServiceSection />
       <CorporateServiceOfferings />
       <CorporateServicesAndFeatures />

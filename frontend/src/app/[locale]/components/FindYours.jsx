@@ -50,7 +50,7 @@ export default function FindYours() {
                   style={{ fontFamily: 'var(--font-montserrat)' }}
                   className="font-black text-white text-base md:text-2xl"
                 >
-                 {t('Description2')}
+                  {t('Description2')}
                 </p>
               </div>
 

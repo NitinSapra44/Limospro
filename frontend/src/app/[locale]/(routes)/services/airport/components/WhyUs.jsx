@@ -3,7 +3,7 @@ import { Check } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 export default function WhyUs() {
-    const t = useTranslations('whyUs')
+  const t = useTranslations('whyUs')
   return (
     <section aria-label="Why Choose Airport Transfers" className="w-full">
       <HeroSectionText
@@ -29,7 +29,7 @@ export default function WhyUs() {
                   style={{ fontFamily: 'var(--font-montserrat)' }}
                   className="font-extrabold text-white text-2xl md:text-4xl"
                 >
-                   {t('Heading2')}
+                  {t('Heading2')}
                 </h2>
               </header>
 

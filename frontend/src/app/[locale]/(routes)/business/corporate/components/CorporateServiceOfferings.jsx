@@ -3,7 +3,7 @@ import { CorporateServiceOfferingsData } from '../data/BCData'
 import { useTranslations } from 'next-intl'
 
 export default function CorporateServiceOfferings() {
-   const t = useTranslations('CorporateServiceOfferings') 
+  const t = useTranslations('CorporateServiceOfferings')
   return (
     <section aria-labelledby="corporate-offerings-heading" className="w-full flex py-16">
       <div className="flex flex-col lg:w-[80%] max-w-[1440px] w-full mx-auto gap-4 items-start">

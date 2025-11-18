@@ -24,23 +24,23 @@
   },
   "Footer": {
     "Description": "World-class airport limousine service for discerning clients who demand excellence and luxury.",
-    "QuickLinks":"Quick Links",
-    "Services" : "Services",
-    "Fleet":"Fleet",
-    "AboutUs":"About Us",
-    "Testimonials":"Testimonials",
-    "Contact":"Contact",
-    "Blog":"Blogs",
-    "ContactUs":"Contact Us",
-    "Address1":"123 Luxury Avenue, Suite 500",
-    "Address2":"New York, NY 10001",
-    "Newsletter":"Newsletter",
-    "NewsletterDes":"Subscribe to receive special offers and updates.",
-    "Copyright":" © Copyright 2025. All rights reserved by LIMOSPRO™",
-    "Privacy":"Privacy Policy",
-    "TermsofService":"Terms of Service",
-    "SiteMap":"Sitemap"
-},
+    "QuickLinks": "Quick Links",
+    "Services": "Services",
+    "Fleet": "Fleet",
+    "AboutUs": "About Us",
+    "Testimonials": "Testimonials",
+    "Contact": "Contact",
+    "Blog": "Blogs",
+    "ContactUs": "Contact Us",
+    "Address1": "123 Luxury Avenue, Suite 500",
+    "Address2": "New York, NY 10001",
+    "Newsletter": "Newsletter",
+    "NewsletterDes": "Subscribe to receive special offers and updates.",
+    "Copyright": " © Copyright 2025. All rights reserved by LIMOSPRO™",
+    "Privacy": "Privacy Policy",
+    "TermsofService": "Terms of Service",
+    "SiteMap": "Sitemap"
+  },
 
   "hero": {
     "home": {
@@ -105,16 +105,16 @@
     ]
   },
 
-  "CityRoutes":{
+  "CityRoutes": {
     "headingTop": "Luxury Travel",
     "headingBottom": "City-to-City Routes",
     "description1": "Enjoy seamless, comfortable travel between cities with our premium City-to-City ride service.",
-    "description2":"Whether for business or leisure, our professional chauffeurs ensure a smooth, stress-free journey in high-end vehicles.",
+    "description2": "Whether for business or leisure, our professional chauffeurs ensure a smooth, stress-free journey in high-end vehicles.",
     "topCities": "Top Cities",
-    "seeAll":"See All",
-    "topRoutes":"Top Routes",
+    "seeAll": "See All",
+    "topRoutes": "Top Routes",
     "citycards": [
-     {
+      {
         "title": "Dubai",
         "alt": "A picture of Dubai buildings",
         "description": "26 routes to/from this city"
@@ -148,12 +148,6 @@
         "time": "1h 50m",
         "distance": "59 mi"
       },
-       {
-        "from": "New York",
-        "to": "Philadelphia",
-        "time": "1h 50m",
-        "distance": "59 mi"
-      },
       {
         "from": "New York",
         "to": "Philadelphia",
@@ -172,7 +166,13 @@
         "time": "1h 50m",
         "distance": "59 mi"
       },
-       {
+      {
+        "from": "New York",
+        "to": "Philadelphia",
+        "time": "1h 50m",
+        "distance": "59 mi"
+      },
+      {
         "from": "New York",
         "to": "Philadelphia",
         "time": "1h 50m",
@@ -186,260 +186,255 @@
       }
     ]
   },
-  "findYours":{
-    "Heading1":"500+",
-    "Heading2":"Markets Worldwide",
-    "Description1":"World's Largest Privately-owned Chauffeured",
-     "Description2":"Transportation Company",
-     "Button1":"FIND YOUR CITY",
-     "Button2":"FIND YOUR AIRPORT"
-
-
+  "findYours": {
+    "Heading1": "500+",
+    "Heading2": "Markets Worldwide",
+    "Description1": "World's Largest Privately-owned Chauffeured",
+    "Description2": "Transportation Company",
+    "Button1": "FIND YOUR CITY",
+    "Button2": "FIND YOUR AIRPORT"
   },
-    "SafetyAndPrivacy":{
-    "cards":[
-  {
-    "title":"Safety first",
-    "alt": "Safety first logo",
-    "description": "Travel with peace of mind knowing your safety is our top priority. We adhere to the highest standards of vehicle hygiene, driver training, and health protocols to ensure a safe and comfortable experience every time you ride with us."
-  },
-   {
-    "title":"Tailored Travel Solutions",
-    "alt": "Tailored Travel Solutions logo",
-    "description": "Whether you’re booking a quick airport transfer or a day-long business trip, we offer personalized services to meet your unique travel needs. From hourly bookings to city-to-city rides, we make sure you always get the service that fits your schedule."
-  },
-   {
-    "title":"Eco-Friendly Travel",
-    "alt": "Eco-Friendly Travel logo",
-    "description": "As part of our commitment to sustainability, we offset the carbon emissions of every ride you take. Travel knowing that you are contributing to a greener planet with each journey, thanks to our carbon offset program — a first in the industry."
-  }
+  "SafetyAndPrivacy": {
+    "cards": [
+      {
+        "title": "Safety first",
+        "alt": "Safety first logo",
+        "description": "Travel with peace of mind knowing your safety is our top priority. We adhere to the highest standards of vehicle hygiene, driver training, and health protocols to ensure a safe and comfortable experience every time you ride with us."
+      },
+      {
+        "title": "Tailored Travel Solutions",
+        "alt": "Tailored Travel Solutions logo",
+        "description": "Whether you’re booking a quick airport transfer or a day-long business trip, we offer personalized services to meet your unique travel needs. From hourly bookings to city-to-city rides, we make sure you always get the service that fits your schedule."
+      },
+      {
+        "title": "Eco-Friendly Travel",
+        "alt": "Eco-Friendly Travel logo",
+        "description": "As part of our commitment to sustainability, we offset the carbon emissions of every ride you take. Travel knowing that you are contributing to a greener planet with each journey, thanks to our carbon offset program — a first in the industry."
+      }
     ]
   },
-  "CorporateGroundTransportation":{
-    "alt":"A picture showing giving me a view of the steering wheel of the car.",
-    "t1":"Complete Solutions for",
+  "CorporateGroundTransportation": {
+    "alt": "A picture showing giving me a view of the steering wheel of the car.",
+    "t1": "Complete Solutions for",
     "t2": "Corporate Ground Transportation",
-    "description":"From executive airport transfers to group event shuttles, we provide tailored ground transportation services designed to meet the demands of modern business travel. Count on punctual service, professional chauffeurs, and seamless coordination every step of the way."
+    "description": "From executive airport transfers to group event shuttles, we provide tailored ground transportation services designed to meet the demands of modern business travel. Count on punctual service, professional chauffeurs, and seamless coordination every step of the way."
   },
-  "MeetingsAndSpecialEvents":{
-    "alt":"A Picture of a Business Man on the backseat of his car using his computer.",
-    "t1":"Executive Travel Solutions for",
+  "MeetingsAndSpecialEvents": {
+    "alt": "A Picture of a Business Man on the backseat of his car using his computer.",
+    "t1": "Executive Travel Solutions for",
     "t2": "Meetings and Special Events",
-    "description":"Make every meeting and event effortless with our executive travel services. We offer reliable, coordinated transportation for conferences, business gatherings, and special occasions — all with the professionalism and comfort your team deserves."
+    "description": "Make every meeting and event effortless with our executive travel services. We offer reliable, coordinated transportation for conferences, business gatherings, and special occasions — all with the professionalism and comfort your team deserves."
   },
-    "BookARide":{
-    "title":"Have a route in mind?",
-    "description":"Enter your pickup and drop-off locations to see the price.",
-    "Button":"BOOK A CITY-TO-CITY RIDE"
+  "BookARide": {
+    "title": "Have a route in mind?",
+    "description": "Enter your pickup and drop-off locations to see the price.",
+    "Button": "BOOK A CITY-TO-CITY RIDE"
   },
-    "DownloadOptions":{
-    "Heading":"Download the app",
-    "Description1":"Easily book, change, or cancel rides on the go. Think of it",
-    "Description2":"as peace of mind in the palm of your hand."
+  "DownloadOptions": {
+    "Heading": "Download the app",
+    "Description1": "Easily book, change, or cancel rides on the go. Think of it",
+    "Description2": "as peace of mind in the palm of your hand."
   },
-  "Testimonial":{
-    "Heading":"Customer Testimonials",
-     "TestimonialCards": [
-          {
-            "Quote": "I love anything that I purchase from Brown!",
-            "Name": "Cameron Williamson",
-            "Position": "President of Sales",
-            "alt": "Portrait of Cameron Williamson"
-          },
-          {
-            "Quote": "I have tried a lot of similar products and Brown is the best!",
-            "Name": "Jane Cooper",
-            "Position": "Nursing Assistant",
-            "alt": "Portrait of Jane Cooper"
-          },
-          {
-            "Quote": "I highly recommend Brown. It has been so important for us as we continue to grow our company.",
-            "Name": "Darrell Steward",
-            "Position": "Marketing Coordinator",
-            "alt": "Portrait of Darrell Steward"
-          },
-                    {
-            "Quote": "I love anything that I purchase from Brown!",
-            "Name": "Cameron Williamson",
-            "Position": "President of Sales",
-            "alt": "Portrait of Cameron Williamson"
-          },
-          {
-            "Quote": "I have tried a lot of similar products and Brown is the best!",
-            "Name": "Jane Cooper",
-            "Position": "Nursing Assistant",
-            "alt": "Portrait of Jane Cooper"
-          },
-          {
-            "Quote": "I highly recommend Brown. It has been so important for us as we continue to grow our company.",
-            "Name": "Darrell Steward",
-            "Position": "Marketing Coordinator",
-            "alt": "Portrait of Darrell Steward"
-          }
-
+  "Testimonial": {
+    "Heading": "Customer Testimonials",
+    "TestimonialCards": [
+      {
+        "Quote": "I love anything that I purchase from Brown!",
+        "Name": "Cameron Williamson",
+        "Position": "President of Sales",
+        "alt": "Portrait of Cameron Williamson"
+      },
+      {
+        "Quote": "I have tried a lot of similar products and Brown is the best!",
+        "Name": "Jane Cooper",
+        "Position": "Nursing Assistant",
+        "alt": "Portrait of Jane Cooper"
+      },
+      {
+        "Quote": "I highly recommend Brown. It has been so important for us as we continue to grow our company.",
+        "Name": "Darrell Steward",
+        "Position": "Marketing Coordinator",
+        "alt": "Portrait of Darrell Steward"
+      },
+      {
+        "Quote": "I love anything that I purchase from Brown!",
+        "Name": "Cameron Williamson",
+        "Position": "President of Sales",
+        "alt": "Portrait of Cameron Williamson"
+      },
+      {
+        "Quote": "I have tried a lot of similar products and Brown is the best!",
+        "Name": "Jane Cooper",
+        "Position": "Nursing Assistant",
+        "alt": "Portrait of Jane Cooper"
+      },
+      {
+        "Quote": "I highly recommend Brown. It has been so important for us as we continue to grow our company.",
+        "Name": "Darrell Steward",
+        "Position": "Marketing Coordinator",
+        "alt": "Portrait of Darrell Steward"
+      }
     ]
   },
   "OurPartners": {
-      "Heading1":"Our",
-        "Heading2":"Partners"
+    "Heading1": "Our",
+    "Heading2": "Partners"
   },
-  "Navigation":{
+  "Navigation": {
     "service": "Services",
     "subservice": "Airport Transfers"
   },
   "Features": {
     "cards": [
-        {
-          "title": "Prompt Pickups",
-          "alt": "Car Logo",
-          "description": "Always on time for your pick-Up, 60 minutes free of charge wait time for international flights, 30 minutes for domestic, and 15 minutes for others."
-        },
-        {
-          "title": "All-Inclusive Rates",
-          "alt": "Price Logo",
-          "description": "All inclusive- price professional car service in Houston with no hidden charges, pay what you see."
-        },
-        {
-          "title": "Private Rides",
-          "alt": "Private ride Logo",
-          "description": "Private Travel Solutions In Houston one-way, round trip airport transfer, point to point, by the hour, long-distance rides city to city based on your time."
-        }
-      ]
-    
+      {
+        "title": "Prompt Pickups",
+        "alt": "Car Logo",
+        "description": "Always on time for your pick-Up, 60 minutes free of charge wait time for international flights, 30 minutes for domestic, and 15 minutes for others."
+      },
+      {
+        "title": "All-Inclusive Rates",
+        "alt": "Price Logo",
+        "description": "All inclusive- price professional car service in Houston with no hidden charges, pay what you see."
+      },
+      {
+        "title": "Private Rides",
+        "alt": "Private ride Logo",
+        "description": "Private Travel Solutions In Houston one-way, round trip airport transfer, point to point, by the hour, long-distance rides city to city based on your time."
+      }
+    ]
   },
   "PremiumFleet": {
-    "Heading1":"Choose Your Ride",
-    "Heading2":"Explore Our Premium Fleet",
-    "Description1":"Find the perfect vehicle for your trip — from luxury sedans to spacious SUVs and",
-    "Description2":"executive vans. Every ride offers comfort, style, and professional service.",
+    "Heading1": "Choose Your Ride",
+    "Heading2": "Explore Our Premium Fleet",
+    "Description1": "Find the perfect vehicle for your trip — from luxury sedans to spacious SUVs and",
+    "Description2": "executive vans. Every ride offers comfort, style, and professional service.",
     "cards": [
-  {
-    "alt": "Picture of a Cadilac",
-    "priceInfo": "$60 Per Hour For Hourly Service",
-    "CarInfo": "Executive Sedan Cadillac. Lincoln. Or Similar",
-    "features": [
-      "Sedan Car 4 Doors",
-      "Clean In and out. 2 Rows of Seats",
-      "Fit for up to 3 Adults with 2 Check-In Bgs, and 1 Carry-On Bag"
+      {
+        "alt": "Picture of a Cadilac",
+        "priceInfo": "$60 Per Hour For Hourly Service",
+        "CarInfo": "Executive Sedan Cadillac. Lincoln. Or Similar",
+        "features": [
+          "Sedan Car 4 Doors",
+          "Clean In and out. 2 Rows of Seats",
+          "Fit for up to 3 Adults with 2 Check-In Bgs, and 1 Carry-On Bag"
+        ]
+      },
+      {
+        "alt": "Picture of a SubUrban",
+        "priceInfo": "$60 Per Hour For Hourly Service",
+        "CarInfo": "Executive Large SUV. Suburban. Expedition. Or Similar",
+        "features": [
+          "Large Executive SUV 4 Doors",
+          "Clean in and out. 3 Rows of Seats with a big luggage room",
+          "Fit for up to 6 adults with 4 Check-In Bags, and 3 Carry -On Bags"
+        ]
+      },
+      {
+        "alt": "Picture of a Cadillac Escslade",
+        "priceInfo": "$80 Per Hour For Hourly Service",
+        "CarInfo": "First Class Large Luxury SUV. Lincoln Navigator. Cadillac Escalade.",
+        "features": [
+          "Luxury Large SUV 4 Doors",
+          "Clean in and out. 3 Rows of Seats with luggage room",
+          "Fit for up to 6 adults with 4 Check-In Bags, and 3 Carry -On Bags"
+        ]
+      }
     ]
   },
-  {
-    "alt": "Picture of a SubUrban",
-    "priceInfo": "$60 Per Hour For Hourly Service",
-    "CarInfo": "Executive Large SUV. Suburban. Expedition. Or Similar",
-    "features": [
-      "Large Executive SUV 4 Doors",
-      "Clean in and out. 3 Rows of Seats with a big luggage room",
-      "Fit for up to 6 adults with 4 Check-In Bags, and 3 Carry -On Bags"
-    ]
+  "BookNow": {
+    "BookNow": "Book Now"
   },
-  {
-    "alt": "Picture of a Cadillac Escslade",
-    "priceInfo": "$80 Per Hour For Hourly Service",
-    "CarInfo": "First Class Large Luxury SUV. Lincoln Navigator. Cadillac Escalade.",
-    "features": [
-      "Luxury Large SUV 4 Doors",
-      "Clean in and out. 3 Rows of Seats with luggage room",
-      "Fit for up to 6 adults with 4 Check-In Bags, and 3 Carry -On Bags"
-    ]
-  }
-      ]
-    
+  "whyUs": {
+    "Heading1": "Why AAdmirals is Your Best Choice for",
+    "Heading2": "Airport Transfers?",
+    "Feature1": "Customer Service",
+    "Feature2": "Round-the-Clock Availability",
+    "Feature3": "Effortless Travel",
+    "Feature4": "Affordability",
+    "Feature5": "Luxurious experience",
+    "Feature6": "Safety",
+    "Feature7": "Punctuality"
   },
-  "BookNow":{
-    "BookNow":"Book Now"
+  "ServiceInGlobalCities": {
+    "alt": "Picture of a Steering wheel",
+    "t1": "Airport transfer in",
+    "t2": "Global Cities",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
-  "whyUs":{
-    "Heading1":"Why AAdmirals is Your Best Choice for",
-    "Heading2":"Airport Transfers?",
-    "Feature1":"Customer Service",
-    "Feature2":"Round-the-Clock Availability",
-    "Feature3":"Effortless Travel",
-    "Feature4":"Affordability",
-    "Feature5":"Luxurious experience",
-    "Feature6":"Safety",
-    "Feature7":"Punctuality"
+  "AirportService": {
+    "alt": "Picture of a Business man using his computer in the backseat of the car",
+    "t1": "Get to or from",
+    "t2": "The Airport",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
-  "ServiceInGlobalCities":{
-    "alt":"Picture of a Steering wheel",
-    "t1":"Airport transfer in",
-    "t2":"Global Cities",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  "ShuttleBooking": {
+    "alt": "Picture of a Steering wheel",
+    "t1": "Airport",
+    "t2": "Shuttle booking",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
-    "AirportService":{
-    "alt":"Picture of a Business man using his computer in the backseat of the car",
-    "t1":"Get to or from",
-    "t2":"The Airport",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  "FAQ": {
+    "Heading": "The Most Asked Questions",
+    "Question": "What does an airport transfer do?",
+    "Answer": "An airport transfer is a private car service which takes air passengers to and from the airport from a city or transport hub. Professional airport transfer services like Blacklane offer chauffeur-driven vehicles to pick up passengers in the terminal after they collect their luggage, or drop them off to their departure gate well ahead of time. As a global company Blacklane is ideally suited to airport transfers, as they can handle passenger’s needs at both ends of their international flight."
   },
-    "ShuttleBooking":{
-    "alt":"Picture of a Steering wheel",
-    "t1":"Airport",
-    "t2":"Shuttle booking",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-  },
-    "FAQ":{
-    "Heading":"The Most Asked Questions",
-    "Question":"What does an airport transfer do?",
-    "Answer":"An airport transfer is a private car service which takes air passengers to and from the airport from a city or transport hub. Professional airport transfer services like Blacklane offer chauffeur-driven vehicles to pick up passengers in the terminal after they collect their luggage, or drop them off to their departure gate well ahead of time. As a global company Blacklane is ideally suited to airport transfers, as they can handle passenger’s needs at both ends of their international flight."
-  },
-    "Navigation2":{
+  "Navigation2": {
     "service": "Services",
     "subservice": "Hourly Hire"
   },
-  "WhyUsHourly":{
-    "Heading1":"Why AAdmirals is Your Best Choice for",
-    "Heading2":"Hourly Hire?",
-    "Feature1":"Your Safety, Our Priority",
-    "Feature2":"Punctuality You Can Rely On",
-    "Feature3":"Tailor Your Journey",
-    "Feature4":"No Hidden Fees",
-    "Feature5":"Round-the-Clock Availability",
-    "Feature6":"Generous Wait times",
-    "Feature7":"Dedicated Customer Support"
+  "WhyUsHourly": {
+    "Heading1": "Why AAdmirals is Your Best Choice for",
+    "Heading2": "Hourly Hire?",
+    "Feature1": "Your Safety, Our Priority",
+    "Feature2": "Punctuality You Can Rely On",
+    "Feature3": "Tailor Your Journey",
+    "Feature4": "No Hidden Fees",
+    "Feature5": "Round-the-Clock Availability",
+    "Feature6": "Generous Wait times",
+    "Feature7": "Dedicated Customer Support"
   },
-  "MultiStopJourney":{
-    "alt":"Picture of a Steering wheel",
-    "t1":"For all your",
-    "t2":"Multi-stop journeys",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  "MultiStopJourney": {
+    "alt": "Picture of a Steering wheel",
+    "t1": "For all your",
+    "t2": "Multi-stop journeys",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
-    "Navigation3":{
+  "Navigation3": {
     "service": "Destination",
     "subservice": "Houston"
   },
-  "ServiceForEveryOccasion":{
-    "alt":"A few cars Lined up in a row manner",
-    "t1":"The Best Private Car Service In Houstan",
-    "t2":"Houston Limo Services for Every Occasion",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  "ServiceForEveryOccasion": {
+    "alt": "A few cars Lined up in a row manner",
+    "t1": "The Best Private Car Service In Houstan",
+    "t2": "Houston Limo Services for Every Occasion",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
-  "WhyChoose":{
-    "alt":"Picture of a business man sitting in the backseat of his car using his computer.",
-    "t1":"Top-Notch Houstan Limo Car Service",
-    "t2":"Why Choose Our Houston Limo Services Service?",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  "WhyChoose": {
+    "alt": "Picture of a business man sitting in the backseat of his car using his computer.",
+    "t1": "Top-Notch Houstan Limo Car Service",
+    "t2": "Why Choose Our Houston Limo Services Service?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
-    "HowToBook":{
-    "alt":"Business Men sitting in to taxi from his charted plane",
-    "t1":"Quick and Simple BookingQ",
-    "t2":"How to Easily Book Our Houston Limo Services",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  "HowToBook": {
+    "alt": "Business Men sitting in to taxi from his charted plane",
+    "t1": "Quick and Simple BookingQ",
+    "t2": "How to Easily Book Our Houston Limo Services",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
-  "BookARideHouston":{
-    "title":"Enjoy reliable Houston airport transportation with limo service to IAH & Hobby.",
-    "description":"Travel in comfort and style with our premium airport pick-up and drop-off options. Book now!",
-    "Button":"BOOK NOW"
+  "BookARideHouston": {
+    "title": "Enjoy reliable Houston airport transportation with limo service to IAH & Hobby.",
+    "description": "Travel in comfort and style with our premium airport pick-up and drop-off options. Book now!",
+    "Button": "BOOK NOW"
   },
-  "ContactHeroSection":{
-    "Heading1":"Reach Out —",
-    "Heading2":"Reliable Travel Is One Step Away.",
-    "Button":"BOOK A RIDE"
+  "ContactHeroSection": {
+    "Heading1": "Reach Out —",
+    "Heading2": "Reliable Travel Is One Step Away.",
+    "Button": "BOOK A RIDE"
   },
-    "ContactInformation":{
-    "Heading":"Contact Information",
-    "cards":[
-       {
+  "ContactInformation": {
+    "Heading": "Contact Information",
+    "cards": [
+      {
         "title": "Our Locations",
         "alt": "Location Logo",
         "description": "'8222 Kingsbrook Rd , Houston, TX 77024' and '17103 Imperial Valley Dr, Houston, TX 77060'"
@@ -461,33 +456,33 @@
       }
     ]
   },
-  "ContactForm":{
-    "h1":"Contact Us Today",
-    "h2":"We’re Here to Help —",
-    "Email":"Email",
-    "Phone":"Phone",
-    "Message":"Message",
-    "EmailPlaceholder":"Your Email",
-    "PhonePlaceholder":"Your Phone Number",
-    "MessagePlaceholder":"Write Your Message",
-    "Button":"SEND"
+  "ContactForm": {
+    "h1": "Contact Us Today",
+    "h2": "We’re Here to Help —",
+    "Email": "Email",
+    "Phone": "Phone",
+    "Message": "Message",
+    "EmailPlaceholder": "Your Email",
+    "PhonePlaceholder": "Your Phone Number",
+    "MessagePlaceholder": "Write Your Message",
+    "Button": "SEND"
   },
-    "HeroSectionAbout":{
-    "Heading1" : "Built on Trust.",
-    "Heading2" : " Powered by Experience.",
-    "Button" : "BOOK A RIDE"
+  "HeroSectionAbout": {
+    "Heading1": "Built on Trust.",
+    "Heading2": " Powered by Experience.",
+    "Button": "BOOK A RIDE"
   },
-   "OurStoryAbout":{
-    "Heading1":"The Story",
-    "Heading2":"Our Journey Begins Here",
-    "Description1":"AAdmirals Travel & Transportation established in 2013 as a sole proprietorship to provide private airport transfer, limousine, and other ground transportation services in the Houston and Galveston greater areas. After rapid growth in customers, sales, and affiliate networks worldwide, the founder transitioned the business into a corporate entity. New model vehicles were added to accommodate any number of passengers, skilled professional chauffeurs were hired, and clear operational procedures were established to ensure exceptional service quality for all AAdmirals customers.",
-    "Description2":"Today, we are among the top 5 ground transportation service providers in the Houston and Galveston, TX metropolitan areas.",
-    "Description3":" We’re proud to see our customer base growing daily — a testament to the trust and satisfaction of those we serve. Our story continues as we keep driving excellence and connection across our community."
+  "OurStoryAbout": {
+    "Heading1": "The Story",
+    "Heading2": "Our Journey Begins Here",
+    "Description1": "AAdmirals Travel & Transportation established in 2013 as a sole proprietorship to provide private airport transfer, limousine, and other ground transportation services in the Houston and Galveston greater areas. After rapid growth in customers, sales, and affiliate networks worldwide, the founder transitioned the business into a corporate entity. New model vehicles were added to accommodate any number of passengers, skilled professional chauffeurs were hired, and clear operational procedures were established to ensure exceptional service quality for all AAdmirals customers.",
+    "Description2": "Today, we are among the top 5 ground transportation service providers in the Houston and Galveston, TX metropolitan areas.",
+    "Description3": " We’re proud to see our customer base growing daily — a testament to the trust and satisfaction of those we serve. Our story continues as we keep driving excellence and connection across our community."
   },
-  "OurOfferingsAbout":{
-    "Heading1":"What We Offer",
-    "Heading2":"Experience premium limousine and transportation services crafted for comfort, style, and reliability.",
-    "cards":[
+  "OurOfferingsAbout": {
+    "Heading1": "What We Offer",
+    "Heading2": "Experience premium limousine and transportation services crafted for comfort, style, and reliability.",
+    "cards": [
       {
         "title": "Our Vision",
         "alt": "car",
@@ -500,101 +495,101 @@
       }
     ]
   },
-  "OurValuesAbout":{
-     "Heading1":"Excellence in Every Mile",
-     "Heading2":"Our Values",
-     "Description":" Integrity, transparency, safety, time respect, and perfect customer service will always keep us in demand.",
-     "Tabs": [
-    {
-      "question": "Your Safety",
-      "answer": "Your safety is our first priority..."
-    },
-    {
-      "question": "Time Respecting",
-      "answer": "We respect your time..."
-    },
-    {
-      "question": "Competitive Prices",
-      "answer": "We offer high-quality services at fair prices."
-    },
-    {
-      "question": "Easy to Book",
-      "answer": "Booking with us is simple and quick."
-    },
-    {
-      "question": "Online Booking",
-      "answer": "Book from anywhere, anytime with ease."
-    }
-  ]
+  "OurValuesAbout": {
+    "Heading1": "Excellence in Every Mile",
+    "Heading2": "Our Values",
+    "Description": " Integrity, transparency, safety, time respect, and perfect customer service will always keep us in demand.",
+    "Tabs": [
+      {
+        "question": "Your Safety",
+        "answer": "Your safety is our first priority..."
+      },
+      {
+        "question": "Time Respecting",
+        "answer": "We respect your time..."
+      },
+      {
+        "question": "Competitive Prices",
+        "answer": "We offer high-quality services at fair prices."
+      },
+      {
+        "question": "Easy to Book",
+        "answer": "Booking with us is simple and quick."
+      },
+      {
+        "question": "Online Booking",
+        "answer": "Book from anywhere, anytime with ease."
+      }
+    ]
   },
-   "OurPeers":{
-    "Heading1":"Better Service, Better Features",
-    "Heading2":" See How We Lead!",
-    "Description":"At AAdmirals Travel, we go beyond basic transportation. From easy online booking and real-time tracking to professional chauffeurs and a well-maintained fleet, every detail is designed to give you a seamless, stress-free experience. Discover what sets us apart.",
-    "Feature1":"1 M Insured Vehicle",
-    "Feature2":"Professional Chauffeurs",
-    "Feature3":"Private Ride & based on Your Time schedule",
-    "Feature4":"Affordable Rates",
-    "Feature5":"No Hidden Charges",
-    "Feature6":"Clean Cars"
+  "OurPeers": {
+    "Heading1": "Better Service, Better Features",
+    "Heading2": " See How We Lead!",
+    "Description": "At AAdmirals Travel, we go beyond basic transportation. From easy online booking and real-time tracking to professional chauffeurs and a well-maintained fleet, every detail is designed to give you a seamless, stress-free experience. Discover what sets us apart.",
+    "Feature1": "1 M Insured Vehicle",
+    "Feature2": "Professional Chauffeurs",
+    "Feature3": "Private Ride & based on Your Time schedule",
+    "Feature4": "Affordable Rates",
+    "Feature5": "No Hidden Charges",
+    "Feature6": "Clean Cars"
   },
-  "Navigation4":{
+  "Navigation4": {
     "service": "Business & Diplomats",
     "subservice": "Corporations"
   },
-  "HeroSectionBC":{
-    "Heading1":"Trusted by Professionals.",
-    "Heading2":" Preferred by Diplomats. Ready for You.",
-    "Button":"BOOK A RIDE"
+  "HeroSectionBC": {
+    "Heading1": "Trusted by Professionals.",
+    "Heading2": " Preferred by Diplomats. Ready for You.",
+    "Button": "BOOK A RIDE"
   },
-  "BCServices":{
-    "cards":[
-       {
+  "BCServices": {
+    "cards": [
+      {
         "title": "Your chauffeur, your pace",
         "alt": "Car Traffic Logo",
         "description": "Decide where to go and when. With an hourly ride your chauffeur adapts to your schedule, giving you complete flexibility."
       },
-       {
+      {
         "title": "Effortless city trave",
         "alt": "buildings logo",
         "description": "Skip the hassle of multiple rides, waiting for taxis, and finding parking. Your chauffeur manages all logistics, so you can move through the city with ease and comfort."
       },
-        {
+      {
         "title": "Focus on what matters",
         "alt": "focus logoo",
         "description": "With Wi-Fi available in most cars, you can catch up on work, stream your favourite shows, or unwind in comfort while our chauffeur takes care of the road."
       }
     ]
   },
-  "DedicatedServiceSection":{
-    "P1":"By-the-hour personal black car service for events",
-    "P2":"Booking a personal Blacklane for an event? Our",
-    "Link1":"dedicated by-the-hour service",
-    "P3":"gives you the ultimate flexibility and peace of mind. Learn more about how Blacklane’s service is a great fit for attending",
-    "Link2":"sporting events, concerts,",
-    "P4":"and more."
+  "DedicatedServiceSection": {
+    "P1": "By-the-hour personal black car service for events",
+    "P2": "Booking a personal Blacklane for an event? Our",
+    "Link1": "dedicated by-the-hour service",
+    "P3": "gives you the ultimate flexibility and peace of mind. Learn more about how Blacklane’s service is a great fit for attending",
+    "Link2": "sporting events, concerts,",
+    "P4": "and more."
   },
-  "CorporateServiceOfferings":{
-     "cards":[
-       {
+  "CorporateServiceOfferings": {
+    "cards": [
+      {
         "title": "Corporate conferences and trade shows",
         "alt": "Picture of a Business woman sitting in the car using her computer",
         "description": "Discover our premium event chauffeur service for punctual arrivals, seamless departures, and peaceful journeys."
       },
-     {
+      {
         "title": "Leadership offsites and incentive travel",
         "alt": "Picture of a Business woman sitting in the car using her computer",
         "description": "Trust our corporate chauffeur car service to provide reliable, comfortable journeys that optimize productivity."
       },
-     {
+      {
         "title": "Hospitality and sponsorship events",
         "alt": "Picture of a Business woman sitting in the car using her computer",
         "description": "Effortlessly attend sporting events, festivals, and concerts with our limo transportation service."
       }
     ]
   },
-  "CorporateServicesAndFeatures":{
-     "cards":[
+  "CorporateServicesAndFeatures": {
+    "cards": [
       {
         "title": "Dedicated events team",
         "alt": "Car Traffic Logo",
@@ -627,45 +622,45 @@
       }
     ]
   },
-   "WhoWeSupport":{
-    "alt":"Picture of a Business woman sitting in the car using her computer",
-    "t1":"Who We Support",
+  "WhoWeSupport": {
+    "alt": "Picture of a Business woman sitting in the car using her computer",
+    "t1": "Who We Support",
     "description": [
-    "Corporate Travel teams (EAs and travel managers)",
-    "Event and experience agencies",
-    "Luxury TMCs and hospitality providers",
-    "Entertainment and production coordinators"
-  ]
-  }, 
-  "OurGlobalReach":{
-    "alt":"Earth",
-    "t1":"Our global reach",
+      "Corporate Travel teams (EAs and travel managers)",
+      "Event and experience agencies",
+      "Luxury TMCs and hospitality providers",
+      "Entertainment and production coordinators"
+    ]
+  },
+  "OurGlobalReach": {
+    "alt": "Earth",
+    "t1": "Our global reach",
     "description": [
       "Limospro’s award-winning global chauffeur service provides consistent excellence on every journey. Our modern fleet includes a range of premium vehicles that include top-tier amenities, such as umbrellas for rainy days, complimentary water, refreshments, charging cables and Wi-Fi.",
       "Chauffeurs are vetted, insured, and often undergo additional training to ensure reliable and safe travel. Additionally, our multi-lingual customer support teams are available 24/7 to provide assistance if any issues arise. Rest assured that our premium event chauffeur service will elevate every event experience and meet your unique needs."
-  ]
-},
-"ContactForService":{
-  "Heading":"Where Comfort Meets Corporate Class",
-  "Description":"Experience executive travel designed for performance, professionalism, and peace of mind.",
-  "Button":"CONTACT NOW"
-},
-  "ChaufferHeading":{
-    "Service":"Home",
-    "subservice":"For Chauffeurs",
-    "Heading":"Become a Chauffeur Partner"
-},
-  "ChaufferHeroSection":{
-    "Heading":"Grow your business with Limospro",
-    "Description":"Limospro’s app and web portal connect licensed and insured chauffeur partners with a global client base of sophisticated business and leisure travelers.",
-    "Button":"Become a Partner"
+    ]
   },
-  "ChaufferTestimony":{
-    "Heading":"Limospro is 60% of my revenue. I’ve grown from 2 to 20 chauffeurs and have 10 vehicles from working with them.",
-    "Description":"John Black, Limospro chauffeur, DC"
+  "ContactForService": {
+    "Heading": "Where Comfort Meets Corporate Class",
+    "Description": "Experience executive travel designed for performance, professionalism, and peace of mind.",
+    "Button": "CONTACT NOW"
   },
-  "ChaufferBenefits":{
-    "cards1":[
+  "ChaufferHeading": {
+    "Service": "Home",
+    "subservice": "For Chauffeurs",
+    "Heading": "Become a Chauffeur Partner"
+  },
+  "ChaufferHeroSection": {
+    "Heading": "Grow your business with Limospro",
+    "Description": "Limospro’s app and web portal connect licensed and insured chauffeur partners with a global client base of sophisticated business and leisure travelers.",
+    "Button": "Become a Partner"
+  },
+  "ChaufferTestimony": {
+    "Heading": "Limospro is 60% of my revenue. I’ve grown from 2 to 20 chauffeurs and have 10 vehicles from working with them.",
+    "Description": "John Black, Limospro chauffeur, DC"
+  },
+  "ChaufferBenefits": {
+    "cards1": [
       {
         "title": "Reliable payments",
         "alt": "car logo",
@@ -682,7 +677,7 @@
         "description": "As a member of the Blacklane crew, you'll be able to say you're a part of an international service, since we arrange rides for our partners and their guests in over 50 countries."
       }
     ],
-    "cards2":[
+    "cards2": [
       {
         "title": "Superior account management",
         "alt": "car logo",
@@ -696,92 +691,85 @@
     ]
   },
   "ChaufferRequirements": {
-    "alt":"Picture of a Business-woman using her computer in the backseat of the car",
-    "t1":"Requirements",
+    "alt": "Picture of a Business-woman using her computer in the backseat of the car",
+    "t1": "Requirements",
     "description": [
       "Valid company registration plus licenses and insurance for all chauffeurs and vehicles.",
       "Vehicles must be clean, undamaged, smoke-free, and in full compliance with local regulations.",
       "Companies must keep up-to-date with new standards and policies and ensure excellent quality."
     ],
-    "info":"Specifics vary, so please check the complete list for your location here:",
-    "buttonName":"View Local Requirements"
+    "info": "Specifics vary, so please check the complete list for your location here:",
+    "buttonName": "View Local Requirements"
   },
   "ChaufferOnboarding": {
-    "alt":"Picture of a Business-woman using her computer in the backseat of the car",
-    "t1":"Onboarding",
+    "alt": "Picture of a Business-woman using her computer in the backseat of the car",
+    "t1": "Onboarding",
     "description": [
-     "Get driving in four steps:",
-     "1. Apply through our onboarding portal",
-     "2. Upload your documentation for our team to review",
-     "3. Complete the training modules and have a short interview with us",
-     "4. Accept your first ride!"
+      "Get driving in four steps:",
+      "1. Apply through our onboarding portal",
+      "2. Upload your documentation for our team to review",
+      "3. Complete the training modules and have a short interview with us",
+      "4. Accept your first ride!"
     ],
-    "buttonName":"APPLY NOW"
+    "buttonName": "APPLY NOW"
   },
-  "ChaufferEnvironmentFriendly":{
-    "alt":"Picture of a Business-woman using her computer in the backseat of the car",
-    "t1":"Driving a sustainable future",
+  "ChaufferEnvironmentFriendly": {
+    "alt": "Picture of a Business-woman using her computer in the backseat of the car",
+    "t1": "Driving a sustainable future",
     "description": [
-     "We’re committed to reducing our environmental impact, which is why we are moving toward making all of our rides electric. Our acquisition of London-based, all-electric chauffeur service Haven’t has been one of our first major steps, as well as incorporating more electric vehicles into our fleets globally. Plus, every ride since 2017 is carbon offset and we’re working on offsetting all of our carbon emissions since the company’s founding in 2011."
+      "We’re committed to reducing our environmental impact, which is why we are moving toward making all of our rides electric. Our acquisition of London-based, all-electric chauffeur service Haven’t has been one of our first major steps, as well as incorporating more electric vehicles into our fleets globally. Plus, every ride since 2017 is carbon offset and we’re working on offsetting all of our carbon emissions since the company’s founding in 2011."
     ],
-    "buttonName":"LEARN MORE"
+    "buttonName": "LEARN MORE"
   },
-  "ChaufferContactUs":{
-    "Heading":"Have Questions? Contact Us Today!",
-    "Description":"Our team is ready to assist you with bookings, services, or any inquiries—reach out and get the support you need.",
-    "Button":"CONTACT US"
+  "ChaufferContactUs": {
+    "Heading": "Have Questions? Contact Us Today!",
+    "Description": "Our team is ready to assist you with bookings, services, or any inquiries—reach out and get the support you need.",
+    "Button": "CONTACT US"
   },
-  "ChaufferFAQ":{
-    "Heading":"Frequently Asked Questions",
-    "FAQData":[
-      
-    {
-      "question": "Can anyone become a Limospro partners?",
-      "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
-    },
-    {
-      "question": "How many rides can I do with Limospro per month?",
-      "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
-    },
-    {
-      "question": "How do I get paid?",
-      "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:   1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
-    },
-    {
-      "question": "Which vehicles can I use to work with Limospro?",
-      "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
-    },
-    {
-      "question": "How do I apply to partner with Limospro?",
-      "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
-    },
-    {
-      "question": "Does Limospro work with electric vehicles?",
-      "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
-    }
-      
+  "ChaufferFAQ": {
+    "Heading": "Frequently Asked Questions",
+    "FAQData": [
+      {
+        "question": "Can anyone become a Limospro partners?",
+        "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
+      },
+      {
+        "question": "How many rides can I do with Limospro per month?",
+        "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
+      },
+      {
+        "question": "How do I get paid?",
+        "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:   1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
+      },
+      {
+        "question": "Which vehicles can I use to work with Limospro?",
+        "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
+      },
+      {
+        "question": "How do I apply to partner with Limospro?",
+        "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
+      },
+      {
+        "question": "Does Limospro work with electric vehicles?",
+        "answer": "We only partner with insured, pre-existing chauffeur companies. To apply, you must:  1).Meet our vehicle requirements.  2).Submit documentation for your business, one vehicle, and either yourself or one of your company's chauffeurs   3).Once your account is active, you can add as many vehicles and chauffeurs as you wish.  4).You can check the vehicle and document requirements for your city and begin your partner application here."
+      }
     ]
   },
-  "RideBooking":{
-    "Placeholder":"Address, airport, hotel, ...",
-    "Instant":"Instant Ride",
-    "Schedule":"Schedule Ride",
-    "BookYourRide":"Book Your Ride",
-    "CheufferWait":"Chauffeur will wait 15 minutes free of charge.",
-    "Search":"Search Availability",
-    "AirportTransfer":"Airport Transfer",
-    "CitytoCity":"City to City",
-    "HourlyHire":"Hourly Hire",
-    "From":"From",
-    "To":"To",
-    "Duration":"Duration",
-    "TimePlaceholder":"Enter hours...",
-    "PickDate":"Pick Date",
-    "PickTime":"Pick Time"
+  "RideBooking": {
+    "Placeholder": "Address, airport, hotel, ...",
+    "Instant": "Instant Ride",
+    "Schedule": "Schedule Ride",
+    "BookYourRide": "Book Your Ride",
+    "CheufferWait": "Chauffeur will wait 15 minutes free of charge.",
+    "Search": "Search Availability",
+    "AirportTransfer": "Airport Transfer",
+    "CitytoCity": "City to City",
+    "HourlyHire": "Hourly Hire",
+    "From": "From",
+    "To": "To",
+    "Duration": "Duration",
+    "TimePlaceholder": "Enter hours...",
+    "PickDate": "Pick Date",
+    "PickTime": "Pick Time"
   }
-
-
-
-
- 
 }

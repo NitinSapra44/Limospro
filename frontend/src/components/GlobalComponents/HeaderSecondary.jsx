@@ -2,7 +2,7 @@ import Image from 'next/image'
 import { Menu, ChevronDown } from 'lucide-react'
 import { Button } from '../ui/button'
 import Link from 'next/link'
-import { useTranslations } from 'next-intl';
+import { useTranslations } from 'next-intl'
 
 import { Sheet, SheetContent, SheetTrigger, SheetTitle } from '@/components/ui/sheet'
 import {
@@ -21,7 +21,7 @@ import {
 } from '@/components/ui/dropdown-menu'
 
 export default function HeaderSecondary() {
-   const t = useTranslations();
+  const t = useTranslations()
   return (
     <header className="w-full   ">
       <div
@@ -134,7 +134,7 @@ export default function HeaderSecondary() {
                   style={{ fontFamily: 'var(--font-montserrat)' }}
                   className="font-bold text-black text-base flex items-center gap-1 hover:cursor-pointer"
                 >
-                   {t(menu.title)} <ChevronDown className="w-4 h-4" />
+                  {t(menu.title)} <ChevronDown className="w-4 h-4" />
                 </DropdownMenuTrigger>
                 <DropdownMenuContent className="bg-black shadow-lg rounded-md p-2 min-w-[180px]">
                   {menu.items.map((item, i) => (
@@ -144,7 +144,7 @@ export default function HeaderSecondary() {
                         href={item.href}
                         className="px-3 py-2 rounded text-white text-sm font-bold block hover:cursor-pointer"
                       >
-                       {t(item.name)}
+                        {t(item.name)}
                       </Link>
                     </DropdownMenuItem>
                   ))}

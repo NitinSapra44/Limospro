@@ -150,25 +150,25 @@
     "Button1": "TROUVER UNE VILLE",
     "Button2": "TROUVER UN AÉROPORT"
   },
- "SafetyAndPrivacy": {
-  "cards": [
-    {
-      "title": "Sécurité avant tout",
-      "alt": "Logo sécurité avant tout",
-      "description": "Voyagez l'esprit tranquille en sachant que votre sécurité est notre priorité absolue. Nous respectons les normes les plus strictes en matière d’hygiène des véhicules, de formation des chauffeurs et de protocoles de santé afin de garantir une expérience sûre et confortable à chaque trajet avec nous."
-    },
-    {
-      "title": "Solutions de voyage sur mesure",
-      "alt": "Logo solutions de voyage sur mesure",
-      "description": "Que vous réserviez un transfert rapide vers l’aéroport ou un déplacement professionnel d’une journée entière, nous proposons des services personnalisés pour répondre à vos besoins de voyage uniques. Des réservations horaires aux trajets de ville à ville, nous veillons à ce que vous receviez toujours le service adapté à votre emploi du temps."
-    },
-    {
-      "title": "Voyage écologique",
-      "alt": "Logo voyage écologique",
-      "description": "Dans le cadre de notre engagement en faveur du développement durable, nous compensons les émissions de carbone de chaque trajet que vous effectuez. Voyagez en sachant que vous contribuez à un avenir plus vert à chaque voyage, grâce à notre programme de compensation carbone — une première dans l’industrie."
-    }
-  ]
-},
+  "SafetyAndPrivacy": {
+    "cards": [
+      {
+        "title": "Sécurité avant tout",
+        "alt": "Logo sécurité avant tout",
+        "description": "Voyagez l'esprit tranquille en sachant que votre sécurité est notre priorité absolue. Nous respectons les normes les plus strictes en matière d’hygiène des véhicules, de formation des chauffeurs et de protocoles de santé afin de garantir une expérience sûre et confortable à chaque trajet avec nous."
+      },
+      {
+        "title": "Solutions de voyage sur mesure",
+        "alt": "Logo solutions de voyage sur mesure",
+        "description": "Que vous réserviez un transfert rapide vers l’aéroport ou un déplacement professionnel d’une journée entière, nous proposons des services personnalisés pour répondre à vos besoins de voyage uniques. Des réservations horaires aux trajets de ville à ville, nous veillons à ce que vous receviez toujours le service adapté à votre emploi du temps."
+      },
+      {
+        "title": "Voyage écologique",
+        "alt": "Logo voyage écologique",
+        "description": "Dans le cadre de notre engagement en faveur du développement durable, nous compensons les émissions de carbone de chaque trajet que vous effectuez. Voyagez en sachant que vous contribuez à un avenir plus vert à chaque voyage, grâce à notre programme de compensation carbone — une première dans l’industrie."
+      }
+    ]
+  },
 
   "CorporateGroundTransportation": {
     "alt": "Une image montrant une vue du volant de la voiture.",
@@ -182,7 +182,7 @@
     "t2": "Réunions et Événements Spéciaux",
     "description": "Rendez chaque réunion et événement sans effort grâce à nos services de voyage exécutif. Nous proposons un transport fiable et coordonné pour les conférences, les rencontres professionnelles et les occasions spéciales, avec tout le professionnalisme et le confort que mérite votre équipe."
   },
-   "BookARide": {
+  "BookARide": {
     "title": "Vous avez un trajet en tête ?",
     "description": "Saisissez vos lieux de prise en charge et de dépose pour voir le prix.",
     "Button": "RÉSERVER UN TRAJET DE VILLE À VILLE"
@@ -233,7 +233,7 @@
       }
     ]
   },
-   "OurPartners": {
+  "OurPartners": {
     "Heading1": "Nos",
     "Heading2": "Partenaires"
   },
@@ -260,7 +260,7 @@
       }
     ]
   },
-   "PremiumFleet": {
+  "PremiumFleet": {
     "Heading1": "Choisissez Votre Véhicule",
     "Heading2": "Découvrez Notre Flotte Premium",
     "Description1": "Trouvez le véhicule idéal pour votre voyage — berlines de luxe, SUV spacieux ou",
@@ -312,7 +312,7 @@
     "Feature6": "Sécurité",
     "Feature7": "Ponctualité"
   },
-   "ServiceInGlobalCities": {
+  "ServiceInGlobalCities": {
     "alt": "Image d'un volant",
     "t1": "Transfert aéroportuaire dans",
     "t2": "les Villes Globales",
@@ -339,7 +339,7 @@
     "service": "Services",
     "subservice": "Location à l’Heure"
   },
-   "WhyUsHourly": {
+  "WhyUsHourly": {
     "Heading1": "Pourquoi AAdmirals est votre meilleur choix pour",
     "Heading2": "une location horaire",
     "Feature1": "Votre sécurité, notre priorité",
@@ -350,23 +350,23 @@
     "Feature6": "Délais d'attente généreux",
     "Feature7": "Support client dédié"
   },
-   "MultiStopJourney": {
+  "MultiStopJourney": {
     "alt": "Image d'un volant",
     "t1": "Pour tous vos",
     "t2": "trajets à arrêts multiples",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-   "Navigation3": {
+  "Navigation3": {
     "service": "Destination",
     "subservice": "Houston"
   },
-   "ServiceForEveryOccasion": {
+  "ServiceForEveryOccasion": {
     "alt": "Plusieurs voitures alignées en rang",
     "t1": "Le meilleur service de voiture privée à Houston",
     "t2": "Service de limousine à Houston pour chaque occasion",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-   "WhyChoose": {
+  "WhyChoose": {
     "alt": "Homme d'affaires assis à l'arrière d'une voiture utilisant son ordinateur",
     "t1": "Service de limousine haut de gamme à Houston",
     "t2": "Pourquoi choisir notre service de limousine à Houston ?",
@@ -378,7 +378,7 @@
     "t2": "Comment réserver facilement nos services de limousine à Houston",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-   "BookARideHouston": {
+  "BookARideHouston": {
     "title": "Profitez d’un transport fiable vers l’aéroport de Houston avec un service de limousine vers IAH et Hobby.",
     "description": "Voyagez confortablement et avec style grâce à nos options premium de prise en charge et dépose à l’aéroport. Réservez maintenant !",
     "Button": "RÉSERVER MAINTENANT"
@@ -436,7 +436,7 @@
     "Description2": "Aujourd’hui, nous faisons partie des cinq principaux fournisseurs de transport terrestre dans les régions métropolitaines de Houston et Galveston, TX.",
     "Description3": "Nous sommes fiers de voir notre clientèle grandir chaque jour — preuve de la confiance et de la satisfaction de ceux que nous servons. Notre histoire continue alors que nous continuons à offrir excellence et connexion à notre communauté."
   },
-   "OurOfferingsAbout": {
+  "OurOfferingsAbout": {
     "Heading1": "Ce que nous offrons",
     "Heading2": "Découvrez des services premium de limousine et de transport conçus pour offrir confort, style et fiabilité.",
     "cards": [
@@ -452,7 +452,7 @@
       }
     ]
   },
-   "OurValuesAbout": {
+  "OurValuesAbout": {
     "Heading1": "L'excellence à Chaque Kilomètre",
     "Heading2": "Nos Valeurs",
     "Description": "L’intégrité, la transparence, la sécurité, le respect du temps et un service client irréprochable nous maintiendront toujours très demandés.",
@@ -490,16 +490,16 @@
     "Feature5": "Aucun frais caché",
     "Feature6": "Voitures propres"
   },
-   "Navigation4": {
+  "Navigation4": {
     "service": "Affaires et Diplomates",
     "subservice": "Entreprises"
   },
-   "HeroSectionBC": {
+  "HeroSectionBC": {
     "Heading1": "Fiable pour les Professionnels.",
     "Heading2": " Préféré par les Diplomates. Prêt pour Vous.",
     "Button": "RÉSERVER UN TRAJET"
   },
-   "BCServices": {
+  "BCServices": {
     "cards": [
       {
         "title": "Votre chauffeur, à votre rythme",
@@ -526,7 +526,7 @@
     "Link2": "des événements sportifs, des concerts,",
     "P4": "et plus encore."
   },
-   "CorporateServiceOfferings": {
+  "CorporateServiceOfferings": {
     "cards": [
       {
         "title": "Conférences d'entreprise et salons professionnels",
@@ -607,7 +607,7 @@
     "subservice": "Pour Chauffeurs",
     "Heading": "Devenir Chauffeur Partenaire"
   },
-   "ChaufferHeroSection": {
+  "ChaufferHeroSection": {
     "Heading": "Développez votre activité avec Limospro",
     "Description": "L’application et le portail web de Limospro connectent des chauffeurs partenaires agréés et assurés avec une clientèle mondiale composée de voyageurs d’affaires et de loisirs.",
     "Button": "Devenir Partenaire"
@@ -616,7 +616,7 @@
     "Heading": "Limospro représente 60 % de mes revenus. Je suis passé de 2 à 20 chauffeurs et possède maintenant 10 véhicules grâce à notre collaboration.",
     "Description": "John Black, chauffeur Limospro, DC"
   },
-   "ChaufferBenefits": {
+  "ChaufferBenefits": {
     "cards1": [
       {
         "title": "Paiements fiables",
@@ -712,7 +712,7 @@
       }
     ]
   },
- "RideBooking": {
+  "RideBooking": {
     "Placeholder": "Adresse, aéroport, hôtel, ...",
     "Instant": "Course instantanée",
     "Schedule": "Planifier la course",
@@ -729,7 +729,4 @@
     "PickDate": "Choisir la date",
     "PickTime": "Choisir l’heure"
   }
-
-
-
 }

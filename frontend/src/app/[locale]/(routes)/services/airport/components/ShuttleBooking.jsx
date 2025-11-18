@@ -3,7 +3,7 @@ import { ShuttleBookingData as data } from '../data/ATData'
 import { useTranslations } from 'next-intl'
 
 export default function ShuttleBooking() {
-    const t = useTranslations('ShuttleBooking')
+  const t = useTranslations('ShuttleBooking')
   return (
     <section
       aria-label="Airport Transfer Feature Card"

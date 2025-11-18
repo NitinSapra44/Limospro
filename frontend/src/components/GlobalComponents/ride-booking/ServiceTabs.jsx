@@ -4,7 +4,7 @@ import { LocationInput } from './LocationInput'
 import { useTranslations } from 'next-intl'
 
 export function ServiceTabs() {
-    const t = useTranslations('RideBooking')
+  const t = useTranslations('RideBooking')
   return (
     <Tabs defaultValue="airport" className="w-full">
       <TabsList className="grid w-full grid-cols-3">
@@ -20,14 +20,14 @@ export function ServiceTabs() {
           value="city"
           className="text-xs hover:cursor-pointer"
         >
-         {t('CitytoCity')}
+          {t('CitytoCity')}
         </TabsTrigger>
         <TabsTrigger
           style={{ fontFamily: 'var(--font-montserrat)' }}
           value="hourly"
           className="text-xs hover:cursor-pointer"
         >
-         {t('HourlyHire')}
+          {t('HourlyHire')}
         </TabsTrigger>
       </TabsList>
 
@@ -47,7 +47,7 @@ export function ServiceTabs() {
 
       {/* Hourly Hire */}
       <TabsContent value="hourly" className="mt-3 space-y-4">
-        <LocationInput label={t('From')}/>
+        <LocationInput label={t('From')} />
         <Separator />
         <LocationInput label={t('To')} />
         <Separator />

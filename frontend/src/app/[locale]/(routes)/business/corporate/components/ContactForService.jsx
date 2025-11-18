@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button'
 import { useTranslations } from 'next-intl'
 export default function ContactForService() {
-       const t = useTranslations('ContactForService') 
+  const t = useTranslations('ContactForService')
   return (
     <section
       aria-labelledby="contact-cta-heading"
@@ -17,7 +17,7 @@ export default function ContactForService() {
             {t('Heading')}
           </h2>
           <p style={{ fontFamily: 'var(--font-varela)' }} className="text-base">
-          {t('Description')}
+            {t('Description')}
           </p>
         </div>
         <div>
@@ -26,7 +26,7 @@ export default function ContactForService() {
             style={{ fontFamily: 'var(--font-montserrat)' }}
             className="bg-gradient-to-r from-[#0062C4] to-[#004C97] text-base !font-bold px-10 py-8 hover:cursor-pointer"
           >
-           {t('Button')}
+            {t('Button')}
           </Button>
         </div>
       </div>

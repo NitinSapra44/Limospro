@@ -2,7 +2,7 @@ import ImageCardWithTextOnSide from '@/components/GlobalComponents/Reusable-Card
 import { WhyChooseData as data } from '../data/Houston'
 import { useTranslations } from 'next-intl'
 export default function WhyChoose() {
-   const t = useTranslations('WhyChoose')
+  const t = useTranslations('WhyChoose')
   return (
     <section
       aria-labelledby="houston-fleet-heading"
@@ -16,10 +16,10 @@ export default function WhyChoose() {
           <ImageCardWithTextOnSide
             imageLeft={true}
             src={data.src}
-          alt={t('alt')}
-          t1={t('t1')}
-          t2={t('t2')}
-          description={t('description')}
+            alt={t('alt')}
+            t1={t('t1')}
+            t2={t('t2')}
+            description={t('description')}
           />
         </article>
       </div>

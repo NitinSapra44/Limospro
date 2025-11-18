@@ -16,7 +16,7 @@ export default function CityRoutes() {
             style={{ fontFamily: 'var(--font-quicksand)' }}
             className="text-base lg:text-lg text-[#2C2C2C] font-semibold items-start"
           >
-             {t('headingTop')}
+            {t('headingTop')}
           </p>
           <h2
             id="city-routes-heading"
@@ -29,8 +29,9 @@ export default function CityRoutes() {
             style={{ fontFamily: 'var(--font-varela)' }}
             className="text-base lg:text-lg text-[#2C2C2C] items-start"
           >
-          {t('description1')}
-            <br className="hidden lg:flex" />{t('description2')}
+            {t('description1')}
+            <br className="hidden lg:flex" />
+            {t('description2')}
           </p>
         </div>
 

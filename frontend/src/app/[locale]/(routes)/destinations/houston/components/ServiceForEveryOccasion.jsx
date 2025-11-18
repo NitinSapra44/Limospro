@@ -2,7 +2,7 @@ import ImageCardWithTextOnSide from '@/components/GlobalComponents/Reusable-Card
 import { ServiceForEveryOccasionData as data } from '../data/Houston'
 import { useTranslations } from 'next-intl'
 export default function ServiceForEveryOccasion() {
-    const t = useTranslations('ServiceForEveryOccasion')
+  const t = useTranslations('ServiceForEveryOccasion')
   return (
     <section
       aria-labelledby="houston-features-heading"
@@ -16,10 +16,10 @@ export default function ServiceForEveryOccasion() {
           <ImageCardWithTextOnSide
             imageLeft={false}
             src={data.src}
-              alt={t('alt')}
-          t1={t('t1')}
-          t2={t('t2')}
-          description={t('description')}
+            alt={t('alt')}
+            t1={t('t1')}
+            t2={t('t2')}
+            description={t('description')}
           />
         </article>
       </div>

@@ -6,7 +6,7 @@ import { Separator } from '@/components/ui/separator'
 import { useTranslations } from 'next-intl'
 
 export default function PriceCard({ src, alt, priceInfo, rating, CarInfo, features }) {
-    const t = useTranslations('BookNow')
+  const t = useTranslations('BookNow')
   return (
     <div className="flex flex-col ">
       <div className="relative h-64">

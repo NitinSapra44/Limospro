@@ -3,7 +3,7 @@ import { SafetyAndPrivacyData } from '../data/HomePageData'
 import { useTranslations } from 'next-intl'
 
 export default function SafetyAndPrivacy() {
-   const t = useTranslations('SafetyAndPrivacy')
+  const t = useTranslations('SafetyAndPrivacy')
   return (
     <section id="highlights" aria-labelledby="highlights-heading" className="w-full flex py-16">
       <div className="flex flex-col lg:w-[80%] max-w-[1440px] w-full mx-auto gap-4 items-start">

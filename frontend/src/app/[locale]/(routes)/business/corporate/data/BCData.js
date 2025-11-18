@@ -1,21 +1,21 @@
-export const  ServicesData = [
+export const ServicesData = [
   {
     src: '/Logos/logo-car-traffic.png',
     alt: 'cards.0.alt',
     title: 'cards.0.title',
-    description:'cards.0.description',
+    description: 'cards.0.description',
   },
   {
     src: '/Logos/logo-building.png',
     alt: 'cards.1.alt',
     title: 'cards.1.title',
-    description:'cards.1.description',
+    description: 'cards.1.description',
   },
   {
     src: '/Logos/logo-focus.png',
     alt: 'cards.2.alt',
     title: 'cards.2.title',
-    description:'cards.2.description',
+    description: 'cards.2.description',
   },
 ]
 
@@ -24,19 +24,19 @@ export const CorporateServiceOfferingsData = [
     src: '/Pictures/pic-business-woman.png',
     alt: 'cards.0.alt',
     title: 'cards.0.title',
-    description:'cards.0.description',
+    description: 'cards.0.description',
   },
   {
     src: '/Pictures/pic-business-woman.png',
     alt: 'cards.1.alt',
     title: 'cards.1.title',
-    description:'cards.1.description',
+    description: 'cards.1.description',
   },
   {
     src: '/Pictures/pic-business-woman.png',
     alt: 'cards.2.alt',
     title: 'cards.2.title',
-    description:'cards.2.description',
+    description: 'cards.2.description',
   },
 ]
 
@@ -45,37 +45,37 @@ export const CorporateServicesAndFeaturesData = [
     src: '/Logos/logo-car-traffic.png',
     alt: 'cards.0.alt',
     title: 'cards.0.title',
-    description:'cards.0.description',
+    description: 'cards.0.description',
   },
   {
     src: '/Logos/logo-building.png',
     alt: 'cards.1.alt',
     title: 'cards.1.title',
-    description:'cards.1.description',
+    description: 'cards.1.description',
   },
   {
     src: '/Logos/logo-focus.png',
     alt: 'cards.2.alt',
     title: 'cards.2.title',
-    description:'cards.2.description',
+    description: 'cards.2.description',
   },
   {
     src: '/Logos/logo-focus.png',
-   alt: 'cards.3.alt',
+    alt: 'cards.3.alt',
     title: 'cards.3.title',
-    description:'cards.3.description',
+    description: 'cards.3.description',
   },
   {
     src: '/Logos/logo-focus.png',
-   alt: 'cards.4.alt',
+    alt: 'cards.4.alt',
     title: 'cards.4.title',
-    description:'cards.4.description',
+    description: 'cards.4.description',
   },
   {
     src: '/Logos/logo-focus.png',
     alt: 'cards.5.alt',
     title: 'cards.5.title',
-    description:'cards.5.description',
+    description: 'cards.5.description',
   },
 ]
 

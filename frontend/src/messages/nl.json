@@ -152,26 +152,26 @@
     "Button1": "ZOEK STAD",
     "Button2": "ZOEK LUCHTHAVEN"
   },
- "SafetyAndPrivacy": {
-  "cards": [
-    {
-      "title": "Veiligheid eerst",
-      "alt": "Veiligheid eerst logo",
-      "description": "Reis met een gerust hart, wetende dat uw veiligheid onze hoogste prioriteit is. Wij hanteren de strengste normen op het gebied van voertuighygiëne, chauffeurstraining en gezondheidsprotocollen om elke keer dat u met ons reist een veilige en comfortabele ervaring te garanderen."
-    },
-    {
-      "title": "Op maat gemaakte reisoplossingen",
-      "alt": "Op maat gemaakte reisoplossingen logo",
-      "description": "Of u nu een snelle luchthaventransfer boekt of een zakelijke dagtrip, wij bieden gepersonaliseerde diensten die aansluiten op uw unieke reisbehoeften. Van uurtarieven tot stad-naar-stad ritten, wij zorgen ervoor dat u altijd de service krijgt die past bij uw planning."
-    },
-    {
-      "title": "Milieuvriendelijk reizen",
-      "alt": "Milieuvriendelijk reizen logo",
-      "description": "Als onderdeel van ons streven naar duurzaamheid compenseren wij de CO₂-uitstoot van elke rit die u maakt. Reis met de zekerheid dat u bijdraagt aan een groenere planeet bij elke reis, dankzij ons CO₂-compensatieprogramma — een primeur in de branche."
-    }
-  ]
-},
- "CorporateGroundTransportation": {
+  "SafetyAndPrivacy": {
+    "cards": [
+      {
+        "title": "Veiligheid eerst",
+        "alt": "Veiligheid eerst logo",
+        "description": "Reis met een gerust hart, wetende dat uw veiligheid onze hoogste prioriteit is. Wij hanteren de strengste normen op het gebied van voertuighygiëne, chauffeurstraining en gezondheidsprotocollen om elke keer dat u met ons reist een veilige en comfortabele ervaring te garanderen."
+      },
+      {
+        "title": "Op maat gemaakte reisoplossingen",
+        "alt": "Op maat gemaakte reisoplossingen logo",
+        "description": "Of u nu een snelle luchthaventransfer boekt of een zakelijke dagtrip, wij bieden gepersonaliseerde diensten die aansluiten op uw unieke reisbehoeften. Van uurtarieven tot stad-naar-stad ritten, wij zorgen ervoor dat u altijd de service krijgt die past bij uw planning."
+      },
+      {
+        "title": "Milieuvriendelijk reizen",
+        "alt": "Milieuvriendelijk reizen logo",
+        "description": "Als onderdeel van ons streven naar duurzaamheid compenseren wij de CO₂-uitstoot van elke rit die u maakt. Reis met de zekerheid dat u bijdraagt aan een groenere planeet bij elke reis, dankzij ons CO₂-compensatieprogramma — een primeur in de branche."
+      }
+    ]
+  },
+  "CorporateGroundTransportation": {
     "alt": "Een afbeelding met zicht op het stuur van de auto.",
     "t1": "Complete oplossingen voor",
     "t2": "Zakelijk Vervoer over de Weg",
@@ -183,17 +183,17 @@
     "t2": "Vergaderingen en Speciale Evenementen",
     "description": "Maak elke vergadering en elk evenement moeiteloos met onze executive vervoersdiensten. Wij bieden betrouwbaar en gecoördineerd vervoer voor conferenties, zakelijke bijeenkomsten en speciale gelegenheden — allemaal met het professionalisme en comfort dat uw team verdient."
   },
-   "BookARide": {
+  "BookARide": {
     "title": "Heb je een route in gedachten?",
     "description": "Voer je ophaal- en afzetlocaties in om de prijs te zien.",
     "Button": "BOEK EEN RIT VAN STAD TOT STAD"
   },
-   "DownloadOptions": {
+  "DownloadOptions": {
     "Heading": "Download de app",
     "Description1": "Boek, wijzig of annuleer eenvoudig ritten onderweg.",
     "Description2": "Zie het als gemoedsrust in de palm van je hand."
   },
-   "Testimonial": {
+  "Testimonial": {
     "Heading": "Klantbeoordelingen",
     "TestimonialCards": [
       {
@@ -234,11 +234,11 @@
       }
     ]
   },
-   "OurPartners": {
+  "OurPartners": {
     "Heading1": "Onze",
     "Heading2": "Partners"
   },
-   "Navigation": {
+  "Navigation": {
     "service": "Diensten",
     "subservice": "Luchthavenvervoer"
   },
@@ -299,7 +299,7 @@
       }
     ]
   },
-   "BookNow": {
+  "BookNow": {
     "BookNow": "Nu Boeken"
   },
   "whyUs": {
@@ -331,7 +331,7 @@
     "t2": "Shuttle Boeking",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-    "FAQ": {
+  "FAQ": {
     "Heading": "De Meest Gestelde Vragen",
     "Question": "Wat doet een luchthavenvervoer?",
     "Answer": "Een luchthaven transfer is een privé autoservice die reizigers van en naar de luchthaven vervoert vanuit een stad of vervoersknooppunt. Professionele luchthaventransfers zoals Blacklane bieden voertuigen met chauffeur om passagiers op te halen bij de terminal nadat zij hun bagage hebben opgehaald, of hen ruim op tijd bij hun vertrekgate af te zetten. Als wereldwijd bedrijf is Blacklane ideaal voor luchthavenvervoer omdat zij de behoeften van passagiers aan beide kanten van een internationale vlucht kunnen verzorgen."
@@ -351,7 +351,7 @@
     "Feature6": "Royale wachttijden",
     "Feature7": "Toegewijde klantenservice"
   },
-   "MultiStopJourney": {
+  "MultiStopJourney": {
     "alt": "Afbeelding van een stuurwiel",
     "t1": "Voor al uw",
     "t2": "reizen met meerdere stops",
@@ -373,7 +373,7 @@
     "t2": "Waarom kiezen voor onze limousineservice in Houston?",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-   "HowToBook": {
+  "HowToBook": {
     "alt": "Zakenman die in een taxi stapt vanaf zijn privévliegtuig",
     "t1": "Snel en eenvoudig boeken",
     "t2": "Hoe u eenvoudig onze limousineservice in Houston kunt boeken",
@@ -414,7 +414,7 @@
       }
     ]
   },
-   "ContactForm": {
+  "ContactForm": {
     "h1": "Neem Vandaag Contact Op",
     "h2": "Wij staan klaar om te helpen —",
     "Email": "E-mail",
@@ -425,12 +425,12 @@
     "MessagePlaceholder": "Schrijf uw bericht",
     "Button": "VERZENDEN"
   },
-   "HeroSectionAbout": {
+  "HeroSectionAbout": {
     "Heading1": "Gebouwd op vertrouwen.",
     "Heading2": " Gedreven door ervaring.",
     "Button": "RIT BOEKEN"
   },
-   "OurStoryAbout": {
+  "OurStoryAbout": {
     "Heading1": "Het Verhaal",
     "Heading2": "Onze Reis Begint Hier",
     "Description1": "AAdmirals Travel & Transportation werd in 2013 opgericht als een eenmanszaak om privé luchthavenvervoer, limousines en andere grondtransportdiensten aan te bieden in de regio’s Houston en Galveston. Na een snelle groei in klantenbestand, verkoop en internationale partnernetwerken, werd het bedrijf omgezet in een officiële onderneming. Nieuwe voertuigen werden toegevoegd om elk aantal passagiers te kunnen vervoeren, professionele chauffeurs werden aangenomen en duidelijke operationele procedures werden vastgesteld om uitzonderlijke servicekwaliteit te garanderen.",
@@ -453,7 +453,7 @@
       }
     ]
   },
-    "OurValuesAbout": {
+  "OurValuesAbout": {
     "Heading1": "Perfectie in Elke Kilometer",
     "Heading2": "Onze Waarden",
     "Description": "Integriteit, transparantie, veiligheid, respect voor tijd en uitstekende klantenservice zorgen ervoor dat we altijd gevraagd worden.",
@@ -480,7 +480,7 @@
       }
     ]
   },
-   "OurPeers": {
+  "OurPeers": {
     "Heading1": "Betere service, betere functies",
     "Heading2": "Zie hoe wij voorop lopen!",
     "Description": "Bij AAdmirals Travel gaan we verder dan alleen transport. Van eenvoudig online boeken en realtime tracking tot professionele chauffeurs en een goed onderhouden wagenpark — alles is ontworpen om u een soepele en stressvrije ervaring te bieden. Ontdek wat ons uniek maakt.",
@@ -491,7 +491,7 @@
     "Feature5": "Geen verborgen kosten",
     "Feature6": "Schone auto's"
   },
-   "Navigation4": {
+  "Navigation4": {
     "service": "Zakelijk & Diplomaten",
     "subservice": "Bedrijven"
   },
@@ -500,7 +500,7 @@
     "Heading2": " Gewaardeerd door Diplomaten. Klaar voor U.",
     "Button": "RIT BOEKEN"
   },
-   "BCServices": {
+  "BCServices": {
     "cards": [
       {
         "title": "Uw chauffeur, uw tempo",
@@ -519,7 +519,7 @@
       }
     ]
   },
-    "DedicatedServiceSection": {
+  "DedicatedServiceSection": {
     "P1": "Persoonlijke zwarte autoservice per uur voor evenementen",
     "P2": "Een persoonlijke Blacklane voor een evenement boeken? Onze",
     "Link1": "toegewijde service per uur",
@@ -527,7 +527,7 @@
     "Link2": "sportevenementen, concerten,",
     "P4": "en meer."
   },
-   "CorporateServiceOfferings": {
+  "CorporateServiceOfferings": {
     "cards": [
       {
         "title": "Zakelijke conferenties en beurzen",
@@ -546,7 +546,7 @@
       }
     ]
   },
-   "CorporateServicesAndFeatures": {
+  "CorporateServicesAndFeatures": {
     "cards": [
       {
         "title": "Toegewijd evenemententeam",
@@ -603,7 +603,7 @@
     "Description": "Ervaar executive vervoer ontworpen voor prestaties, professionaliteit en gemoedsrust.",
     "Button": "NU CONTACT OPNEMEN"
   },
-   "ChaufferHeading": {
+  "ChaufferHeading": {
     "Service": "Home",
     "subservice": "Voor Chauffeurs",
     "Heading": "Word Chauffeurspartner"
@@ -713,7 +713,7 @@
       }
     ]
   },
- "RideBooking": {
+  "RideBooking": {
     "Placeholder": "Adres, luchthaven, hotel, ...",
     "Instant": "Directe rit",
     "Schedule": "Rit plannen",
@@ -730,6 +730,4 @@
     "PickDate": "Datum kiezen",
     "PickTime": "Tijd kiezen"
   }
-
-
 }

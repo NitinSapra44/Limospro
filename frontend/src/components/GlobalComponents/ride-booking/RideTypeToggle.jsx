@@ -3,7 +3,7 @@
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group'
 import { useTranslations } from 'next-intl'
 export function RideTypeToggle({ rideType, setRideType }) {
-   const t = useTranslations('RideBooking')
+  const t = useTranslations('RideBooking')
   return (
     <ToggleGroup
       type="single"
@@ -24,7 +24,7 @@ export function RideTypeToggle({ rideType, setRideType }) {
         className="w-full h-auto py-2 text-sm data-[state=on]:bg-gradient-to-r data-[state=on]:from-[#001121] data-[state=on]:to-[#003366] data-[state=on]:text-white data-[state=off]:text-[#B5C0C8] data-[state=on]:rounded-full hover:cursor-pointer"
         aria-label="Select Schedule Booking"
       >
-       {t('Schedule')}
+        {t('Schedule')}
       </ToggleGroupItem>
     </ToggleGroup>
   )

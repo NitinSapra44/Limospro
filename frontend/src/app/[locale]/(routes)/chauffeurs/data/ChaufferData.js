@@ -3,19 +3,19 @@ export const BenefitsData1 = [
     src: '/Logos/logo-car-thin.png',
     title: 'cards1.0.title',
     alt: 'cards1.0.alt',
-    description:'cards1.0.description'
+    description: 'cards1.0.description',
   },
   {
     src: '/Logos/logo-car-thin.png',
     title: 'cards1.1.title',
     alt: 'cards1.1.alt',
-    description:'cards1.1.description'
+    description: 'cards1.1.description',
   },
   {
     src: '/Logos/logo-car-thin.png',
-     title: 'cards1.2.title',
+    title: 'cards1.2.title',
     alt: 'cards1.2.alt',
-    description:'cards1.2.description'
+    description: 'cards1.2.description',
   },
 ]
 
@@ -24,13 +24,13 @@ export const BenefitsData2 = [
     src: '/Logos/logo-car-thin.png',
     title: 'cards2.0.title',
     alt: 'cards2.0.alt',
-    description:'cards2.0.description'
+    description: 'cards2.0.description',
   },
   {
     src: '/Logos/logo-car-thin.png',
-     title: 'cards2.1.title',
+    title: 'cards2.1.title',
     alt: 'cards2.1.alt',
-    description:'cards2.1.description'
+    description: 'cards2.1.description',
   },
 ]
 
@@ -76,26 +76,26 @@ export const EnvironmentFriendlyData = {
 export const FAQData = [
   {
     question: 'FAQData.0.question',
-    answer: 'FAQData.0.answer'
+    answer: 'FAQData.0.answer',
   },
   {
-     question: 'FAQData.1.question',
-     answer: 'FAQData.1.answer'
+    question: 'FAQData.1.question',
+    answer: 'FAQData.1.answer',
   },
   {
     question: 'FAQData.2.question',
-    answer: 'FAQData.2.answer'
+    answer: 'FAQData.2.answer',
   },
   {
-     question: 'FAQData.3.question',
-     answer: 'FAQData.3.answer'
-  }, 
+    question: 'FAQData.3.question',
+    answer: 'FAQData.3.answer',
+  },
   {
     question: 'FAQData.4.question',
-    answer: 'FAQData.4.answer'
+    answer: 'FAQData.4.answer',
   },
   {
-     question: 'FAQData.5.question',
-     answer: 'FAQData.5.answer'
+    question: 'FAQData.5.question',
+    answer: 'FAQData.5.answer',
   },
 ]

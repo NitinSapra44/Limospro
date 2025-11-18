@@ -1,6 +1,6 @@
 import { useTranslations } from 'next-intl'
 export default function Testimony() {
-  const t = useTranslations('ChaufferTestimony') 
+  const t = useTranslations('ChaufferTestimony')
   return (
     <section
       aria-label="Chauffeur Testimonial"
@@ -28,7 +28,7 @@ export default function Testimony() {
               style={{ fontFamily: 'var(--font-quicksand)' }}
               className="font-semibold text-base lg:text-lg"
             >
-             {t('Description')}
+              {t('Description')}
             </cite>
           </footer>
         </blockquote>

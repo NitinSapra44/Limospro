@@ -3,7 +3,6 @@
 import HeroSection from '@/components/GlobalComponents/HeroSection'
 import dynamic from 'next/dynamic'
 
-
 const RideBookingCard = dynamic(
   () => import('@/components/GlobalComponents/ride-booking/RideBookingCard'),
   { ssr: false } // disable server-side rendering
@@ -31,13 +30,13 @@ export default function HeroSectionHourly() {
             className="text-white text-xl text-start md:text-2xl lg:text-4xl font-bold"
           >
             {t('title').split(' ')[0]} <br className="hidden lg:flex" />
-              {t('title').split(' ').slice(1).join(' ')}
+            {t('title').split(' ').slice(1).join(' ')}
           </h1>
           <p
             style={{ fontFamily: 'var(--font-montserrat)' }}
             className="text-white text-start text-base md:text-lg lg:text-lg"
           >
-         {t('description')}
+            {t('description')}
           </p>
         </div>
 

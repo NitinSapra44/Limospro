@@ -43,10 +43,7 @@ export default function Page() {
   return (
     <main>
       <HeroSectionHouston />
-          <Features 
-              Service={t('service')}        
-              Subservice={t('subservice')}   
-            />
+      <Features Service={t('service')} Subservice={t('subservice')} />
       <ServiceForEveryOccasion />
       <WhyChoose />
       <HowToBook />

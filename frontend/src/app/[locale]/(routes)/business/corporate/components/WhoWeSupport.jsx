@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button'
 import { WhoWeSupportData as data } from '../../corporate/data/BCData'
 import { useTranslations } from 'next-intl'
 export default function WhoWeSupport() {
-   const t = useTranslations('WhoWeSupport') 
+  const t = useTranslations('WhoWeSupport')
   return (
     <section
       aria-labelledby="featured-service-heading"

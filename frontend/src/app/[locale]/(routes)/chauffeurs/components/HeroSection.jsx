@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button'
 import { useTranslations } from 'next-intl'
 
 export default function HeroSection() {
-    const t = useTranslations('ChaufferHeroSection') 
+  const t = useTranslations('ChaufferHeroSection')
   return (
     <section aria-label="Chauffeur Hero Section">
       <HeroSectionText

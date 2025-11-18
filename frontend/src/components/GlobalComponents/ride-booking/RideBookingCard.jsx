@@ -24,7 +24,7 @@ export default function RideBookingCard() {
 
   const showMap = rideType === 'instant'
 
-return (
+  return (
     <>
       {showMap ? (
         // INSTANT RIDE - Original card layout with map
@@ -36,16 +36,14 @@ return (
                 style={{ fontFamily: 'var(--font-montserrat)' }}
                 className="text-2xl xl:text-4xl pb-2 text-center font-bold tracking-tight"
               >
-               {t('BookYourRide')}
+                {t('BookYourRide')}
               </CardTitle>
             </CardHeader>
 
             <CardContent className="space-y-2">
               <RideTypeToggle rideType={rideType} setRideType={setRideType} />
               <ServiceTabs />
-              <p className="text-sm text-center text-gray-500 pt-2">
-                {t('CheufferWait')}
-              </p>
+              <p className="text-sm text-center text-gray-500 pt-2">{t('CheufferWait')}</p>
               <SearchButton />
             </CardContent>
           </div>
@@ -74,7 +72,7 @@ return (
         <div className="w-full flex flex-col md:flex-row transition-all duration-300">
           {/* LEFT SIDE - Empty space */}
           <div className="hidden md:block md:w-[50%]" />
-          
+
           {/* RIGHT SIDE - Content Card */}
           <Card className="w-full py-5 lg:pr-3 shadow-lg rtl:p-4 transition-all duration-300 md:w-[50%]">
             <CardHeader>
@@ -82,7 +80,7 @@ return (
                 style={{ fontFamily: 'var(--font-montserrat)' }}
                 className="text-2xl xl:text-4xl pb-2 text-center font-bold tracking-tight"
               >
-                 {t('BookYourRide')}
+                {t('BookYourRide')}
               </CardTitle>
             </CardHeader>
 
@@ -90,9 +88,7 @@ return (
               <RideTypeToggle rideType={rideType} setRideType={setRideType} />
               <ServiceTabs />
               {rideType === 'schedule' && <ScheduleBookingFields />}
-              <p className="text-sm text-center text-gray-500 pt-2">
-               {t('CheufferWait')}
-              </p>
+              <p className="text-sm text-center text-gray-500 pt-2">{t('CheufferWait')}</p>
               <SearchButton />
             </CardContent>
           </Card>

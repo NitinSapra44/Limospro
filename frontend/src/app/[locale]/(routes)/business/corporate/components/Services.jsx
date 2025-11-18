@@ -10,7 +10,7 @@ import { ServicesData } from '../data/BCData'
 import { useTranslations } from 'next-intl'
 
 export default function Services({ Service, Subservice }) {
-     const t = useTranslations('BCServices') 
+  const t = useTranslations('BCServices')
   return (
     <section
       aria-labelledby="corporate-services-heading"

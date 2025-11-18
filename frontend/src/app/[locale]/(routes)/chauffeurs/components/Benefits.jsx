@@ -3,7 +3,7 @@ import InfoCard from '@/components/GlobalComponents/Reusable-Cards/InfoCard'
 import { useTranslations } from 'next-intl'
 
 export default function Benefits() {
-  const t = useTranslations('ChaufferBenefits') 
+  const t = useTranslations('ChaufferBenefits')
   return (
     <section
       aria-label="Chauffeur Benefits and Features"

@@ -5,13 +5,13 @@ import { useTranslations } from 'next-intl'
 export default function WhyUs() {
   const t = useTranslations('WhyUsHourly')
   const features = [
-     t('Feature1'),
-                  t('Feature2'),
-                  t('Feature3'),
-                  t('Feature4'),
-                  t('Feature5'),
-                  t('Feature6'),
-                  t('Feature7'),
+    t('Feature1'),
+    t('Feature2'),
+    t('Feature3'),
+    t('Feature4'),
+    t('Feature5'),
+    t('Feature6'),
+    t('Feature7'),
   ]
 
   return (
@@ -42,7 +42,7 @@ export default function WhyUs() {
                 style={{ fontFamily: 'var(--font-montserrat)' }}
                 className="font-extrabold text-white text-2xl md:text-4xl"
               >
-               {t('Heading2')}
+                {t('Heading2')}
               </h2>
             </div>
 

@@ -8,7 +8,7 @@ import {
 import { useTranslations } from 'next-intl'
 
 export default function heading() {
-  const t = useTranslations('ChaufferHeading') 
+  const t = useTranslations('ChaufferHeading')
   return (
     <header className="w-full py-12 flex justify-center items-center">
       <div className="w-[80%] max-w-[1440px] flex flex-col gap-3">
@@ -42,7 +42,7 @@ export default function heading() {
           style={{ fontFamily: 'var(--font-montserrat)' }}
           className="text-4xl font-bold text-[#003366]"
         >
-           {t('Heading')}
+          {t('Heading')}
         </h1>
       </div>
     </header>

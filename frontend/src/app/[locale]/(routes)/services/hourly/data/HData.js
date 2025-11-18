@@ -3,22 +3,19 @@ export const FeaturesData = [
     src: '/Logos/logo-car-thin.png',
     alt: 'Features.cards.0.alt',
     title: 'Features.cards.0.title',
-    description:
-      'Features.cards.0.description',
+    description: 'Features.cards.0.description',
   },
   {
     src: '/Logos/logo-price.png',
-     alt: 'Features.cards.1.alt',
+    alt: 'Features.cards.1.alt',
     title: 'Features.cards.1.title',
-    description:
-      'Features.cards.1.description',
+    description: 'Features.cards.1.description',
   },
   {
     src: '/Logos/logo-car-privateride.png',
-     alt: 'Features.cards.1.alt',
+    alt: 'Features.cards.1.alt',
     title: 'Features.cards.1.title',
-    description:
-      'Features.cards.1.description',
+    description: 'Features.cards.1.description',
   },
 ]
 
@@ -49,7 +46,6 @@ export const PremiumFleetData = [
   },
 ]
 
-
 export const MultiStopJourneyData = {
   src: '/Pictures/pic-steering-wheel.png',
   alt: 'Picture of a Steering wheel',
@@ -61,18 +57,18 @@ export const MultiStopJourneyData = {
 export const FAQData = [
   {
     question: 'FAQ.Question',
-    answer:'FAQ.Answer'
+    answer: 'FAQ.Answer',
   },
- {
+  {
     question: 'FAQ.Question',
-    answer:'FAQ.Answer'
+    answer: 'FAQ.Answer',
   },
- {
+  {
     question: 'FAQ.Question',
-    answer:'FAQ.Answer'
+    answer: 'FAQ.Answer',
   },
- {
+  {
     question: 'FAQ.Question',
-    answer:'FAQ.Answer'
+    answer: 'FAQ.Answer',
   },
 ]

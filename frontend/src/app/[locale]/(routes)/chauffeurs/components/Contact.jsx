@@ -1,7 +1,7 @@
 import { Button } from '@/components/ui/button'
 import { useTranslations } from 'next-intl'
 export default function Contact() {
-   const t = useTranslations('ChaufferContactUs') 
+  const t = useTranslations('ChaufferContactUs')
   return (
     <section
       aria-label="Chauffeur Contact Call-to-Action"

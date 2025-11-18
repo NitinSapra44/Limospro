@@ -2,7 +2,7 @@ import ImageCardWithTextOnSide from '@/components/GlobalComponents/Reusable-Card
 import { MultiStopJourneyData as data } from '../data/HData'
 import { useTranslations } from 'next-intl'
 export default function MultiStopJourney() {
-   const t = useTranslations('MultiStopJourney')
+  const t = useTranslations('MultiStopJourney')
   return (
     <section
       aria-labelledby="special-offer-heading"
@@ -18,10 +18,10 @@ export default function MultiStopJourney() {
           <ImageCardWithTextOnSide
             imageLeft={false}
             src={data.src}
-         alt={t('alt')}
-          t1={t('t1')}
-          t2={t('t2')}
-          description={t('description')}
+            alt={t('alt')}
+            t1={t('t1')}
+            t2={t('t2')}
+            description={t('description')}
           />
         </article>
       </div>

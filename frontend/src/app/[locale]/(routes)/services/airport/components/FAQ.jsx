@@ -6,7 +6,7 @@ export default function FAQ() {
   const t = useTranslations('FAQ')
 
   // translate FAQ array before sending to component
-  const translatedFAQs = FAQData.map(item => ({
+  const translatedFAQs = FAQData.map((item) => ({
     question: t(item.question.replace('FAQ.', '')),
     answer: t(item.answer.replace('FAQ.', '')),
   }))
@@ -29,4 +29,3 @@ export default function FAQ() {
     </section>
   )
 }
-

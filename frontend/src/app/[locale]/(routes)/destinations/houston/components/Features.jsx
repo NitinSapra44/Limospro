@@ -50,9 +50,9 @@ export default function Features({ Service, Subservice }) {
               <InfoCard
                 index={idx}
                 src={data.src}
-                 alt={t(`cards.${idx}.alt`)}
-              title={t(`cards.${idx}.title`)}
-              description={t(`cards.${idx}.description`)}
+                alt={t(`cards.${idx}.alt`)}
+                title={t(`cards.${idx}.title`)}
+                description={t(`cards.${idx}.description`)}
                 height={70}
                 width={70}
                 orientation="flex-col"

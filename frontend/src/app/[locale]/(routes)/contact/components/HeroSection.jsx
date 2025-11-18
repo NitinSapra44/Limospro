@@ -27,7 +27,7 @@ export default function HeroSection() {
             style={{ fontFamily: 'var(--font-montserrat)' }}
             className="font-bold text-white text-base md:text-xl lg:text-3xl"
           >
-           {t('Heading2')}
+            {t('Heading2')}
           </h2>
           <div>
             <Button

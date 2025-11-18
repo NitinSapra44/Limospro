@@ -39,12 +39,11 @@ export const metadata = {
 }
 
 export default function Page() {
-  const t = useTranslations('Navigation2') 
+  const t = useTranslations('Navigation2')
   return (
     <main>
       <HeroSectionHourly />
-      <Features  Service={t('service')}        
-        Subservice={t('subservice')}    />
+      <Features Service={t('service')} Subservice={t('subservice')} />
       <PremiumFleet />
       <WhyUs />
       <MultiStopJourney />

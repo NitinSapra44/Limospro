@@ -8,16 +8,11 @@ export default function PremiumFleet() {
   return (
     <section aria-label="Premium Fleet Section" className="w-full flex py-16">
       <div className="flex flex-col gap-4 lg:w-[80%] max-w-[1440px] w-full mx-auto items-start">
-
         {/* Section Heading */}
         <header className="gap-2 px-3 lg:px-0 flex flex-col">
-          <p className="text-base lg:text-lg text-[#2C2C2C] font-semibold">
-            {t('Heading1')}
-          </p>
+          <p className="text-base lg:text-lg text-[#2C2C2C] font-semibold">{t('Heading1')}</p>
 
-          <h2 className="font-bold text-xl lg:text-3xl text-[#003366]">
-            {t('Heading2')}
-          </h2>
+          <h2 className="font-bold text-xl lg:text-3xl text-[#003366]">{t('Heading2')}</h2>
 
           <p className="text-base lg:text-lg text-[#2C2C2C]">
             {t('Description1')}

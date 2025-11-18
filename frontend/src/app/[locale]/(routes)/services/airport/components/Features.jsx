@@ -11,7 +11,7 @@ import InfoCard from '@/components/GlobalComponents/Reusable-Cards/InfoCard'
 import { useTranslations } from 'next-intl'
 
 export default function Features({ Service, Subservice }) {
-     const t = useTranslations('Features')
+  const t = useTranslations('Features')
   return (
     <section
       aria-label="Airport Transfer Services Overview"

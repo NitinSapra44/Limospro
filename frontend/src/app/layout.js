@@ -10,7 +10,11 @@ const montserrat = Montserrat({
   variable: '--font-montserrat',
 })
 const varela = Varela({ weight: '400', subsets: ['latin'], variable: '--font-varela' })
-const quicksand = Quicksand({ weight: ['500','600'], subsets: ['latin'], variable: '--font-quicksand' })
+const quicksand = Quicksand({
+  weight: ['500', '600'],
+  subsets: ['latin'],
+  variable: '--font-quicksand',
+})
 
 export default function RootLayout({ children }) {
   return (

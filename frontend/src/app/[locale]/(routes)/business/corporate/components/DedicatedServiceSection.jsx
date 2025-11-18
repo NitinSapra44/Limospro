@@ -2,9 +2,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { useTranslations } from 'next-intl'
 export default function DedicatedServiceSection() {
-  const t = useTranslations('DedicatedServiceSection') 
+  const t = useTranslations('DedicatedServiceSection')
   return (
-  <section
+    <section
       aria-labelledby="personal-event-service-heading"
       className="w-full bg-[#f5f5f5] py-16 flex justify-center items-center"
     >
@@ -22,7 +22,7 @@ export default function DedicatedServiceSection() {
         {/* Text Content */}
         <article className="w-[60%] flex items-center p-10">
           <h2 id="personal-event-service-heading" className="sr-only">
-           {t('P1')}
+            {t('P1')}
           </h2>
           <p style={{ fontFamily: 'var(--font-montserrat)' }} className="text-base">
             {t('P2')}
@@ -30,9 +30,9 @@ export default function DedicatedServiceSection() {
               {' '}
               {t('Link1')}
             </Link>{' '}
-          {t('P3')}{' '}
+            {t('P3')}{' '}
             <Link href="" className="text-[#2B5680] font-bold leading-[150%] hover:underline">
-             {t('Link2')}{' '}
+              {t('Link2')}{' '}
             </Link>{' '}
             {t('P4')}
           </p>

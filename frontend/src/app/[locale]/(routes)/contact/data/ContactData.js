@@ -3,7 +3,7 @@ export const ContactInfoData = [
     src: '/Logos/logo-map-pin.png',
     alt: 'ContactInformation.cards.0.alt',
     title: 'ContactInformation.cards.0.title',
-    description:'ContactInformation.cards.0.description',
+    description: 'ContactInformation.cards.0.description',
   },
   {
     src: '/Logos/logo-mail.png',

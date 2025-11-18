@@ -16,10 +16,10 @@ export default function HowToBook() {
           <ImageCardWithTextOnSide
             imageLeft={false}
             src={data.src}
-           alt={t('alt')}
-          t1={t('t1')}
-          t2={t('t2')}
-          description={t('description')}
+            alt={t('alt')}
+            t1={t('t1')}
+            t2={t('t2')}
+            description={t('description')}
           />
         </article>
       </div>

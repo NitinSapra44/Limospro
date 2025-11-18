@@ -14,7 +14,7 @@ export default function OurOfferings() {
             style={{ fontFamily: 'var(--font-montserrat)' }}
             className="font-bold text-xl lg:text-3xl text-[#003366]"
           >
-           {t('Heading1')}
+            {t('Heading1')}
           </h2>
           <p
             style={{ fontFamily: 'var(--font-quicksand)' }}

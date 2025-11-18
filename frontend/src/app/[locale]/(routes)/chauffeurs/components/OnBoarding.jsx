@@ -2,7 +2,7 @@ import ImageCardWithTextOnSideAndButton from '@/components/GlobalComponents/Reus
 import { OnBoardingData as data } from '../data/ChaufferData'
 import { useTranslations } from 'next-intl'
 export default function OnBoarding() {
-   const t = useTranslations('ChaufferOnboarding') 
+  const t = useTranslations('ChaufferOnboarding')
   return (
     <section
       aria-label="Chauffeur Application Info Card"

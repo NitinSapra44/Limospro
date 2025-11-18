@@ -41,14 +41,11 @@ export const metadata = {
 }
 
 export default function Page() {
-   const t = useTranslations('Navigation') // 👈 We scope to "features" object
+  const t = useTranslations('Navigation') // 👈 We scope to "features" object
   return (
     <main>
       <HeroSectionAT />
-      <Features 
-        Service={t('service')}        
-        Subservice={t('subservice')}   
-      />
+      <Features Service={t('service')} Subservice={t('subservice')} />
       <PremiumFleet />
       <WhyUs />
       <ServiceInGlobalCities />

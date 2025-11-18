@@ -27,28 +27,27 @@ export const WhyChooseData = [
     src: '/Logos/logo-privacy.png',
     title: 'whyChoose.cards.0.title',
     alt: 'whyChoose.cards.0.alt',
-    description: 'whyChoose.cards.0.description'
+    description: 'whyChoose.cards.0.description',
   },
   {
     src: '/Logos/logo-booking.png',
     title: 'whyChoose.cards.1.title',
     alt: 'whyChoose.cards.1.alt',
-    description: 'whyChoose.cards.1.description'
+    description: 'whyChoose.cards.1.description',
   },
   {
     src: '/Logos/logo-avatar.png',
     title: 'whyChoose.cards.2.title',
     alt: 'whyChoose.cards.2.alt',
-    description: 'whyChoose.cards.2.description'
+    description: 'whyChoose.cards.2.description',
   },
   {
     src: '/Logos/logo-extensive.png',
     title: 'whyChoose.cards.3.title',
     alt: 'whyChoose.cards.3.alt',
-    description: 'whyChoose.cards.3.description'
-  }
+    description: 'whyChoose.cards.3.description',
+  },
 ]
-
 
 export const CityRoutes1Data = [
   {
@@ -71,7 +70,7 @@ export const CityRoutes1Data = [
   },
   {
     src: '/Pictures/pic-paris.jpg',
-  title: 'CityRoutes.citycards.3.title',
+    title: 'CityRoutes.citycards.3.title',
     alt: 'CityRoutes.citycards.3.alt',
     description: 'CityRoutes.citycards.3.description',
   },
@@ -133,19 +132,19 @@ export const SafetyAndPrivacyData = [
     src: '/Logos/logo-safety.png',
     title: 'SafetyAndPrivacy.cards.0.title',
     alt: 'SafetyAndPrivacy.cards.0.alt',
-    description: 'SafetyAndPrivacy.cards.0.description'
+    description: 'SafetyAndPrivacy.cards.0.description',
   },
   {
     src: '/Logos/logo-car.png',
     title: 'SafetyAndPrivacy.cards.1.title',
     alt: 'SafetyAndPrivacy.cards.1.alt',
-    description: 'SafetyAndPrivacy.cards.1.description'
+    description: 'SafetyAndPrivacy.cards.1.description',
   },
   {
     src: '/Logos/logo-ecofriendly.png',
     title: 'SafetyAndPrivacy.cards.2.title',
     alt: 'SafetyAndPrivacy.cards.2.alt',
-    description: 'SafetyAndPrivacy.cards.2.description'
+    description: 'SafetyAndPrivacy.cards.2.description',
   },
 ]
 
@@ -154,7 +153,7 @@ export const CorporateGroundTransportationData = {
   alt: 'CorporateGroundTransportation.alt',
   t1: 'CorporateGroundTransportation.t1',
   t2: 'CorporateGroundTransportation.t2',
-  description:'CorporateGroundTransportation.description'
+  description: 'CorporateGroundTransportation.description',
 }
 
 export const MeetingsAndSpecialEventsData = {
@@ -162,7 +161,7 @@ export const MeetingsAndSpecialEventsData = {
   alt: 'MeetingsAndSpecialEvents.alt',
   t1: 'MeetingsAndSpecialEvents.t1',
   t2: 'MeetingsAndSpecialEvents.t2',
-  description:'MeetingsAndSpecialEvents.description',
+  description: 'MeetingsAndSpecialEvents.description',
 }
 
 export const TestimonialData = [
@@ -173,35 +172,35 @@ export const TestimonialData = [
     src: '/Pictures/pic-cameron.png',
     alt: 'Testimonial.TestimonialCards.0.alt',
   },
- {
+  {
     Quote: 'Testimonial.TestimonialCards.1.Quote',
     Name: 'Testimonial.TestimonialCards.1.Name',
     Position: 'Testimonial.TestimonialCards.1.Position',
     src: '/Pictures/pic-cameron.png',
     alt: 'Testimonial.TestimonialCards.1.alt',
   },
- {
+  {
     Quote: 'Testimonial.TestimonialCards.2.Quote',
     Name: 'Testimonial.TestimonialCards.2.Name',
     Position: 'Testimonial.TestimonialCards.2.Position',
     src: '/Pictures/pic-cameron.png',
     alt: 'Testimonial.TestimonialCards.2.alt',
   },
- {
+  {
     Quote: 'Testimonial.TestimonialCards.3.Quote',
     Name: 'Testimonial.TestimonialCards.3.Name',
     Position: 'Testimonial.TestimonialCards.3.Position',
     src: '/Pictures/pic-cameron.png',
     alt: 'Testimonial.TestimonialCards.3.alt',
   },
- {
+  {
     Quote: 'Testimonial.TestimonialCards.4.Quote',
     Name: 'Testimonial.TestimonialCards.4.Name',
     Position: 'Testimonial.TestimonialCards.4.Position',
     src: '/Pictures/pic-cameron.png',
     alt: 'Testimonial.TestimonialCards.4.alt',
   },
- {
+  {
     Quote: 'Testimonial.TestimonialCards.5.Quote',
     Name: 'Testimonial.TestimonialCards.5.Name',
     Position: 'Testimonial.TestimonialCards.5.Position',

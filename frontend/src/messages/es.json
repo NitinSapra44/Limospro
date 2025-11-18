@@ -22,7 +22,7 @@
     },
     "signIn": "INICIAR SESIÓN"
   },
-  
+
   "Footer": {
     "Description": "Servicio de limusina de aeropuerto de clase mundial para clientes exigentes que buscan excelencia y lujo.",
     "QuickLinks": "Enlaces Rápidos",
@@ -211,30 +211,30 @@
       }
     ]
   },
-   "CorporateGroundTransportation": {
+  "CorporateGroundTransportation": {
     "alt": "Una imagen que muestra vista del volante del coche.",
     "t1": "Soluciones completas para",
     "t2": "Transporte Terrestre Corporativo",
     "description": "Desde traslados ejecutivos al aeropuerto hasta transporte grupal para eventos, ofrecemos servicios de transporte terrestre adaptados a las necesidades de los viajes corporativos modernos. Puede contar con puntualidad, chóferes profesionales y una coordinación impecable en cada paso."
   },
-  
+
   "MeetingsAndSpecialEvents": {
     "alt": "Una imagen de un hombre de negocios en el asiento trasero de su coche usando su computadora.",
     "t1": "Soluciones de viaje ejecutivo para",
     "t2": "Reuniones y Eventos Especiales",
     "description": "Haga que cada reunión y evento sea sin esfuerzo con nuestros servicios de viaje ejecutivo. Ofrecemos transporte confiable y coordinado para conferencias, reuniones empresariales y ocasiones especiales, todo con el profesionalismo y la comodidad que su equipo merece."
   },
-   "BookARide": {
+  "BookARide": {
     "title": "¿Tienes una ruta en mente?",
     "description": "Ingresa tus ubicaciones de recogida y destino para ver el precio.",
     "Button": "RESERVAR UN VIAJE DE CIUDAD A CIUDAD"
   },
-    "DownloadOptions": {
+  "DownloadOptions": {
     "Heading": "Descarga la aplicación",
     "Description1": "Reserva, cambia o cancela viajes fácilmente estés donde estés.",
     "Description2": "Piénsalo como tranquilidad en la palma de tu mano."
   },
-   "Testimonial": {
+  "Testimonial": {
     "Heading": "Testimonios de Clientes",
     "TestimonialCards": [
       {
@@ -275,7 +275,7 @@
       }
     ]
   },
-   "OurPartners": {
+  "OurPartners": {
     "Heading1": "Nuestros",
     "Heading2": "Socios"
   },
@@ -283,7 +283,7 @@
     "service": "Servicios",
     "subservice": "Traslados al Aeropuerto"
   },
-  
+
   "Features": {
     "cards": [
       {
@@ -303,7 +303,7 @@
       }
     ]
   },
-  
+
   "PremiumFleet": {
     "Heading1": "Elige tu Vehículo",
     "Heading2": "Explora Nuestra Flota Premium",
@@ -342,7 +342,7 @@
       }
     ]
   },
-  
+
   "BookNow": {
     "BookNow": "Reservar Ahora"
   },
@@ -357,7 +357,7 @@
     "Feature6": "Seguridad",
     "Feature7": "Puntualidad"
   },
-  
+
   "ServiceInGlobalCities": {
     "alt": "Imagen de un volante",
     "t1": "Traslados al aeropuerto en",
@@ -376,16 +376,16 @@
     "t2": "Shuttle al Aeropuerto",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-    "FAQ": {
+  "FAQ": {
     "Heading": "Las Preguntas Más Frecuentes",
     "Question": "¿Qué hace un servicio de traslado al aeropuerto?",
     "Answer": "Un traslado al aeropuerto es un servicio privado de automóvil que lleva a los pasajeros hacia y desde el aeropuerto desde una ciudad o punto de conexión. Servicios profesionales como Blacklane ofrecen vehículos con chófer para recoger a los pasajeros en la terminal después de recoger su equipaje, o dejarlos en la puerta de embarque con suficiente antelación. Como empresa global, Blacklane es ideal para traslados al aeropuerto, ya que puede atender las necesidades de los pasajeros en ambos extremos de su vuelo internacional."
   },
-   "Navigation2": {
+  "Navigation2": {
     "service": "Servicios",
     "subservice": "Alquiler por Hora"
   },
-  
+
   "WhyUsHourly": {
     "Heading1": "Por qué AAdmirals es tu mejor elección para",
     "Heading2": "alquiler por hora",
@@ -397,7 +397,7 @@
     "Feature6": "Tiempos de espera generosos",
     "Feature7": "Soporte al cliente dedicado"
   },
-   "MultiStopJourney": {
+  "MultiStopJourney": {
     "alt": "Imagen de un volante",
     "t1": "Para todos tus",
     "t2": "viajes con múltiples paradas",
@@ -406,36 +406,36 @@
   "Navigation3": {
     "service": "Destino",
     "subservice": "Houston"
-  }, 
+  },
   "ServiceForEveryOccasion": {
     "alt": "Algunos autos alineados en fila",
     "t1": "El mejor servicio de coche privado en Houston",
     "t2": "Servicio de limusina en Houston para cada ocasión",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-    "WhyChoose": {
+  "WhyChoose": {
     "alt": "Hombre de negocios sentado en el asiento trasero usando su computadora",
     "t1": "Servicio de limusina de primer nivel en Houston",
     "t2": "¿Por qué elegir nuestro servicio de limusina en Houston?",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-   "HowToBook": {
+  "HowToBook": {
     "alt": "Hombre de negocios entrando en un taxi desde un avión privado",
     "t1": "Reserva rápida y sencilla",
     "t2": "Cómo reservar fácilmente nuestros servicios de limusina en Houston",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   },
-   "BookARideHouston": {
+  "BookARideHouston": {
     "title": "Disfruta de un transporte confiable al aeropuerto de Houston con servicio de limusina a IAH y Hobby.",
     "description": "Viaja con comodidad y estilo con nuestras opciones premium de recogida y traslado al aeropuerto. ¡Reserva ahora!",
     "Button": "RESERVAR AHORA"
   },
-   "ContactHeroSection": {
+  "ContactHeroSection": {
     "Heading1": "Contáctanos —",
     "Heading2": "Un viaje confiable está a un paso.",
     "Button": "RESERVAR VIAJE"
   },
-   "ContactInformation": {
+  "ContactInformation": {
     "Heading": "Información de Contacto",
     "cards": [
       {
@@ -460,7 +460,7 @@
       }
     ]
   },
-   "ContactForm": {
+  "ContactForm": {
     "h1": "Contáctanos Hoy",
     "h2": "Estamos aquí para ayudarte —",
     "Email": "Correo electrónico",
@@ -542,12 +542,12 @@
     "service": "Negocios y Diplomáticos",
     "subservice": "Corporaciones"
   },
-   "HeroSectionBC": {
+  "HeroSectionBC": {
     "Heading1": "Confiado por Profesionales.",
     "Heading2": " Preferido por Diplomáticos. Listo para Ti.",
     "Button": "RESERVAR VIAJE"
   },
-  
+
   "BCServices": {
     "cards": [
       {
@@ -567,7 +567,7 @@
       }
     ]
   },
-   "DedicatedServiceSection": {
+  "DedicatedServiceSection": {
     "P1": "Servicio personal de auto negro por hora para eventos",
     "P2": "¿Reservando un vehículo personal de Blacklane para un evento? Nuestro",
     "Link1": "servicio dedicado por hora",
@@ -575,7 +575,7 @@
     "Link2": "eventos deportivos, conciertos,",
     "P4": "y más."
   },
-   "CorporateServiceOfferings": {
+  "CorporateServiceOfferings": {
     "cards": [
       {
         "title": "Conferencias corporativas y ferias comerciales",
@@ -594,7 +594,7 @@
       }
     ]
   },
-   "CorporateServicesAndFeatures": {
+  "CorporateServicesAndFeatures": {
     "cards": [
       {
         "title": "Equipo dedicado a eventos",
@@ -646,17 +646,17 @@
       "Los chóferes están verificados, asegurados y, en muchos casos, reciben formación adicional para garantizar un viaje seguro y confiable. Además, nuestro equipo de atención multilingüe está disponible 24/7 para ofrecer asistencia si surge cualquier inconveniente. Puedes confiar en que nuestro servicio premium de chófer para eventos elevará tu experiencia y cumplirá tus necesidades específicas."
     ]
   },
-   "ContactForService": {
+  "ContactForService": {
     "Heading": "Donde la Comodidad se Une con la Clase Corporativa",
     "Description": "Experimenta viajes ejecutivos diseñados para rendimiento, profesionalismo y tranquilidad.",
     "Button": "CONTACTAR AHORA"
   },
-   "ChaufferHeading": {
+  "ChaufferHeading": {
     "Service": "Inicio",
     "subservice": "Para Conductores",
     "Heading": "Conviértete en Socio Conductor"
   },
-   "ChaufferHeroSection": {
+  "ChaufferHeroSection": {
     "Heading": "Haz crecer tu negocio con Limospro",
     "Description": "La aplicación y el portal web de Limospro conectan a socios conductores con licencia y seguro con una base global de viajeros de negocios y ocio.",
     "Button": "Conviértete en Socio"
@@ -665,7 +665,7 @@
     "Heading": "Limospro representa el 60% de mis ingresos. He pasado de 2 a 20 conductores y ahora tengo 10 vehículos gracias a trabajar con ellos.",
     "Description": "John Black, chófer de Limospro, DC"
   },
-   "ChaufferBenefits": {
+  "ChaufferBenefits": {
     "cards1": [
       {
         "title": "Pagos confiables",
@@ -762,7 +762,7 @@
     ]
   },
 
- "RideBooking": {
+  "RideBooking": {
     "Placeholder": "Dirección, aeropuerto, hotel, ...",
     "Instant": "Viaje Instantáneo",
     "Schedule": "Programar Viaje",
@@ -780,22 +780,3 @@
     "PickTime": "Seleccionar hora"
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

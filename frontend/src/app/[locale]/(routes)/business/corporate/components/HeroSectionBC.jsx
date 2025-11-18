@@ -2,7 +2,7 @@ import HeroSectionText from '@/components/GlobalComponents/HerosectionforText'
 import { Button } from '@/components/ui/button'
 import { useTranslations } from 'next-intl'
 export default function HeroSectionBC() {
-     const t = useTranslations('HeroSectionBC') 
+  const t = useTranslations('HeroSectionBC')
   return (
     <section aria-label="Business and Corporate Transportation Hero Section" className="relative">
       <HeroSectionText
@@ -31,7 +31,7 @@ export default function HeroSectionBC() {
                 style={{ fontFamily: 'var(--font-montserrat)' }}
                 className="text-black bg-gradient-to-r from-[#FFB300] to-[#E0A200] text-lg rounded-full !font-bold px-10 !py-6 hover:cursor-pointer"
               >
-               {t('Button')}
+                {t('Button')}
               </Button>
             </div>
           </div>

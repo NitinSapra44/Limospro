@@ -1,9 +1,8 @@
 import { Button } from '@/components/ui/button'
 import { useTranslations } from 'next-intl'
 
-
 export default function BookARide() {
-    const t = useTranslations('BookARide')
+  const t = useTranslations('BookARide')
   return (
     <section
       id="book-ride-cta"
@@ -21,7 +20,7 @@ export default function BookARide() {
             {t('title')}
           </h2>
           <p style={{ fontFamily: 'var(--font-varela)' }} className="text-base">
-             {t('description')}
+            {t('description')}
           </p>
         </div>
 

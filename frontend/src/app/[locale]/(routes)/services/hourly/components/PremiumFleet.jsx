@@ -3,7 +3,7 @@ import { PremiumFleetData } from '../data/HData'
 import { useTranslations } from 'next-intl'
 
 export default function PremiumFleet() {
-    const t = useTranslations('PremiumFleet')
+  const t = useTranslations('PremiumFleet')
   return (
     <section aria-labelledby="fleet-heading" className="w-full flex py-16">
       <div className="flex flex-col gap-4 lg:w-[80%] max-w-[1440px] w-full mx-auto items-start">
@@ -20,13 +20,13 @@ export default function PremiumFleet() {
             style={{ fontFamily: 'var(--font-montserrat)' }}
             className="font-bold text-xl lg:text-3xl text-[#003366] items-start"
           >
-             {t('Heading2')}
+            {t('Heading2')}
           </h2>
           <p
             style={{ fontFamily: 'var(--font-varela)' }}
             className="text-base lg:text-lg text-[#2C2C2C] items-start"
           >
-             {t('Description1')}
+            {t('Description1')}
             <br className="hidden lg:flex" />
             {t('Description2')}
           </p>
@@ -43,7 +43,7 @@ export default function PremiumFleet() {
               priceInfo={t(`cards.${idx}.priceInfo`)}
               CarInfo={t(`cards.${idx}.CarInfo`)}
               rating={data.rating}
-              features={t.raw(`cards.${idx}.features`)} 
+              features={t.raw(`cards.${idx}.features`)}
             />
           ))}
         </div>

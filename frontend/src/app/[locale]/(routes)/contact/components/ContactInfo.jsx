@@ -3,7 +3,7 @@ import { ContactInfoData } from '../data/ContactData'
 import { useTranslations } from 'next-intl'
 
 export default function ContactInfo() {
-    const t = useTranslations('ContactInformation')
+  const t = useTranslations('ContactInformation')
   return (
     <section className="w-full flex py-16" aria-labelledby="contact-info-heading">
       <div className="flex flex-col lg:w-[80%] max-w-[1440px] w-full mx-auto gap-4 items-start">
@@ -19,7 +19,7 @@ export default function ContactInfo() {
                 src={data.src}
                 alt={t(`cards.${idx}.alt`)}
                 title={t(`cards.${idx}.title`)}
-                 description={t(`cards.${idx}.description`)}
+                description={t(`cards.${idx}.description`)}
                 height={30}
                 width={30}
               />

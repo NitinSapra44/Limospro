@@ -2,7 +2,7 @@ import ImageCardWithTextOnSideAndButton from '@/components/GlobalComponents/Reus
 import { EnvironmentFriendlyData as data } from '../data/ChaufferData'
 import { useTranslations } from 'next-intl'
 export default function EnvironmentFriendly() {
-   const t = useTranslations('ChaufferEnvironmentFriendly') 
+  const t = useTranslations('ChaufferEnvironmentFriendly')
   return (
     <section
       aria-label="Chauffeur Partnership Info Card"

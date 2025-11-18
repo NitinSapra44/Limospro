@@ -2,7 +2,7 @@ import ImageCardWithTextOnSideAndButton from '@/components/GlobalComponents/Reus
 import { OurGlobalReachData as data } from '../data/BCData'
 import { useTranslations } from 'next-intl'
 export default function OurGlobalReach() {
-     const t = useTranslations('OurGlobalReach') 
+  const t = useTranslations('OurGlobalReach')
   return (
     <section
       aria-labelledby="additional-service-heading"

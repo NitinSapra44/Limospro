@@ -1,29 +1,29 @@
-import Image from 'next/image';
-import { Menu, ChevronDown } from 'lucide-react';
-import { Button } from '../ui/button';
-import Link from 'next/link';
-import { useTranslations, useLocale } from 'next-intl';
+import Image from 'next/image'
+import { Menu, ChevronDown } from 'lucide-react'
+import { Button } from '../ui/button'
+import Link from 'next/link'
+import { useTranslations, useLocale } from 'next-intl'
 
-import { Sheet, SheetContent, SheetTrigger, SheetTitle } from '@/components/ui/sheet';
+import { Sheet, SheetContent, SheetTrigger, SheetTitle } from '@/components/ui/sheet'
 import {
   Accordion,
   AccordionItem,
   AccordionTrigger,
   AccordionContent,
-} from '@/components/ui/accordion';
-import { headerMenu } from '@/data/FrontPage';
+} from '@/components/ui/accordion'
+import { headerMenu } from '@/data/FrontPage'
 import {
   DropdownMenu,
   DropdownMenuTrigger,
   DropdownMenuContent,
   DropdownMenuItem,
-} from '@/components/ui/dropdown-menu';
+} from '@/components/ui/dropdown-menu'
 
 export default function HeaderPrimary() {
-  const t = useTranslations();
-  const locale = useLocale(); // 🔥 current locale
+  const t = useTranslations()
+  const locale = useLocale() // 🔥 current locale
 
-  const localize = (path) => `/${locale}${path === '/' ? '' : path}`; // helper
+  const localize = (path) => `/${locale}${path === '/' ? '' : path}` // helper
 
   return (
     <header className="absolute top-0 left-0 w-full z-50">
@@ -34,7 +34,6 @@ export default function HeaderPrimary() {
       >
         {/* ================= MOBILE / TABLEt ================= */}
         <div className="flex items-center justify-between w-full lg:hidden">
-          
           {/* LOGO */}
           <Link href={localize('/')}>
             <Image
@@ -120,7 +119,6 @@ export default function HeaderPrimary() {
 
         {/* ================= DESKTOP HEADER ================= */}
         <div className="hidden lg:flex items-center justify-evenly w-full">
-          
           {/* DESKTOP LOGO */}
           <Link href={localize('/')}>
             <Image
@@ -180,5 +178,5 @@ export default function HeaderPrimary() {
         </div>
       </div>
     </header>
-  );
+  )
 }

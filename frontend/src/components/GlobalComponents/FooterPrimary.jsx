@@ -7,7 +7,7 @@ import { ArrowRight } from 'lucide-react'
 import Link from 'next/link'
 import { useTranslations } from 'next-intl'
 export default function FooterPrimary() {
-   const t = useTranslations('Footer')
+  const t = useTranslations('Footer')
   return (
     <footer className="w-full bg-gradient-to-r from-[#000911] to-[#001F3E]  flex items-center justify-center ">
       <div className="w-[80%] max-w-[1440px] flex flex-col  py-16 ">
@@ -65,7 +65,7 @@ export default function FooterPrimary() {
                   style={{ fontFamily: 'var(--font-montserrat)' }}
                   className="text-base text-white"
                 >
-                 {t('Testimonials')}
+                  {t('Testimonials')}
                 </p>
               </Link>
 
@@ -138,7 +138,7 @@ export default function FooterPrimary() {
             </p>
             <div className="flex flex-col gap-3">
               <p style={{ fontFamily: 'var(--font-montserrat)' }} className=" text-base text-white">
-               {t('NewsletterDes')}
+                {t('NewsletterDes')}
               </p>
               <div className="flex items-center border  border-yellow-500 rounded-md overflow-hidden bg-transparent pr-5">
                 <input
@@ -166,7 +166,7 @@ export default function FooterPrimary() {
               {t('TermsofService')}
             </p>
             <p style={{ fontFamily: 'var(--font-montserrat)' }} className="text-base text-white">
-                {t('SiteMap')}
+              {t('SiteMap')}
             </p>
           </div>
         </div>

@@ -15,7 +15,7 @@ export default function OurValues() {
             style={{ fontFamily: 'var(--font-quicksand)' }}
             className="text-base lg:text-lg text-[#2C2C2C] font-semibold"
           >
-           {t('Heading1')}
+            {t('Heading1')}
           </p>
 
           <h2
@@ -30,7 +30,7 @@ export default function OurValues() {
             style={{ fontFamily: 'var(--font-varela)' }}
             className="text-base lg:text-lg text-[#2C2C2C]"
           >
-          {t('Description')}
+            {t('Description')}
           </p>
         </header>
 
@@ -87,7 +87,7 @@ export default function OurValues() {
                     style={{ fontFamily: 'var(--font-varela)' }}
                     className="text-xl leading-relaxed"
                   >
-                     {t(data.answer)}
+                    {t(data.answer)}
                   </p>
                 </TabsContent>
               ))}
