@@ -1,0 +1,735 @@
+{
+  "header": {
+    "menu": {
+      "services": "Diensten",
+      "airport": "Luchthaventransfers",
+      "hourly": "Uurhuur",
+      "city": "Stad-naar-Stad",
+      "destinations": "Bestemmingen",
+      "houston": "Houston",
+      "dallas": "Dallas",
+      "austin": "Austin",
+      "business": "Zakelijk & Diplomaten",
+      "corporation": "Bedrijf",
+      "vip": "VIP-diensten",
+      "diplomats": "Diplomatiek Reizen",
+      "chauffeurs": "Chauffeurs",
+      "help": "Hulp",
+      "english": "Engels",
+      "us": "Engels (VS)",
+      "uk": "Engels (VK)",
+      "au": "Engels (AU)"
+    },
+    "signIn": "INLOGGEN"
+  },
+
+  "Footer": {
+    "Description": "Wereldklasse luchthavenlimousineservice voor veeleisende klanten die excellentie en luxe verlangen.",
+    "QuickLinks": "Snelle Links",
+    "Services": "Diensten",
+    "Fleet": "Vloot",
+    "AboutUs": "Over Ons",
+    "Testimonials": "Getuigenissen",
+    "Contact": "Contact",
+    "Blog": "Blogs",
+    "ContactUs": "Neem Contact Op",
+    "Address1": "123 Luxury Avenue, Suite 500",
+    "Address2": "New York, NY 10001",
+    "Newsletter": "Nieuwsbrief",
+    "NewsletterDes": "Abonneer om speciale aanbiedingen en updates te ontvangen.",
+    "Copyright": "© Copyright 2025. Alle rechten voorbehouden door LIMOSPRO™",
+    "Privacy": "Privacybeleid",
+    "TermsofService": "Servicevoorwaarden",
+    "SiteMap": "Sitemap"
+  },
+
+  "hero": {
+    "home": {
+      "title": "Premium Chauffeursservice",
+      "description": "Professionele chauffeurs. Luxe voertuigen. Een ongeëvenaarde luxe reiservaring."
+    }
+  },
+  "services": {
+    "overview": {
+      "premium": "Premium",
+      "title": "Diensten",
+      "description": "Bekijk ons aanbod van premium chauffeursdiensten voor al uw vervoersbehoeften.",
+      "cards": [
+        {
+          "title": "Luchthaventransfers",
+          "alt": "Een man die geniet van een comfortabele luchthaventransfer in een luxe auto.",
+          "description": "Betrouwbaar en comfortabel vervoer van en naar luchthavens.",
+          "button": "BOEK NU"
+        },
+        {
+          "title": "Uurhuur",
+          "alt": "Een klant die gebruikmaakt van uurhuurservice met chauffeur.",
+          "description": "Flexibele chauffeursservice voor uw dagelijkse behoeften.",
+          "button": "BOEK NU"
+        },
+        {
+          "title": "Stad-naar-Stad",
+          "alt": "Passagiers die comfortabel arriveren na een interstedelijke rit.",
+          "description": "Comfortabele intercityritten met professionele chauffeurs.",
+          "button": "BOEK NU"
+        }
+      ]
+    }
+  },
+  "whyChoose": {
+    "headingTop": "Waarom Kiezen Voor",
+    "headingBottom": "Limospro",
+    "description": "Premium chauffeursdiensten die uitzonderlijk comfort en gemak bieden.",
+    "cards": [
+      {
+        "title": "Veiligheid & Privacy",
+        "alt": "Veiligheid en privacy icoon",
+        "description": "Uw veiligheid en privacy komen op de eerste plaats. Strenge protocollen en bescherming van uw gegevens."
+      },
+      {
+        "title": "Flexibele Boeking",
+        "alt": "Flexibele boeking icoon",
+        "description": "Plannen veranderen — geen probleem. Eenvoudig herschikken of aanpassen."
+      },
+      {
+        "title": "Klantenservice",
+        "alt": "Klantenservice icoon",
+        "description": "Vriendelijk, responsief en beschikbaar wanneer u ons nodig heeft."
+      },
+      {
+        "title": "Uitgebreide Diensten",
+        "alt": "Uitgebreide diensten icoon",
+        "description": "Luchthaventransfers, groepsvervoer en zakelijke ritten."
+      }
+    ]
+  },
+  "CityRoutes": {
+    "headingTop": "Luxe Reizen",
+    "headingBottom": "Stad-naar-Stad Routes",
+    "description1": "Geniet van comfortabele reizen tussen steden met onze premium service.",
+    "description2": "Professionele chauffeurs zorgen voor een stressvrije rit.",
+    "topCities": "Topsteden",
+    "seeAll": "Alles Bekijken",
+    "topRoutes": "Toproutes",
+    "citycards": [
+      {
+        "title": "Dubai",
+        "alt": "Foto van Dubai",
+        "description": "26 routes"
+      },
+      {
+        "title": "New York",
+        "alt": "Infrastructuur van New York",
+        "description": "21 routes"
+      },
+      {
+        "title": "Londen",
+        "alt": "London Tower Bridge",
+        "description": "25 routes"
+      },
+      {
+        "title": "Parijs",
+        "alt": "Eiffeltoren",
+        "description": "16 routes"
+      }
+    ],
+    "routeCards": [
+      { "from": "New York", "to": "Philadelphia", "time": "1u 50m", "distance": "59 mi" },
+      { "from": "New York", "to": "Philadelphia", "time": "1u 50m", "distance": "59 mi" },
+      { "from": "New York", "to": "Philadelphia", "time": "1u 50m", "distance": "59 mi" },
+      { "from": "New York", "to": "Philadelphia", "time": "1u 50m", "distance": "59 mi" },
+      { "from": "New York", "to": "Philadelphia", "time": "1u 50m", "distance": "59 mi" },
+      { "from": "New York", "to": "Philadelphia", "time": "1u 50m", "distance": "59 mi" },
+      { "from": "New York", "to": "Philadelphia", "time": "1u 50m", "distance": "59 mi" },
+      { "from": "New York", "to": "Philadelphia", "time": "1u 50m", "distance": "59 mi" }
+    ]
+  },
+  "findYours": {
+    "Heading1": "500+",
+    "Heading2": "Wereldwijde Markten",
+    "Description1": "’s Werelds grootste privé-chauffeursbedrijf",
+    "Description2": "Chauffeursdienst",
+    "Button1": "ZOEK STAD",
+    "Button2": "ZOEK LUCHTHAVEN"
+  },
+ "SafetyAndPrivacy": {
+  "cards": [
+    {
+      "title": "Veiligheid eerst",
+      "alt": "Veiligheid eerst logo",
+      "description": "Reis met een gerust hart, wetende dat uw veiligheid onze hoogste prioriteit is. Wij hanteren de strengste normen op het gebied van voertuighygiëne, chauffeurstraining en gezondheidsprotocollen om elke keer dat u met ons reist een veilige en comfortabele ervaring te garanderen."
+    },
+    {
+      "title": "Op maat gemaakte reisoplossingen",
+      "alt": "Op maat gemaakte reisoplossingen logo",
+      "description": "Of u nu een snelle luchthaventransfer boekt of een zakelijke dagtrip, wij bieden gepersonaliseerde diensten die aansluiten op uw unieke reisbehoeften. Van uurtarieven tot stad-naar-stad ritten, wij zorgen ervoor dat u altijd de service krijgt die past bij uw planning."
+    },
+    {
+      "title": "Milieuvriendelijk reizen",
+      "alt": "Milieuvriendelijk reizen logo",
+      "description": "Als onderdeel van ons streven naar duurzaamheid compenseren wij de CO₂-uitstoot van elke rit die u maakt. Reis met de zekerheid dat u bijdraagt aan een groenere planeet bij elke reis, dankzij ons CO₂-compensatieprogramma — een primeur in de branche."
+    }
+  ]
+},
+ "CorporateGroundTransportation": {
+    "alt": "Een afbeelding met zicht op het stuur van de auto.",
+    "t1": "Complete oplossingen voor",
+    "t2": "Zakelijk Vervoer over de Weg",
+    "description": "Van executive luchthaventransfers tot groepsvervoer voor evenementen, wij bieden aangepast vervoer over de weg dat voldoet aan de eisen van moderne zakelijke reizen. Reken op stipte service, professionele chauffeurs en naadloze coördinatie bij elke stap."
+  },
+  "MeetingsAndSpecialEvents": {
+    "alt": "Een afbeelding van een zakenman op de achterbank van zijn auto terwijl hij zijn computer gebruikt.",
+    "t1": "Executive reismogelijkheden voor",
+    "t2": "Vergaderingen en Speciale Evenementen",
+    "description": "Maak elke vergadering en elk evenement moeiteloos met onze executive vervoersdiensten. Wij bieden betrouwbaar en gecoördineerd vervoer voor conferenties, zakelijke bijeenkomsten en speciale gelegenheden — allemaal met het professionalisme en comfort dat uw team verdient."
+  },
+   "BookARide": {
+    "title": "Heb je een route in gedachten?",
+    "description": "Voer je ophaal- en afzetlocaties in om de prijs te zien.",
+    "Button": "BOEK EEN RIT VAN STAD TOT STAD"
+  },
+   "DownloadOptions": {
+    "Heading": "Download de app",
+    "Description1": "Boek, wijzig of annuleer eenvoudig ritten onderweg.",
+    "Description2": "Zie het als gemoedsrust in de palm van je hand."
+  },
+   "Testimonial": {
+    "Heading": "Klantbeoordelingen",
+    "TestimonialCards": [
+      {
+        "Quote": "Ik hou van alles wat ik bij Brown koop!",
+        "Name": "Cameron Williamson",
+        "Position": "President Verkoop",
+        "alt": "Portret van Cameron Williamson"
+      },
+      {
+        "Quote": "Ik heb veel vergelijkbare producten geprobeerd en Brown is de beste!",
+        "Name": "Jane Cooper",
+        "Position": "Verzorgende",
+        "alt": "Portret van Jane Cooper"
+      },
+      {
+        "Quote": "Ik raad Brown sterk aan. Het is erg belangrijk geweest voor ons terwijl we ons bedrijf blijven uitbreiden.",
+        "Name": "Darrell Steward",
+        "Position": "Marketingcoördinator",
+        "alt": "Portret van Darrell Steward"
+      },
+      {
+        "Quote": "Ik hou van alles wat ik bij Brown koop!",
+        "Name": "Cameron Williamson",
+        "Position": "President Verkoop",
+        "alt": "Portret van Cameron Williamson"
+      },
+      {
+        "Quote": "Ik heb veel vergelijkbare producten geprobeerd en Brown is de beste!",
+        "Name": "Jane Cooper",
+        "Position": "Verzorgende",
+        "alt": "Portret van Jane Cooper"
+      },
+      {
+        "Quote": "Ik raad Brown sterk aan. Het is erg belangrijk geweest voor ons terwijl we ons bedrijf blijven uitbreiden.",
+        "Name": "Darrell Steward",
+        "Position": "Marketingcoördinator",
+        "alt": "Portret van Darrell Steward"
+      }
+    ]
+  },
+   "OurPartners": {
+    "Heading1": "Onze",
+    "Heading2": "Partners"
+  },
+   "Navigation": {
+    "service": "Diensten",
+    "subservice": "Luchthavenvervoer"
+  },
+  "Features": {
+    "cards": [
+      {
+        "title": "Stipte Ophaling",
+        "alt": "Auto logo",
+        "description": "Altijd op tijd voor uw ophaalservice. 60 minuten gratis wachttijd voor internationale vluchten, 30 minuten voor binnenlandse vluchten en 15 minuten voor overige."
+      },
+      {
+        "title": "All-Inclusive Tarieven",
+        "alt": "Prijs logo",
+        "description": "Professionele autoverhuur met all-inclusive tarieven zonder verborgen kosten. Betalen wat u ziet."
+      },
+      {
+        "title": "Privé Ritjes",
+        "alt": "Privérit logo",
+        "description": "Privéreisoplossingen: enkele rit, retour luchthavenvervoer, van punt tot punt, per uur of lange afstand tussen steden op basis van uw planning."
+      }
+    ]
+  },
+  "PremiumFleet": {
+    "Heading1": "Kies Uw Rit",
+    "Heading2": "Bekijk Onze Premium Vloot",
+    "Description1": "Vind het perfecte voertuig voor uw reis — van luxe sedans tot ruime SUV’s en",
+    "Description2": "executieve busjes. Elke rit biedt comfort, stijl en professionele service.",
+    "cards": [
+      {
+        "alt": "Afbeelding van een Cadillac",
+        "priceInfo": "$60 per uur voor uurbasis",
+        "CarInfo": "Executive Sedan Cadillac, Lincoln of vergelijkbaar",
+        "features": [
+          "Sedan met 4 deuren",
+          "Schoon van binnen en buiten. 2 zitrijen",
+          "Geschikt voor maximaal 3 volwassenen met 2 grote koffers en 1 handbagage"
+        ]
+      },
+      {
+        "alt": "Afbeelding van een Suburban",
+        "priceInfo": "$60 per uur voor uurbasis",
+        "CarInfo": "Grote Executive SUV, Suburban, Expedition of vergelijkbaar",
+        "features": [
+          "Grote Executive SUV met 4 deuren",
+          "Schoon van binnen en buiten. 3 zitrijen met grote bagageruimte",
+          "Geschikt voor maximaal 6 volwassenen met 4 grote koffers en 3 handbagages"
+        ]
+      },
+      {
+        "alt": "Afbeelding van een Cadillac Escalade",
+        "priceInfo": "$80 per uur voor uurbasis",
+        "CarInfo": "Eerste Klasse Luxe SUV. Lincoln Navigator of Cadillac Escalade.",
+        "features": [
+          "Luxe grote SUV met 4 deuren",
+          "Schoon van binnen en buiten. 3 zitrijen met bagageruimte",
+          "Geschikt voor maximaal 6 volwassenen met 4 grote koffers en 3 handbagages"
+        ]
+      }
+    ]
+  },
+   "BookNow": {
+    "BookNow": "Nu Boeken"
+  },
+  "whyUs": {
+    "Heading1": "Waarom AAdmirals uw beste keuze is voor",
+    "Heading2": "luchthaventransfers",
+    "Feature1": "Klantenservice",
+    "Feature2": "24/7 beschikbaarheid",
+    "Feature3": "Moeiteloos reizen",
+    "Feature4": "Betaalbaarheid",
+    "Feature5": "Luxe ervaring",
+    "Feature6": "Veiligheid",
+    "Feature7": "Stiptheid"
+  },
+  "ServiceInGlobalCities": {
+    "alt": "Afbeelding van een stuurwiel",
+    "t1": "Luchthaventransfers in",
+    "t2": "Wereldsteden",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "AirportService": {
+    "alt": "Afbeelding van een zakenman met laptop op de achterbank",
+    "t1": "Ga naar of vanaf",
+    "t2": "De Luchthaven",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "ShuttleBooking": {
+    "alt": "Afbeelding van een stuurwiel",
+    "t1": "Luchthaven",
+    "t2": "Shuttle Boeking",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+    "FAQ": {
+    "Heading": "De Meest Gestelde Vragen",
+    "Question": "Wat doet een luchthavenvervoer?",
+    "Answer": "Een luchthaven transfer is een privé autoservice die reizigers van en naar de luchthaven vervoert vanuit een stad of vervoersknooppunt. Professionele luchthaventransfers zoals Blacklane bieden voertuigen met chauffeur om passagiers op te halen bij de terminal nadat zij hun bagage hebben opgehaald, of hen ruim op tijd bij hun vertrekgate af te zetten. Als wereldwijd bedrijf is Blacklane ideaal voor luchthavenvervoer omdat zij de behoeften van passagiers aan beide kanten van een internationale vlucht kunnen verzorgen."
+  },
+  "Navigation2": {
+    "service": "Diensten",
+    "subservice": "Uurverhuur"
+  },
+  "WhyUsHourly": {
+    "Heading1": "Waarom AAdmirals uw beste keuze is voor",
+    "Heading2": "uurverhuur",
+    "Feature1": "Uw veiligheid is onze prioriteit",
+    "Feature2": "Betrouwbare stiptheid",
+    "Feature3": "Stel uw reis op maat samen",
+    "Feature4": "Geen verborgen kosten",
+    "Feature5": "24/7 beschikbaarheid",
+    "Feature6": "Royale wachttijden",
+    "Feature7": "Toegewijde klantenservice"
+  },
+   "MultiStopJourney": {
+    "alt": "Afbeelding van een stuurwiel",
+    "t1": "Voor al uw",
+    "t2": "reizen met meerdere stops",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "Navigation3": {
+    "service": "Bestemming",
+    "subservice": "Houston"
+  },
+  "ServiceForEveryOccasion": {
+    "alt": "Enkele auto's netjes op een rij",
+    "t1": "De beste privé autoservice in Houston",
+    "t2": "Houston limousineservice voor elke gelegenheid",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "WhyChoose": {
+    "alt": "Zakenman die op de achterbank zit en zijn laptop gebruikt",
+    "t1": "Eersteklas limousineservice in Houston",
+    "t2": "Waarom kiezen voor onze limousineservice in Houston?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+   "HowToBook": {
+    "alt": "Zakenman die in een taxi stapt vanaf zijn privévliegtuig",
+    "t1": "Snel en eenvoudig boeken",
+    "t2": "Hoe u eenvoudig onze limousineservice in Houston kunt boeken",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "BookARideHouston": {
+    "title": "Geniet van betrouwbare luchthavenvervoer in Houston met limousineservice naar IAH en Hobby.",
+    "description": "Reis in comfort en stijl met onze premium ophaal- en afleveropties op de luchthaven. Boek nu!",
+    "Button": "NU BOEKEN"
+  },
+  "ContactHeroSection": {
+    "Heading1": "Neem contact op —",
+    "Heading2": "Betrouwbare ritten zijn slechts één stap verwijderd.",
+    "Button": "RIT BOEKEN"
+  },
+  "ContactInformation": {
+    "Heading": "Contactgegevens",
+    "cards": [
+      {
+        "title": "Onze Locaties",
+        "alt": "Locatie pictogram",
+        "description": "'8222 Kingsbrook Rd , Houston, TX 77024' en '17103 Imperial Valley Dr, Houston, TX 77060'"
+      },
+      {
+        "title": "E-mail Ons",
+        "alt": "Mail",
+        "description": "info@qalbit.com"
+      },
+      {
+        "title": "Telefoonnummer",
+        "alt": "Telefoon",
+        "description": "+1 (346) 857-4294"
+      },
+      {
+        "title": "Bezoek Nu",
+        "alt": "Website",
+        "description": "qalbit.com"
+      }
+    ]
+  },
+   "ContactForm": {
+    "h1": "Neem Vandaag Contact Op",
+    "h2": "Wij staan klaar om te helpen —",
+    "Email": "E-mail",
+    "Phone": "Telefoon",
+    "Message": "Bericht",
+    "EmailPlaceholder": "Uw e-mail",
+    "PhonePlaceholder": "Uw telefoonnummer",
+    "MessagePlaceholder": "Schrijf uw bericht",
+    "Button": "VERZENDEN"
+  },
+   "HeroSectionAbout": {
+    "Heading1": "Gebouwd op vertrouwen.",
+    "Heading2": " Gedreven door ervaring.",
+    "Button": "RIT BOEKEN"
+  },
+   "OurStoryAbout": {
+    "Heading1": "Het Verhaal",
+    "Heading2": "Onze Reis Begint Hier",
+    "Description1": "AAdmirals Travel & Transportation werd in 2013 opgericht als een eenmanszaak om privé luchthavenvervoer, limousines en andere grondtransportdiensten aan te bieden in de regio’s Houston en Galveston. Na een snelle groei in klantenbestand, verkoop en internationale partnernetwerken, werd het bedrijf omgezet in een officiële onderneming. Nieuwe voertuigen werden toegevoegd om elk aantal passagiers te kunnen vervoeren, professionele chauffeurs werden aangenomen en duidelijke operationele procedures werden vastgesteld om uitzonderlijke servicekwaliteit te garanderen.",
+    "Description2": "Vandaag behoren wij tot de top vijf aanbieders van grondtransport in de grootstedelijke gebieden Houston en Galveston, Texas.",
+    "Description3": "We zijn trots dat ons klantenbestand dagelijks groeit — een teken van vertrouwen en tevredenheid van degenen die wij bedienen. Ons verhaal gaat verder terwijl we blijven streven naar excellentie en verbinding binnen onze gemeenschap."
+  },
+  "OurOfferingsAbout": {
+    "Heading1": "Wat wij aanbieden",
+    "Heading2": "Ervaar premium limousine- en vervoersdiensten ontworpen voor comfort, stijl en betrouwbaarheid.",
+    "cards": [
+      {
+        "title": "Onze Visie",
+        "alt": "auto",
+        "description": "Onze visie is om het toonaangevende grondvervoerbedrijf in Texas en Louisiana te worden."
+      },
+      {
+        "title": "Onze Missie",
+        "alt": "auto",
+        "description": "Onze missie is om hoogwaardige en eerlijk geprijsde vervoersdiensten te leveren aan bedrijven en particulieren via strategische partnerschappen."
+      }
+    ]
+  },
+    "OurValuesAbout": {
+    "Heading1": "Perfectie in Elke Kilometer",
+    "Heading2": "Onze Waarden",
+    "Description": "Integriteit, transparantie, veiligheid, respect voor tijd en uitstekende klantenservice zorgen ervoor dat we altijd gevraagd worden.",
+    "Tabs": [
+      {
+        "question": "Uw Veiligheid",
+        "answer": "Uw veiligheid heeft bij ons de hoogste prioriteit..."
+      },
+      {
+        "question": "Tijd Respecteren",
+        "answer": "Wij respecteren uw tijd..."
+      },
+      {
+        "question": "Concurrerende Prijzen",
+        "answer": "Wij bieden hoogwaardige diensten tegen eerlijke prijzen."
+      },
+      {
+        "question": "Makkelijk te Boeken",
+        "answer": "Bij ons boeken is eenvoudig en snel."
+      },
+      {
+        "question": "Online Boeken",
+        "answer": "Boek overal en op elk moment eenvoudig."
+      }
+    ]
+  },
+   "OurPeers": {
+    "Heading1": "Betere service, betere functies",
+    "Heading2": "Zie hoe wij voorop lopen!",
+    "Description": "Bij AAdmirals Travel gaan we verder dan alleen transport. Van eenvoudig online boeken en realtime tracking tot professionele chauffeurs en een goed onderhouden wagenpark — alles is ontworpen om u een soepele en stressvrije ervaring te bieden. Ontdek wat ons uniek maakt.",
+    "Feature1": "1 miljoen verzekerd voertuig",
+    "Feature2": "Professionele chauffeurs",
+    "Feature3": "Privérit volgens uw tijdschema",
+    "Feature4": "Betaalbare tarieven",
+    "Feature5": "Geen verborgen kosten",
+    "Feature6": "Schone auto's"
+  },
+   "Navigation4": {
+    "service": "Zakelijk & Diplomaten",
+    "subservice": "Bedrijven"
+  },
+  "HeroSectionBC": {
+    "Heading1": "Vertrouwd door Professionals.",
+    "Heading2": " Gewaardeerd door Diplomaten. Klaar voor U.",
+    "Button": "RIT BOEKEN"
+  },
+   "BCServices": {
+    "cards": [
+      {
+        "title": "Uw chauffeur, uw tempo",
+        "alt": "Autoverkeer pictogram",
+        "description": "Bepaal waar u heen gaat en wanneer. Met een rit per uur past uw chauffeur zich aan uw planning aan en krijgt u volledige flexibiliteit."
+      },
+      {
+        "title": "Zorgeloos reizen door de stad",
+        "alt": "Gebouwen pictogram",
+        "description": "Geen gedoe meer met meerdere ritten, taxi’s of parkeergelegenheid zoeken. Uw chauffeur regelt alles zodat u ontspannen en efficiënt kunt reizen."
+      },
+      {
+        "title": "Focus op wat belangrijk is",
+        "alt": "Focus pictogram",
+        "description": "Met Wi-Fi in de meeste voertuigen kunt u werken, streamen of ontspannen terwijl uw chauffeur de weg voor u regelt."
+      }
+    ]
+  },
+    "DedicatedServiceSection": {
+    "P1": "Persoonlijke zwarte autoservice per uur voor evenementen",
+    "P2": "Een persoonlijke Blacklane voor een evenement boeken? Onze",
+    "Link1": "toegewijde service per uur",
+    "P3": "biedt u optimale flexibiliteit en gemoedsrust. Lees meer over waarom Blacklane perfect is voor",
+    "Link2": "sportevenementen, concerten,",
+    "P4": "en meer."
+  },
+   "CorporateServiceOfferings": {
+    "cards": [
+      {
+        "title": "Zakelijke conferenties en beurzen",
+        "alt": "Afbeelding van een zakenvrouw in de auto die op haar laptop werkt",
+        "description": "Ontdek onze premium chauffeursservice voor stipte aankomsten, soepele vertrekken en ontspannen ritten."
+      },
+      {
+        "title": "Leiderschapsoffsites en incentive reizen",
+        "alt": "Afbeelding van een zakenvrouw in de auto die op haar laptop werkt",
+        "description": "Vertrouw op onze zakelijke chauffeursdienst voor comfortabele en betrouwbare ritten die productiviteit ondersteunen."
+      },
+      {
+        "title": "Hospitality- en sponsor evenementen",
+        "alt": "Afbeelding van een zakenvrouw in de auto die op haar laptop werkt",
+        "description": "Bezoek eenvoudig sportevenementen, festivals en concerten met onze limousine vervoersservice."
+      }
+    ]
+  },
+   "CorporateServicesAndFeatures": {
+    "cards": [
+      {
+        "title": "Toegewijd evenemententeam",
+        "alt": "Pictogram verkeer",
+        "description": "Ons ervaren team staat klaar om u te helpen bij het plannen van elk soort evenement — groot of klein, wereldwijd of lokaal, aangepast of standaard."
+      },
+      {
+        "title": "Op maat gemaakte logistieke voorstellen",
+        "alt": "Pictogram gebouwen",
+        "description": "Wij werken nauw met u samen om uw doelen te begrijpen en oplossingen te leveren die volledig aansluiten bij uw wensen."
+      },
+      {
+        "title": "Chauffeursexcellentie",
+        "alt": "Pictogram focus",
+        "description": "Om een vlekkeloze uitvoering te garanderen, zijn al onze chauffeurs hooggekwalificeerd en volledig geïnformeerd voorafgaand aan elk evenement."
+      },
+      {
+        "title": "24/7 eventondersteuning",
+        "alt": "Pictogram ondersteuning",
+        "description": "Onze meertalige teams bieden dag en nacht ondersteuning via telefoon en e-mail."
+      },
+      {
+        "title": "Personalisatie en coördinatie",
+        "alt": "Pictogram organisatie",
+        "description": "Voeg een persoonlijke touch toe met merkbeleving in de auto en welkomstpakketten. Coördinatie op locatie is beschikbaar op verzoek."
+      },
+      {
+        "title": "Wereldwijde beschikbaarheid",
+        "alt": "Pictogram wereldbol",
+        "description": "Limospro is actief in meer dan 50 landen, waaronder belangrijke evenementsteden zoals New York, Londen en Dubai."
+      }
+    ]
+  },
+  "WhoWeSupport": {
+    "alt": "Afbeelding van een zakenvrouw in de auto die haar laptop gebruikt",
+    "t1": "Wie wij ondersteunen",
+    "description": [
+      "Teams voor zakelijk reizen (executive assistants en travel managers)",
+      "Evenementen- en experiencebureaus",
+      "Luxe TMC’s en hospitality aanbieders",
+      "Coördinatoren voor entertainment en productie"
+    ]
+  },
+  "OurGlobalReach": {
+    "alt": "Aarde",
+    "t1": "Onze wereldwijde aanwezigheid",
+    "description": [
+      "De bekroonde wereldwijde chauffeursservice van Limospro biedt consistente kwaliteit bij elke rit. Onze moderne vloot bevat premium voertuigen met topvoorzieningen zoals paraplu’s voor regenachtige dagen, gratis water, snacks, oplaadkabels en Wi-Fi.",
+      "Chauffeurs worden gescreend, verzekerd en ontvangen vaak extra training om veiligheid en betrouwbaarheid te garanderen. Bovendien is onze meertalige klantenondersteuning 24/7 beschikbaar voor hulp indien nodig. U kunt erop vertrouwen dat onze premium chauffeursservice voor evenementen elke ervaring zal verbeteren en aansluit bij uw specifieke wensen."
+    ]
+  },
+  "ContactForService": {
+    "Heading": "Waar Comfort en Zakelijke Klasse Samenkomen",
+    "Description": "Ervaar executive vervoer ontworpen voor prestaties, professionaliteit en gemoedsrust.",
+    "Button": "NU CONTACT OPNEMEN"
+  },
+   "ChaufferHeading": {
+    "Service": "Home",
+    "subservice": "Voor Chauffeurs",
+    "Heading": "Word Chauffeurspartner"
+  },
+  "ChaufferHeroSection": {
+    "Heading": "Laat uw bedrijf groeien met Limospro",
+    "Description": "De app en het webportaal van Limospro verbinden gelicentieerde en verzekerde chauffeurspartners met een wereldwijde klantenbasis van zakenreizigers en recreatieve reizigers.",
+    "Button": "Word Partner"
+  },
+  "ChaufferTestimony": {
+    "Heading": "Limospro is goed voor 60% van mijn inkomsten. Ik ben gegroeid van 2 naar 20 chauffeurs en heb nu 10 voertuigen dankzij onze samenwerking.",
+    "Description": "John Black, Limospro chauffeur, DC"
+  },
+  "ChaufferBenefits": {
+    "cards1": [
+      {
+        "title": "Betrouwbare betalingen",
+        "alt": "auto pictogram",
+        "description": "Het bedrag dat bij elke rit wordt weergegeven is het minimum dat naar uw rekening wordt overgemaakt — wij verrekenen geen extra kosten of belastingen. Maandelijkse betalingen voor voltooide ritten worden rechtstreeks op uw bankrekening gestort."
+      },
+      {
+        "title": "Volledige controle over uw planning",
+        "alt": "auto pictogram",
+        "description": "Selecteer ritten via ons omgekeerd veilingsysteem. Creëer uw eigen planning en kies alleen ritten die passen bij uw beschikbaarheid, locatie en voertuig."
+      },
+      {
+        "title": "Word onderdeel van een internationale groep",
+        "alt": "auto pictogram",
+        "description": "Als partner van Blacklane maakt u deel uit van een wereldwijde chauffeursdienst actief in meer dan 50 landen."
+      }
+    ],
+    "cards2": [
+      {
+        "title": "Geavanceerd accountbeheer",
+        "alt": "auto pictogram",
+        "description": "Of u nu ritten toewijst of als eigenaar/ chauffeur werkt, onze app en portal zijn ontworpen om uw werk eenvoudiger te maken — beheer alles met een paar kliks."
+      },
+      {
+        "title": "Toegewijd ondersteuningsteam",
+        "alt": "auto pictogram",
+        "description": "Naast 24/7 klantenservice voor ritten, biedt ons Partner Support Team ondersteuning 24/5 via chat en e-mail. Handige antwoorden zijn ook beschikbaar in het Partner Help Center."
+      }
+    ]
+  },
+  "ChaufferRequirements": {
+    "alt": "Foto van een zakenvrouw die haar computer gebruikt op de achterbank van de auto",
+    "t1": "Vereisten",
+    "description": [
+      "Geldige bedrijfsregistratie plus licenties en verzekering voor alle chauffeurs en voertuigen.",
+      "Voertuigen moeten schoon, onbeschadigd, rookvrij en volledig in overeenstemming met de lokale regelgeving zijn.",
+      "Bedrijven moeten op de hoogte blijven van nieuwe normen en beleidsregels en zorgen voor uitstekende kwaliteit."
+    ],
+    "info": "De specifieke details variëren, dus controleer de volledige lijst voor uw locatie hier:",
+    "buttonName": "Bekijk Lokale Vereisten"
+  },
+  "ChaufferOnboarding": {
+    "alt": "Foto van een zakenvrouw die haar computer gebruikt op de achterbank van de auto",
+    "t1": "Inwerken (Onboarding)",
+    "description": [
+      "Begin met rijden in vier stappen:",
+      "1. Solliciteer via ons inwerkportaal",
+      "2. Upload uw documentatie voor beoordeling door ons team",
+      "3. Voltooi de trainingsmodules en heb een kort interview met ons",
+      "4. Accepteer uw eerste rit!"
+    ],
+    "buttonName": "NU SOLLICITEREN"
+  },
+  "ChaufferEnvironmentFriendly": {
+    "alt": "Foto van een zakenvrouw die haar computer gebruikt op de achterbank van de auto",
+    "t1": "Rijden naar een duurzame toekomst",
+    "description": [
+      "We zetten ons in om onze milieu-impact te verminderen, daarom streven we ernaar al onze ritten elektrisch te maken. Onze overname van de in Londen gevestigde, volledig elektrische chauffeursdienst Haven’t is een van onze eerste grote stappen geweest, evenals het opnemen van meer elektrische voertuigen in onze wagenparken wereldwijd. Bovendien wordt elke rit sinds 2017 CO2-gecompenseerd en werken we eraan om al onze koolstofemissies sinds de oprichting van het bedrijf in 2011 te compenseren."
+    ],
+    "buttonName": "LEER MEER"
+  },
+  "ChaufferContactUs": {
+    "Heading": "Heeft u vragen? Neem vandaag nog contact met ons op!",
+    "Description": "Ons team staat klaar om u te helpen met boekingen, services of andere vragen. Neem contact op en krijg de ondersteuning die u nodig heeft.",
+    "Button": "CONTACTEER ONS"
+  },
+  "ChaufferFAQ": {
+    "Heading": "Veelgestelde Vragen",
+    "FAQData": [
+      {
+        "question": "Kan iedereen Limospro-partner worden?",
+        "answer": "Wij werken alleen samen met verzekerde, reeds bestaande chauffeursbedrijven. Om te solliciteren, moet u: 1). Voldoen aan onze voertuigvereisten. 2). Documentatie indienen voor uw bedrijf, één voertuig en uzelf of een van de chauffeurs van uw bedrijf. 3). Zodra uw account actief is, kunt u zoveel voertuigen en chauffeurs toevoegen als u wilt. 4). U kunt de vereisten voor voertuigen en documenten voor uw stad bekijken en uw partneraanvraag hier starten."
+      },
+      {
+        "question": "Hoeveel ritten kan ik per maand doen met Limospro?",
+        "answer": "Wij werken alleen samen met verzekerde, reeds bestaande chauffeursbedrijven. Om te solliciteren, moet u: 1). Voldoen aan onze voertuigvereisten. 2). Documentatie indienen voor uw bedrijf, één voertuig en uzelf of een van de chauffeurs van uw bedrijf. 3). Zodra uw account actief is, kunt u zoveel voertuigen en chauffeurs toevoegen als u wilt. 4). U kunt de vereisten voor voertuigen en documenten voor uw stad bekijken en uw partneraanvraag hier starten."
+      },
+      {
+        "question": "Hoe word ik betaald?",
+        "answer": "Wij werken alleen samen met verzekerde, reeds bestaande chauffeursbedrijven. Om te solliciteren, moet u: 1). Voldoen aan onze voertuigvereisten. 2). Documentatie indienen voor uw bedrijf, één voertuig en uzelf of een van de chauffeurs van uw bedrijf. 3). Zodra uw account actief is, kunt u zoveel voertuigen en chauffeurs toevoegen als u wilt. 4). U kunt de vereisten voor voertuigen en documenten voor uw stad bekijken en uw partneraanvraag hier starten."
+      },
+      {
+        "question": "Welke voertuigen kan ik gebruiken om met Limospro te werken?",
+        "answer": "Wij werken alleen samen met verzekerde, reeds bestaande chauffeursbedrijven. Om te solliciteren, moet u: 1). Voldoen aan onze voertuigvereisten. 2). Documentatie indienen voor uw bedrijf, één voertuig en uzelf of een van de chauffeurs van uw bedrijf. 3). Zodra uw account actief is, kunt u zoveel voertuigen en chauffeurs toevoegen als u wilt. 4). U kunt de vereisten voor voertuigen en documenten voor uw stad bekijken en uw partneraanvraag hier starten."
+      },
+      {
+        "question": "Hoe solliciteer ik om partner te worden van Limospro?",
+        "answer": "Wij werken alleen samen met verzekerde, reeds bestaande chauffeursbedrijven. Om te solliciteren, moet u: 1). Voldoen aan onze voertuigvereisten. 2). Documentatie indienen voor uw bedrijf, één voertuig en uzelf of een van de chauffeurs van uw bedrijf. 3). Zodra uw account actief is, kunt u zoveel voertuigen en chauffeurs toevoegen als u wilt. 4). U kunt de vereisten voor voertuigen en documenten voor uw stad bekijken en uw partneraanvraag hier starten."
+      },
+      {
+        "question": "Werkt Limospro met elektrische voertuigen?",
+        "answer": "Wij werken alleen samen met verzekerde, reeds bestaande chauffeursbedrijven. Om te solliciteren, moet u: 1). Voldoen aan onze voertuigvereisten. 2). Documentatie indienen voor uw bedrijf, één voertuig en uzelf of een van de chauffeurs van uw bedrijf. 3). Zodra uw account actief is, kunt u zoveel voertuigen en chauffeurs toevoegen als u wilt. 4). U kunt de vereisten voor voertuigen en documenten voor uw stad bekijken en uw partneraanvraag hier starten."
+      }
+    ]
+  },
+ "RideBooking": {
+    "Placeholder": "Adres, luchthaven, hotel, ...",
+    "Instant": "Directe rit",
+    "Schedule": "Rit plannen",
+    "BookYourRide": "Boek uw rit",
+    "CheufferWait": "De chauffeur wacht 15 minuten gratis.",
+    "Search": "Beschikbaarheid zoeken",
+    "AirportTransfer": "Luchthavenvervoer",
+    "CitytoCity": "Van stad naar stad",
+    "HourlyHire": "Uurverhuur",
+    "From": "Van",
+    "To": "Naar",
+    "Duration": "Duur",
+    "TimePlaceholder": "Voer aantal uren in...",
+    "PickDate": "Datum kiezen",
+    "PickTime": "Tijd kiezen"
+  }
+
+
+}
