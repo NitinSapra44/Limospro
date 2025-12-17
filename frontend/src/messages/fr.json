@@ -728,5 +728,324 @@
     "TimePlaceholder": "Saisissez les heures...",
     "PickDate": "Choisir la date",
     "PickTime": "Choisir l’heure"
+  },
+  "PrivacyPolicyHeading": {
+    "Service": "Accueil",
+    "subservice": "Politique de confidentialité",
+    "Heading": "Politique de confidentialité"
+  },
+    "PPHighlights": {
+    "Point1": "1. Lorem ipsum dolor sit amet",
+    "Point2": "2. Lorem ipsum dolor sit amet",
+    "Point3": "3. Lorem ipsum dolor sit amet",
+    "Point4": "4. Lorem ipsum dolor sit amet"
+  },
+  "PPContext1": {
+    "Point1": "1. Lorem ipsum dolor sit amet,",
+    "SubPoint1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "Point2": "1.1 Lorem ipsum dolor sit amet,",
+    "SubPoint2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point3": "1.2 Lorem ipsum dolor sit amet,",
+    "SubPoint3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ."
+  },
+    "PPContext2": {
+    "Point1": "2. Lorem ipsum dolor sit amet,",
+    "SubPoint1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "Point2": "2.1 Lorem ipsum dolor sit amet,",
+    "SubPoint2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point3": "2.2 Lorem ipsum dolor sit amet,",
+    "SubPoint3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point4": "2.2 Lorem ipsum dolor sit amet,",
+    "SubPoint4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ."
+  },
+      "PPContext3": {
+    "Point1": "3. Lorem ipsum dolor sit amet,",
+    "SubPoint1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "Point2": "3.1 Lorem ipsum dolor sit amet,",
+    "SubPoint2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point3": "3.2 Lorem ipsum dolor sit amet,",
+    "SubPoint3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ."
+  },
+  "PPContext4": {
+   "Point1": "1. Lorem ipsum dolor sit amet,",
+    "SubPoint1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "Point2": "1.1 Lorem ipsum dolor sit amet,",
+    "SubPoint2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point3": "1.2 Lorem ipsum dolor sit amet,",
+    "SubPoint3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ."
+  },
+  "ContactUsPP": {
+    "title": "Des questions ? Contactez-nous dès aujourd’hui !",
+    "description": "Notre équipe est à votre disposition pour vous aider avec les réservations, les services ou toute autre demande. Contactez-nous pour obtenir l’assistance dont vous avez besoin.",
+    "Button": "NOUS CONTACTER"
+  },
+  "TCHeading": {
+    "Service": "Accueil",
+    "subservice": "Conditions générales",
+    "Heading": "Conditions générales"
+  },
+    "TCHighlights": {
+    "Point1": "1. Lorem ipsum dolor sit amet",
+    "Point2": "2. Lorem ipsum dolor sit amet",
+    "Point3": "3. Lorem ipsum dolor sit amet",
+    "Point4": "4. Lorem ipsum dolor sit amet"
+  },
+    "TCContext1": {
+    "Point1": "1. Lorem ipsum dolor sit amet,",
+    "SubPoint1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "Point2": "1.1 Lorem ipsum dolor sit amet,",
+    "SubPoint2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point3": "1.2 Lorem ipsum dolor sit amet,",
+    "SubPoint3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ."
+  },
+  "TCContext2": {
+    "Point1": "2. Lorem ipsum dolor sit amet,",
+    "SubPoint1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "Point2": "2.1 Lorem ipsum dolor sit amet,",
+    "SubPoint2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point3": "2.2 Lorem ipsum dolor sit amet,",
+    "SubPoint3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point4": "2.2 Lorem ipsum dolor sit amet,",
+    "SubPoint4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ."
+  },
+    "TCContext3": {
+    "Point1": "3. Lorem ipsum dolor sit amet,",
+    "SubPoint1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "Point2": "3.1 Lorem ipsum dolor sit amet,",
+    "SubPoint2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point3": "3.2 Lorem ipsum dolor sit amet,",
+    "SubPoint3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ."
+  },
+  "TCContext4": {
+   "Point1": "1. Lorem ipsum dolor sit amet,",
+    "SubPoint1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "Point2": "1.1 Lorem ipsum dolor sit amet,",
+    "SubPoint2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute .",
+     "Point3": "1.2 Lorem ipsum dolor sit amet,",
+    "SubPoint3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute ."
+  },
+  "ContactUsTC": {
+    "title": "Des questions ? Contactez-nous dès aujourd’hui !",
+    "description": "Notre équipe est à votre disposition pour vous aider avec les réservations, les services ou toute autre demande. Contactez-nous pour obtenir l’assistance dont vous avez besoin.",
+    "Button": "NOUS CONTACTER"
+  },
+   "HeroSectionHelp": {
+    "Heading": "Besoin d’aide ? Nous sommes là",
+    "Description": "pour réserver votre prochain trajet.",
+    "Button": "RÉSERVER ,UN TRAJET"
+  },
+  "faq": {
+    "tripBooking": {
+      "label": "Trajets et réservations",
+      "q1": {
+        "question": "Que signifie un trajet aller simple ?",
+        "answer": "Il s’agit d’un trajet unique : prise en charge au point A et dépose au point B."
+      },
+      "q2": {
+        "question": "Que signifie un aller-retour ?",
+        "answer": "Un aller-retour comprend la prise en charge, le trajet jusqu’à la destination et le retour au point de départ."
+      },
+      "q3": {
+        "question": "Que signifie un trajet retour ?",
+        "answer": "Un trajet retour est réservé séparément pour le voyage de retour."
+      },
+      "q4": {
+        "question": "Proposez-vous des services de prise en charge et de dépose à l’aéroport ?",
+        "answer": "Oui, nous proposons des services de transport pour tous les principaux aéroports."
+      },
+      "q5": {
+        "question": "Quelles informations sont nécessaires pour réserver un véhicule ?",
+        "answer": "Nous avons besoin du lieu de prise en charge, de la destination, de la date, de l’heure, du nombre de passagers et des coordonnées."
+      },
+      "q6": {
+        "question": "Pourquoi devez-vous connaître ma destination ?",
+        "answer": "Cela nous permet de calculer le tarif avec précision, d’attribuer le bon véhicule et de planifier le meilleur itinéraire."
+      },
+      "q7": {
+        "question": "Existe-t-il une navette entre Houston et Galveston ?",
+        "answer": "Oui, des services de navette sont disponibles entre Houston et Galveston."
+      },
+      "q8": {
+        "question": "Quel est le prix d’une navette entre Houston et Galveston ?",
+        "answer": "Le coût dépend du type de véhicule, de la durée du trajet et du nombre de passagers."
+      },
+      "q9": {
+        "question": "AAdmirals propose-t-il des services pour événements spéciaux et entreprises ?",
+        "answer": "Oui, nous proposons des services de transport pour événements spéciaux et déplacements professionnels."
+      },
+      "q10": {
+        "question": "Quelles cartes de crédit acceptez-vous ?",
+        "answer": "Nous acceptons Visa, MasterCard, American Express et Discover."
+      },
+      "q11": {
+        "question": "Je suis hors des États-Unis, comment réserver ?",
+        "answer": "Vous pouvez réserver en ligne via notre site web ou contacter notre équipe d’assistance."
+      },
+      "q12": {
+        "question": "Pouvez-vous fournir des décorations pour l’extérieur du véhicule ?",
+        "answer": "Oui, des services décoratifs peuvent être organisés sur demande moyennant des frais supplémentaires."
+      },
+      "q13": {
+        "question": "Desserviez-vous les hôtels de The Woodlands ?",
+        "answer": "Oui, nous assurons des services de transport vers et depuis les hôtels de The Woodlands."
+      }
+    },
+    "policies": { "label": "Politiques et procédures" },
+    "general": { "label": "Général" },
+    "vehicles": { "label": "Véhicules et équipements" },
+    "airport": { "label": "Aéroport" },
+    "order": { "label": "Comment passer une commande ?" },
+    "payment": { "label": "Paiement" },
+    "confirmation": { "label": "Confirmation" },
+    "changes": { "label": "Modifications et annulations" },
+    "proceedings": { "label": "Déroulement de la commande" },
+    "technical": { "label": "Problèmes techniques" },
+    "unexpected": { "label": "Situations imprévues" }
+  },
+   "HeroSectionTestimonial": {
+    "Heading": "Plébiscité par nos passagers.",
+    "Description": "Réservez le vôtre dès aujourd’hui.",
+    "Button": "RÉSERVER UN TRAJET"
+  },
+   "TestimonialHeadings": {
+    "Heading1": "Témoignages",
+    "Heading2": "Ce que disent nos clients"
+  },
+  "whyUsTestimonial": {
+    "Heading1": "Pourquoi",
+    "Heading2": "ils nous ont choisis",
+    "Feature1": "Ils avaient besoin d’un transport aéroportuaire fiable",
+    "Feature2": "Ils préféraient un service professionnel aux services de covoiturage",
+    "Feature3": "Ils souhaitaient un transport de luxe pour des occasions spéciales"
+  },
+  "OurPartnersTestimonials": {
+    "Heading1": "Nos fiers",
+    "Heading2": "partenaires"
+  },
+  "SiteMap": {
+    "Service": "Accueil",
+    "subservice": "Plan du site",
+    "Heading": "Plan du site"
+  },
+  
+  "SitemapLinks": {
+    "Main": {
+      "title": "Principal",
+      "home": "Accueil",
+      "services": "Services",
+      "destinations": "Destinations",
+      "business": "Entreprises et diplomates",
+      "about": "À propos",
+      "blog": "Blog",
+      "help": "Aide"
+    },
+    "QuickLinks": {
+      "title": "Liens rapides",
+      "fleet": "Flotte",
+      "testimonials": "Témoignages",
+      "contact": "Contact",
+      "findCity": "Trouver votre ville"
+    },
+    "Legal": {
+      "title": "Mentions légales",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d’utilisation"
+    },
+    "Services": {
+      "title": "Services",
+      "airportTransfers": "Transferts aéroport",
+      "hourlyHire": "Location à l’heure",
+      "cityToCity": "De ville à ville"
+    },
+    "Destinations": {
+      "title": "Destinations",
+      "houston": "Houston",
+      "dallas": "Dallas",
+      "paris": "Paris",
+      "sanAntonio": "San Antonio",
+      "austin": "Austin",
+      "losAngeles": "Los Angeles",
+      "lasVegas": "Las Vegas",
+      "orlando": "Orlando",
+      "london": "London",
+      "frankfurt": "Frankfurt",
+      "dubai": "Dubai",
+      "riyadh": "Riyadh",
+      "cairo": "Cairo"
+    },
+    "Business": {
+      "title": "Entreprises et diplomates",
+      "corporations": "Entreprises",
+      "diplomatic": "Services diplomatiques",
+      "events": "Organisateurs d’événements",
+      "travel": "Agents de voyage"
+    }
+  },
+  "ContactUsSitemap": {
+    "Heading": "Des questions ? Contactez-nous dès aujourd’hui !",
+    "Description": "Notre équipe est à votre disposition pour vous aider avec les réservations, les services ou toute autre demande. Contactez-nous pour obtenir l’assistance dont vous avez besoin.",
+    "Button": "NOUS CONTACTER"
+  },
+  "Findyourcity": {
+    "Service": "Accueil",
+    "subservice": "Trouvez votre ville"
+  },
+  "FindCity": {
+    "heading": "Trouvez votre ville",
+    "searchPlaceholder": "Trouvez votre ville",
+    "noResults": "Aucune ville ne correspond à votre recherche",
+    "cities": {
+      "houston": "Houston",
+      "dallas": "Dallas",
+      "paris": "Paris",
+      "sanAntonio": "San Antonio",
+      "lasVegas": "Las Vegas",
+      "orlando": "Orlando",
+      "austin": "Austin",
+      "losAngeles": "Los Angeles",
+      "london": "London",
+      "frankfurt": "Frankfurt",
+      "dubai": "Dubai",
+      "riyadh": "Riyadh",
+      "cairo": "Cairo"
+    }
+  },
+    "ContactUsFYC": {
+    "Heading": "Des questions ? Contactez-nous dès aujourd’hui !",
+    "Description": "Notre équipe est à votre disposition pour vous aider avec les réservations, les services ou toute autre demande. Contactez-nous pour obtenir l’assistance dont vous avez besoin.",
+    "Button": "NOUS CONTACTER"
+  },
+   "FindYourAirport": {
+    "Service": "Accueil",
+    "subservice": "Trouvez votre aéroport"
+  },
+  "ContactUsFYA": {
+    "Heading": "Des questions ? Contactez-nous dès aujourd’hui !",
+    "Description": "Notre équipe est à votre disposition pour vous aider avec les réservations, les services ou toute autre demande. Contactez-nous pour obtenir l’assistance dont vous avez besoin.",
+    "Button": "NOUS CONTACTER"
+  },
+"FindAirport": {
+    "heading": "Trouvez votre aéroport",
+    "searchPlaceholder": "Trouvez votre aéroport",
+    "noResults": "Aucun aéroport ne correspond à votre recherche",
+    "cities": {
+      "houston": "Houston",
+      "dallas": "Dallas",
+      "paris": "Paris",
+      "sanAntonio": "San Antonio",
+      "lasVegas": "Las Vegas",
+      "orlando": "Orlando",
+      "austin": "Austin",
+      "losAngeles": "Los Angeles",
+      "london": "London",
+      "frankfurt": "Frankfurt",
+      "dubai": "Dubai",
+      "riyadh": "Riyadh",
+      "cairo": "Cairo"
+    }
   }
 }
+
+
+
+
