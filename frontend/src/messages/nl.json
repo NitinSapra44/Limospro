@@ -1,24 +1,25 @@
 {
-  "header": {
+   "header": {
     "menu": {
       "services": "Diensten",
       "airport": "Luchthaventransfers",
-      "hourly": "Uurhuur",
-      "city": "Stad-naar-Stad",
+      "hourly": "Uurservice",
+      "city": "Stad-tot-Stad",
       "destinations": "Bestemmingen",
       "houston": "Houston",
       "dallas": "Dallas",
       "austin": "Austin",
-      "business": "Zakelijk & Diplomaten",
-      "corporation": "Bedrijf",
-      "vip": "VIP-diensten",
-      "diplomats": "Diplomatiek Reizen",
+      "business": "Zakelijk & Diplomatiek",
+      "corporation": "Bedrijven",
+      "Events": "Eventplanners",
+      "Travel": "Reisagenten",
+      "diplomats": "Diplomatieke Diensten",
       "chauffeurs": "Chauffeurs",
       "help": "Hulp",
       "english": "Engels",
-      "us": "Engels (VS)",
-      "uk": "Engels (VK)",
-      "au": "Engels (AU)"
+      "us": "Amerikaans Engels",
+      "uk": "Brits Engels",
+      "au": "Australisch Engels"
     },
     "signIn": "INLOGGEN"
   },
@@ -1044,8 +1045,230 @@
       "riyadh": "Riyadh",
       "cairo": "Cairo"
     }
+  },
+  "FleetFeatures": {
+    "cards": [
+      {
+        "title": "Betrouwbare vloot",
+        "alt": "Auto-icoon",
+        "description": "Wij bieden in Houston een breed scala aan standaard-, zakelijke, luxe- en limousinevoertuigen om aan al uw vervoersbehoeften te voldoen, veilig en tegen betaalbare prijzen. Onze voertuigen zijn afkomstig van toonaangevende fabrikanten zoals GM, Ford, Mercedes-Benz, Toyota en BMW. Alle voertuigen zijn goedgekeurd door de stad Houston, verzekerd tot één miljoen dollar per voertuig en professioneel onderhouden bij erkende dealers."
+      },
+      {
+        "title": "Luxe vloot",
+        "alt": "Veiligheid- en privacy-icoon",
+        "description": "Elk voertuig is uitgerust met alle voorzieningen voor een veilige, comfortabele en aangename reis. Ons doel is hoogwaardige vervoersdiensten te leveren tegen concurrerende tarieven. Bekijk onze selectie van standaard-, zakelijke en luxe sedans, evenals SUVs, vans en limousines. VIP-voertuigen zoals de Mercedes-Benz S-Klasse, Range Rover en Rolls-Royce worden hier niet getoond; neem contact met ons op voor meer informatie en offertes."
+      },
+      {
+        "title": "Eenvoudig boeken",
+        "alt": "Auto-icoon",
+        "description": "U kunt eenvoudig reserveren via ons online boekingssysteem. Wij bieden zakelijke accounts aan en accepteren alle gangbare creditcards. Boek en betaal online of bel ons op +1 346-857-4294 / 800-994-5078. Online boekingen zijn 5% goedkoper dan telefonische reserveringen en onze tarieven zijn zeer concurrerend."
+      }
+    ]
+  },
+  "whyUsCity": {
+    "Heading1": "Waarom AAdmirals uw beste keuze is voor",
+    "Heading2": "ritten van stad naar stad?",
+    "Feature1": "Bespaar tijd",
+    "Feature2": "Bepaal uw eigen schema",
+    "Feature3": "Geniet van gemoedsrust",
+    "Feature4": "Concurrerende tarieven",
+    "Feature5": "Betrouwbare ophaalmomenten",
+    "Feature6": "Wi-Fi beschikbaar in de meeste voertuigen",
+    "Feature7": "Stiptheid"
+  },
+   "GlobalNetwork": {
+    "alt": "Afbeelding van een stuurwiel",
+    "t1": "Wereldwijd netwerk",
+    "t2": "Wereldwijd bereik",
+    "description": "Ons wereldwijde netwerk verbindt belangrijke steden over de hele wereld en biedt betrouwbaar en consistent vervoer, waar u ook reist. Met vertrouwde lokale partners en internationale standaarden garanderen wij een naadloze, veilige en professionele ervaring op elke bestemming."
+  },
+  "LongDistanceCarService": {
+    "alt": "Afbeelding van een zakenman die op de achterbank van zijn auto zit en zijn laptop gebruikt.",
+    "t1": "Langeafstand autoservice,",
+    "t2": "de betere manier om tussen steden te reizen",
+    "description": "Kies voor een comfortabel en efficiënt alternatief voor vluchten en treinen bij intercityreizen. Onze langeafstandservice biedt flexibele schema’s, deur-tot-deur vervoer en een ontspannen rit, zodat u onderweg kunt werken of tot rust kunt komen."
+  },
+"ServiceForEveryOccasionDallas": {
+    "alt": "Meerdere auto’s netjes op een rij",
+    "t1": "De Beste Privé Autoservice in Dallas",
+    "t2": "Dallas Limousineservices voor Elke Gelegenheid",
+    "description": "Ervaar een premium privévervoersservice in Dallas, ideaal voor zakelijke reizigers, diplomaten, evenementen en luchthavenvervoer. Onze luxe vloot en professionele chauffeurs staan garant voor stiptheid, comfort en volledige discretie bij elke rit. Of het nu gaat om een zakelijke afspraak, een speciale gelegenheid of vervoer tussen steden, wij leveren een betrouwbare, stijlvolle en op maat gemaakte ervaring. Reis met vertrouwen, wetende dat elk detail tot in perfectie is verzorgd."
+  },
+  "WhyChooseDallas": {
+    "alt": "Afbeelding van een zakenman die op de achterbank van zijn auto zit en zijn computer gebruikt.",
+    "t1": "Hoogwaardige Limousineservice in Dallas",
+    "t2": "Waarom Kiezen voor Onze Limousineservices in Dallas?",
+    "description": "Onze limousineservice in Dallas staat voor kwaliteit, betrouwbaarheid en professioneel vakmanschap. Wij richten ons op zakelijke klanten en veeleisende reizigers die waarde hechten aan stiptheid, discretie en eersteklas comfort. Met ervaren chauffeurs, een zorgvuldig onderhouden luxe wagenpark en persoonlijke service zorgen wij voor een zorgeloze reiservaring. Elk detail is afgestemd op het leveren van een service die verwachtingen overtreft."
+  },
+   "HowToBookDallas": {
+    "alt": "Zakenmannen die in een taxi zitten na het verlaten van hun privévliegtuig",
+    "t1": "Snel en Eenvoudig Boeken",
+    "t2": "Hoe U Onze Limousineservices in Houston Eenvoudig Kunt Boeken",
+    "description": "Het boeken van onze limousineservice is snel, overzichtelijk en probleemloos. Kies eenvoudig uw gewenste service, vul de reisgegevens in en bevestig uw reservering in slechts enkele stappen. Ons team zorgt voor de rest en garandeert een naadloze planning en uitvoering. Of het nu gaat om luchthavenvervoer, zakelijke ritten of speciale gelegenheden, wij bieden een betrouwbaar en efficiënt boekingsproces."
+  },
+  "BookARideDallas": {
+    "title": "Geniet van betrouwbaar luchthavenvervoer in Dallas met limousineservice naar IAH en Hobby.",
+    "description": "Reis in comfort en stijl met onze premium opties voor ophalen en afzetten op de luchthaven. Boek nu!",
+    "Button": "NU BOEKEN"
+  },
+  "HighTechApproach": {
+    "alt": "Afbeelding van een zakenvrouw die op de achterbank van haar auto zit en haar computer gebruikt.",
+    "t1": "Een Hightech Benadering met Persoonlijke Service",
+    "t2": "Wij Maken Uw Bedrijf Tot Onze Missie",
+    "description": "Wij combineren geavanceerde technologie met persoonlijke, betrokken service om een eersteklas vervoerservaring te bieden. Van slimme boekingssystemen en realtime tracking tot proactieve coördinatie en maatwerkondersteuning: elk detail is gericht op het ondersteunen van uw zakelijke agenda. Ons doel is uw reizen te vereenvoudigen, uw tijd efficiënt te benutten en een betrouwbare service te leveren die aansluit bij de eisen van de moderne zakenwereld."
+  },
+  "BookARideBC": {
+    "title": "Waar Comfort en Zakelijke Klasse Samenkomen",
+    "description": "Ervaar executive vervoer dat is ontworpen voor prestaties, professionaliteit en gemoedsrust.",
+    "Button": "NU BOEKEN"
+  },
+  "HeroSectionDS": {
+    "Heading1": "Discreet, Veilig en Altijd Op Tijd",
+    "Heading2": "Boek Nu Uw Diplomatieke Service.",
+    "Button": "RIT BOEKEN"
+  },
+    "Navigation7": {
+    "service": "Zakelijk & Diplomatiek",
+    "subservice": "Diplomatieke Diensten"
+  },
+  "HighLevelTravel": {
+    "alt": "Afbeelding van een zakenvrouw die op de achterbank van haar auto zit en haar computer gebruikt.",
+    "t1": "Uitgebreide Ondersteuning voor",
+    "t2": "Hoogwaardig Reizen",
+    "description": "Naast onze veilige vervoersdiensten bieden wij uitgebreide ondersteunende services om uw reiservaring moeiteloos te maken. Van coördinatie met beveiligingsteams van ambassades tot meertalige chauffeurs: wij verzorgen alle logistiek om een stressvrije reis te garanderen die volledig aansluit op uw specifieke wensen. Ons doel is om u de vrijheid te geven zich te richten op uw prioriteiten, terwijl wij de rest verzorgen."
+  },
+   "SeemlessJourney": {
+    "alt": "Afbeelding van een zakenvrouw die op de achterbank van haar auto zit en haar computer gebruikt.",
+    "t1": "Een Naadloze Reis,",
+    "t2": "Op Maat Voor U",
+    "description": "Wij staan voor een persoonlijke, efficiënte en zorgeloze reiservaring. Ons team zet zich in om elk onderdeel van uw reis soepel te laten verlopen, van het coördineren van ophaalmomenten tot het garanderen van stiptheid. Met AAdmirals kunt u ontspannen, in de wetenschap dat elk detail met zorg en professionaliteit wordt afgehandeld."
+  },
+   "BookARideDS": {
+    "title": "Waar veiligheid en professionaliteit uw reis bepalen.",
+    "description": "Ervaar vervoer dat veiligheid en naadloze professionaliteit centraal stelt, zodat elke rit voldoet aan de hoogste normen van beveiliging en protocol.",
+    "Button": "NU BOEKEN"
+  },
+   "HeroSectionEP": {
+    "Heading1": "Altijd Op Tijd, Altijd Perfect",
+    "Heading2": "Boek Betrouwbaar Vervoer voor Onvergetelijke Evenementen",
+    "Button": "RIT BOEKEN"
+  },
+  "Navigation8": {
+    "service": "Zakelijk & Diplomatiek",
+    "subservice": "Eventplanners"
+  },
+   "EPServices": {
+    "headingTop": "Waar Het Evenement Ook Is,",
+    "headingBottom": "Wij Brengen U Erheen",
+    "cards": [
+      {
+        "title": "Vervoer naar Sportevenementen",
+        "alt": "Zakenmannen die in een taxi zitten na het verlaten van hun privévliegtuig",
+        "description": "Naadloos en betrouwbaar vervoer van en naar sportevenementen — vermijd parkeerstress en verkeer en geniet zorgeloos van de wedstrijd."
+      },
+      {
+        "title": "Concertvervoer",
+        "alt": "Zakenmannen die in een taxi zitten na het verlaten van hun privévliegtuig",
+        "description": "Geniet van comfortabel en zorgeloos vervoer van en naar uw concert, met een stijlvolle en tijdige aankomst zonder verkeers- of parkeerproblemen."
+      },
+      {
+        "title": "Rodeovervoer",
+        "alt": "Zakenmannen die in een taxi zitten na het verlaten van hun privévliegtuig",
+        "description": "Reis ontspannen van en naar de rodeo met veilig en punctueel vervoer, zodat u volop kunt genieten zonder gedoe."
+      }
+    ]
+  },
+  "EventSchedules": {
+    "alt": "Afbeelding van een zakenvrouw die op de achterbank van haar auto zit en haar computer gebruikt.",
+    "t1": "Naadloze Afstemming met",
+    "t2": "Evenementschema’s",
+    "description": "Wij zorgen voor een nauwkeurige en naadloze afstemming op uw evenementenschema’s. Ons team coördineert ophaaltijden, aankomsten en wachttijden tot in detail, zodat elke rit perfect aansluit op de planning. Of het nu gaat om een zakelijk evenement, een gala of een speciale gelegenheid, wij garanderen stiptheid, flexibiliteit en volledige betrouwbaarheid."
+  },
+  "LargeScaleGatherings": {
+    "alt": "Afbeelding van een zakenvrouw die op de achterbank van haar auto zit en haar computer gebruikt.",
+    "t1": "Zorgeloos Evenementenvervoer voor",
+    "t2": "Grootschalige Bijeenkomsten",
+    "description": "Wij verzorgen het vervoer voor grootschalige evenementen met precisie en efficiëntie. Van meerdere ophaallocaties tot de coördinatie van complete wagenparken: ons team beheert alle logistiek om soepele aankomsten en georganiseerde vertrekken te garanderen. Of het nu gaat om een congres, conventie of groot evenement, wij leveren een betrouwbare en perfect afgestemde service."
+  },
+  "Sustainability": {
+    "alt": "Afbeelding van een zakenvrouw die op de achterbank van haar auto zit en haar computer gebruikt.",
+    "t1": "Duurzaamheid in",
+    "t2": "Evenementenvervoer",
+    "description": "Wij zetten ons in voor verantwoord vervoer dat de impact op het milieu minimaliseert zonder concessies te doen aan kwaliteit. Door efficiënte routeplanning, moderne wagenparken en waar mogelijk milieuvriendelijke opties, helpen wij uw evenementen duurzamer te maken. Onze aanpak combineert luxe, prestaties en milieubewustzijn."
+  },
+  "BookARideEP": {
+    "title": "Veilig en Premium Evenementenvervoer voor Uw Volgende Bijeenkomst.",
+    "description": "Bied uw gasten veilig en luxueus vervoer, afgestemd op de behoeften van uw evenement, met comfort en stiptheid als prioriteit.",
+    "Button": "NU BOEKEN"
+  },
+   "HeroSectionTA": {
+    "Heading1": "Boek vandaag nog een rit en zorg ervoor dat",
+    "Heading2": "uw klanten in comfort en stijl reizen.",
+    "Button": "RIT BOEKEN"
+  },
+  "Navigation9": {
+    "service": "Zakelijk & Diplomatiek",
+    "subservice": "Reisagenten"
+  },
+  "TAServices": {
+    "headingTop": "De Perfecte Reiservaring:",
+    "headingBottom": "Kwaliteit, Eenvoud en Wereldwijd Bereik",
+    "cards": [
+      {
+        "title": "Bekroonde Kwaliteit",
+        "alt": "Zakenmannen die in een taxi zitten na het verlaten van hun privévliegtuig",
+        "description": "Ervaar de hoogste servicenormen met onze bekroonde kwaliteit, waarbij elke rit soepel, comfortabel en volledig betrouwbaar verloopt."
+      },
+      {
+        "title": "Eenvoudig Boeken",
+        "alt": "Zakenmannen die in een taxi zitten na het verlaten van hun privévliegtuig",
+        "description": "Uw rit boeken is moeiteloos en snel dankzij een intuïtief platform dat een probleemloze ervaring van begin tot eind garandeert."
+      },
+      {
+        "title": "Wereldwijd én Lokaal",
+        "alt": "Zakenmannen die in een taxi zitten na het verlaten van hun privévliegtuig",
+        "description": "Met een wereldwijd netwerk en een persoonlijke benadering bieden wij betrouwbare vervoersoplossingen die aansluiten op zowel internationale als lokale behoeften."
+      }
+    ]
+  },
+  "ClientSatisfaction": {
+    "alt": "Afbeelding van een zakenvrouw die op de achterbank van haar auto zit en haar computer gebruikt.",
+    "t1": "Wij Leveren",
+    "t2": "Uitstekende Klanttevredenheid",
+    "description": "Wij streven ernaar om bij elke rit een vervoerservaring te bieden die de verwachtingen van uw klanten overtreft. Met stipte service, persoonlijke aandacht en voertuigen van topkwaliteit zorgen wij voor comfort, vertrouwen en een consistente premium beleving. Uw reputatie staat centraal, en elk detail wordt zorgvuldig afgestemd op maximale klanttevredenheid."
+  },
+   "ForAllOccasions": {
+    "alt": "Afbeelding van een zakenvrouw die op de achterbank van haar auto zit en haar computer gebruikt.",
+    "t1": "Voertuigen Gereed",
+    "t2": "Voor Elke Gelegenheid",
+    "description": "Ons premium wagenpark is geschikt voor elke gelegenheid, van zakelijke ritten en luchthavenvervoer tot speciale evenementen en diplomatieke diensten. Elk voertuig voldoet aan de hoogste normen op het gebied van veiligheid, comfort en uitstraling, zodat u altijd kunt rekenen op een vlekkeloze reiservaring."
+  },
+    "BookARideTA": {
+    "title": "Bied uw klanten ongeëvenaard comfort — reserveer hun rit nu!",
+    "description": "Zorg voor soepel en betrouwbaar vervoer met slechts enkele klikken — uw klanten verdienen het beste.",
+    "Button": "NU BOEKEN"
+  },
+   "Benefits": {
+    "headingTop": "Ervaar onze",
+    "headingBottom": "Voordelen voor Reisagenten",
+    "cards": [
+      {
+        "title": "Eenvoudig beheer",
+        "alt": "Car Logo",
+        "description": "Beheer boekingen, klantvoorkeuren en vervoersdiensten moeiteloos via een overzichtelijk en gebruiksvriendelijk platform."
+      },
+      {
+        "title": "Zeer concurrerende tarieven",
+        "alt": "Price Logo",
+        "description": "Profiteer van transparante en concurrerende prijzen zonder concessies te doen aan servicekwaliteit."
+      },
+      {
+        "title": "Realtime updates",
+        "alt": "Private ride Logo",
+        "description": "Ontvang directe bevestigingen en realtime statusupdates, zodat elke reis perfect gecoördineerd verloopt."
+      }
+    ]
   }
-
 
 
 }

@@ -19,8 +19,10 @@ export const headerMenu = [
     title: 'header.menu.business',
     items: [
       { name: 'header.menu.corporation', href: '/business/corporate' },
-      { name: 'header.menu.vip', href: '/business/vip' },
-      { name: 'header.menu.diplomats', href: '/business/diplomats' },
+       { name: 'header.menu.diplomats', href: '/business/diplomaticservices' },
+      { name: 'header.menu.Events', href: '/business/eventplanners' },
+      { name: 'header.menu.Travel', href: '/business/travelagents' },
+     
     ],
   },
   { title: 'header.menu.chauffeurs', href: '/chauffeurs' },

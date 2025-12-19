@@ -3,22 +3,23 @@
     "menu": {
       "services": "Services",
       "airport": "Transferts Aéroport",
-      "hourly": "Location Horaire",
-      "city": "Ville à Ville",
+      "hourly": "Location à l’Heure",
+      "city": "Trajets Interurbains",
       "destinations": "Destinations",
       "houston": "Houston",
       "dallas": "Dallas",
       "austin": "Austin",
-      "business": "Affaires & Diplomates",
+      "business": "Entreprises et Diplomates",
       "corporation": "Entreprise",
-      "vip": "Services VIP",
-      "diplomats": "Voyages Diplomatiques",
+      "Events": "Organisateurs d’Événements",
+      "Travel": "Agences de Voyages",
+      "diplomats": "Services Diplomatiques",
       "chauffeurs": "Chauffeurs",
       "help": "Aide",
       "english": "Anglais",
-      "us": "Anglais (US)",
-      "uk": "Anglais (UK)",
-      "au": "Anglais (AU)"
+      "us": "Anglais (États-Unis)",
+      "uk": "Anglais (Royaume-Uni)",
+      "au": "Anglais (Australie)"
     },
     "signIn": "SE CONNECTER"
   },
@@ -1043,6 +1044,229 @@
       "riyadh": "Riyadh",
       "cairo": "Cairo"
     }
+  },
+   "FleetFeatures": {
+    "cards": [
+      {
+        "title": "Flotte de confiance",
+        "alt": "Icône de voiture",
+        "description": "Nous proposons à Houston une large gamme de véhicules standard, professionnels, de luxe et de limousines afin de répondre à tous vos besoins de transport terrestre en toute sécurité et à des tarifs abordables. Notre flotte comprend des modèles de constructeurs de renommée mondiale tels que GM, Ford, Mercedes-Benz, Toyota et BMW. Tous nos véhicules sont agréés par la ville de Houston, assurés à hauteur d’un million de dollars chacun et entretenus régulièrement dans des concessions officielles."
+      },
+      {
+        "title": "Flotte de luxe",
+        "alt": "Icône de sécurité et de confidentialité",
+        "description": "Chaque véhicule est équipé des commodités nécessaires pour offrir un service sûr, confortable et agréable. Notre objectif est de fournir un transport de haute qualité à des tarifs compétitifs. Consultez notre sélection de berlines standard, professionnelles et de luxe, ainsi que de SUVs, vans et limousines. Les véhicules VIP tels que la Mercedes-Benz Classe S, le Range Rover et la Rolls-Royce ne sont pas affichés ici — veuillez nous contacter pour plus d’informations et de devis."
+      },
+      {
+        "title": "Réservation facile",
+        "alt": "Icône de voiture",
+        "description": "Vous pouvez utiliser notre formulaire de réservation en ligne pour plus de simplicité. Nous proposons des comptes корпоративifs et acceptons toutes les principales cartes de crédit. Réservez et payez en ligne ou appelez-nous au +1 346-857-4294 / 800-994-5078. Les réservations en ligne bénéficient d’une remise supplémentaire de 5 % par rapport aux réservations téléphoniques."
+      }
+    ]
+  },
+  "whyUsCity": {
+    "Heading1": "Pourquoi AAdmirals est votre meilleur choix pour",
+    "Heading2": "les trajets de ville à ville ?",
+    "Feature1": "Gagnez du temps",
+    "Feature2": "Fixez votre propre horaire",
+    "Feature3": "Voyagez en toute tranquillité",
+    "Feature4": "Tarifs compétitifs",
+    "Feature5": "Prises en charge fiables",
+    "Feature6": "Wi-Fi disponible dans la plupart des véhicules",
+    "Feature7": "Ponctualité"
+  },
+  "GlobalNetwork": {
+    "alt": "Image d’un volant",
+    "t1": "Réseau mondial",
+    "t2": "Portée internationale",
+    "description": "Notre réseau mondial relie les principales villes à travers le monde, offrant un service de transport fiable et cohérent où que vous voyagiez. Grâce à des partenaires locaux de confiance et à des normes internationales, nous garantissons une expérience fluide, sûre et professionnelle à chaque destination."
+  },
+  "LongDistanceCarService": {
+    "alt": "Image d’un homme d’affaires assis à l’arrière de sa voiture utilisant son ordinateur portable.",
+    "t1": "Service de transport longue distance,",
+    "t2": "la meilleure façon de voyager entre les villes",
+    "description": "Profitez d’une alternative confortable et efficace aux vols et aux trains pour vos déplacements interurbains. Notre service longue distance propose des horaires flexibles, une prise en charge porte à porte et un voyage détendu, vous permettant de travailler ou de vous reposer en toute sérénité."
+  },
+  "ServiceForEveryOccasionDallas": {
+    "alt": "Plusieurs voitures alignées en rangée",
+    "t1": "Le Meilleur Service de Voiture Privée à Dallas",
+    "t2": "Services de Limousine à Dallas pour Toutes les Occasions",
+    "description": "Profitez d’un service de transport privé haut de gamme à Dallas, pensé pour les dirigeants, diplomates, événements spéciaux et transferts aéroport. Notre flotte de véhicules de luxe et nos chauffeurs professionnels assurent ponctualité, confort et discrétion absolue à chaque trajet. Qu’il s’agisse d’un déplacement professionnel, d’une occasion prestigieuse ou d’un voyage interurbain, nous offrons une expérience fiable, élégante et personnalisée. Voyagez en toute sérénité, chaque détail étant pris en charge avec précision."
+  },
+  "WhyChooseDallas": {
+    "alt": "Image d’un homme d’affaires assis à l’arrière de sa voiture utilisant son ordinateur.",
+    "t1": "Service de Limousine Haut de Gamme à Dallas",
+    "t2": "Pourquoi Choisir Nos Services de Limousine à Dallas ?",
+    "description": "Choisir notre service de limousine à Dallas, c’est faire le choix de l’excellence, de la fiabilité et du professionnalisme. Nous accompagnons les dirigeants, clients d’affaires et voyageurs exigeants qui recherchent ponctualité, discrétion et confort optimal. Grâce à nos chauffeurs expérimentés, notre flotte de véhicules de luxe parfaitement entretenus et notre service sur mesure, chaque trajet devient une expérience fluide et sans contrainte. Nous nous engageons à dépasser vos attentes à chaque déplacement."
+  },
+   "HowToBookDallas": {
+    "alt": "Hommes d’affaires assis dans un taxi après être descendus de leur avion privé",
+    "t1": "Réservation Rapide et Simple",
+    "t2": "Comment Réserver Facilement Nos Services de Limousine à Houston",
+    "description": "La réservation de notre service de limousine est simple, rapide et intuitive. Choisissez votre type de trajet, renseignez les informations nécessaires et confirmez votre réservation en quelques étapes seulement. Notre équipe prend ensuite le relais pour garantir une organisation parfaite et un service sans accroc. Que ce soit pour un transfert aéroport, un déplacement professionnel ou un événement spécial, nous assurons une expérience de réservation fiable et efficace."
+  },
+  "BookARideDallas": {
+    "title": "Profitez d’un transport fiable vers les aéroports de Dallas avec un service de limousine vers IAH et Hobby.",
+    "description": "Voyagez avec confort et élégance grâce à nos options premium de prise en charge et de dépôt à l’aéroport. Réservez dès maintenant !",
+    "Button": "RÉSERVER MAINTENANT"
+  },
+   "HighTechApproach": {
+    "alt": "Image d’une femme d’affaires assise à l’arrière de sa voiture utilisant son ordinateur.",
+    "t1": "Une Approche Haute Technologie avec un Service Personnalisé",
+    "t2": "Votre Activité Devient Notre Mission",
+    "description": "Nous associons des technologies de pointe à un service humain et attentif afin d’offrir une expérience de transport d’exception. Des systèmes de réservation intelligents au suivi en temps réel, en passant par une coordination proactive et un accompagnement sur mesure, chaque aspect est conçu pour soutenir vos priorités professionnelles. Notre objectif est de simplifier vos déplacements, d’optimiser votre temps et de garantir un service fiable adapté aux exigences du monde des affaires."
+  },
+  "BookARideBC": {
+    "title": "Là Où le Confort Rencontre l’Excellence Corporate",
+    "description": "Découvrez un transport exécutif pensé pour la performance, le professionnalisme et la tranquillité d’esprit.",
+    "Button": "RÉSERVER MAINTENANT"
+  },
+  "HeroSectionDS": {
+    "Heading1": "Confidentiel, Sécurisé et Ponctuel",
+    "Heading2": "Réservez Dès Maintenant Votre Service Diplomatique.",
+    "Button": "RÉSERVER UN TRAJET"
+  },
+   "Navigation7": {
+    "service": "Entreprises et Diplomates",
+    "subservice": "Services Diplomatiques"
+  },
+   "HighLevelTravel": {
+    "alt": "Image d’une femme d’affaires assise à l’arrière de sa voiture utilisant son ordinateur.",
+    "t1": "Un Accompagnement Complet pour",
+    "t2": "Les Déplacements de Haut Niveau",
+    "description": "En complément de nos services de transport sécurisé, nous proposons une gamme complète de prestations pour rendre vos déplacements simples et fluides. De la coordination avec les équipes de sécurité des ambassades à la mise à disposition de chauffeurs multilingues, nous gérons l’ensemble de la logistique afin de garantir un voyage serein et parfaitement adapté à vos exigences. Notre mission est de vous permettre de vous concentrer sur l’essentiel pendant que nous nous chargeons du reste."
+  },
+  "SeemlessJourney": {
+    "alt": "Image d’une femme d’affaires assise à l’arrière de sa voiture utilisant son ordinateur.",
+    "t1": "Un Voyage Fluide,",
+    "t2": "Conçu Pour Vous",
+    "description": "Nous sommes fiers d’offrir une expérience personnalisée, efficace et sans stress. Notre équipe veille à ce que chaque étape de votre déplacement se déroule parfaitement, de la coordination des prises en charge au respect des horaires. Avec AAdmirals, vous voyagez l’esprit tranquille, chaque détail étant pris en charge avec soin et professionnalisme."
+  },
+  "BookARideDS": {
+    "title": "Là où la sécurité et le professionnalisme guident votre trajet.",
+    "description": "Découvrez un transport qui place la sécurité et un professionnalisme irréprochable au premier plan, afin que chaque déplacement respecte les normes les plus strictes en matière de protection et de protocole.",
+    "Button": "RÉSERVER MAINTENANT"
+  },
+  "HeroSectionEP": {
+    "Heading1": "Ponctuel et Précis, à Chaque Fois",
+    "Heading2": "Réservez des Transports Fiables pour des Événements Inoubliables",
+    "Button": "RÉSERVER UN TRAJET"
+  },
+  "Navigation8": {
+    "service": "Entreprises et Diplomates",
+    "subservice": "Organisateurs d’Événements"
+  },
+  "EPServices": {
+    "headingTop": "Quel Que Soit l’Événement,",
+    "headingBottom": "Nous Vous Y Conduisons",
+    "cards": [
+      {
+        "title": "Transfert pour Événements Sportifs",
+        "alt": "Hommes d’affaires assis dans un taxi après être descendus de leur avion privé",
+        "description": "Un transport fluide et fiable vers et depuis les événements sportifs : évitez le stress du trafic et du stationnement, et profitez du match en toute sérénité."
+      },
+      {
+        "title": "Transfert pour Concerts",
+        "alt": "Hommes d’affaires assis dans un taxi après être descendus de leur avion privé",
+        "description": "Profitez d’un transport confortable et sans souci vers et depuis votre concert, avec une arrivée ponctuelle et élégante, sans les tracas du trafic ou du stationnement."
+      },
+      {
+        "title": "Transfert pour Rodéos",
+        "alt": "Hommes d’affaires assis dans un taxi après être descendus de leur avion privé",
+        "description": "Déplacez-vous vers le rodéo en toute tranquillité grâce à un transport sûr et ponctuel, afin de profiter pleinement de l’événement sans contraintes."
+      }
+    ]
+  },
+  "EventSchedules": {
+    "alt": "Image d’une femme d’affaires assise à l’arrière de sa voiture utilisant son ordinateur.",
+    "t1": "Une Coordination Fluide avec",
+    "t2": "Les Horaires d’Événements",
+    "description": "Nous assurons une coordination précise et sans faille, parfaitement alignée sur les horaires de vos événements. De la prise en charge aux arrivées en passant par les temps d’attente, chaque détail est géré avec rigueur afin de respecter le programme établi. Qu’il s’agisse d’un événement d’entreprise, d’un gala ou d’une occasion spéciale, nous garantissons un service ponctuel, flexible et fiable."
+  },
+   "LargeScaleGatherings": {
+    "alt": "Image d’une femme d’affaires assise à l’arrière de sa voiture utilisant son ordinateur.",
+    "t1": "Des Transferts Sans Contraintes pour",
+    "t2": "Les Événements de Grande Envergure",
+    "description": "Nous assurons le transport des événements de grande ampleur avec rigueur et efficacité. De la gestion de multiples points de prise en charge à la coordination de flottes complètes, notre équipe maîtrise chaque aspect logistique pour garantir des arrivées fluides et des départs parfaitement organisés. Conférences, conventions ou rassemblements majeurs : nous offrons un service fiable et parfaitement orchestré."
+  },
+  "Sustainability": {
+    "alt": "Image d’une femme d’affaires assise à l’arrière de sa voiture utilisant son ordinateur.",
+    "t1": "Durabilité dans le",
+    "t2": "Transport Événementiel",
+    "description": "Nous nous engageons à adopter des pratiques de transport responsables afin de réduire l’impact environnemental tout en maintenant un niveau de service premium. Grâce à une planification intelligente des itinéraires, des flottes modernes et des options plus écologiques lorsque disponibles, nous contribuons à rendre vos événements plus durables. Notre approche allie luxe, performance et responsabilité environnementale."
+  },
+  "BookARideEP": {
+    "title": "Un Transport Événementiel Premium et Sécurisé pour Votre Prochain Événement.",
+    "description": "Offrez à vos invités un transport sécurisé et luxueux, adapté aux besoins de votre événement, garantissant confort et ponctualité.",
+    "Button": "RÉSERVER MAINTENANT"
+  },
+   "HeroSectionTA": {
+    "Heading1": "Réservez un trajet dès aujourd’hui et assurez-vous que",
+    "Heading2": "vos clients voyagent avec confort et élégance.",
+    "Button": "RÉSERVER UN TRAJET"
+  },
+  "Navigation9": {
+    "service": "Entreprises et Diplomates",
+    "subservice": "Agences de Voyages"
+  },
+   "TAServices": {
+    "headingTop": "L’Expérience de Voyage Parfaite :",
+    "headingBottom": "Qualité, Simplicité et Portée Internationale",
+    "cards": [
+      {
+        "title": "Qualité Récompensée",
+        "alt": "Hommes d’affaires assis dans un taxi après être descendus de leur avion privé",
+        "description": "Bénéficiez des plus hauts standards de service grâce à notre qualité primée, garantissant des trajets fluides, confortables et parfaitement fiables."
+      },
+      {
+        "title": "Simplicité de Réservation",
+        "alt": "Hommes d’affaires assis dans un taxi après être descendus de leur avion privé",
+        "description": "La réservation de votre trajet est rapide et intuitive grâce à une plateforme conviviale qui assure une expérience fluide et sans contrainte du début à la fin."
+      },
+      {
+        "title": "Global et Local",
+        "alt": "Hommes d’affaires assis dans un taxi après être descendus de leur avion privé",
+        "description": "Alliant une portée internationale à une approche personnalisée, nous proposons des solutions de transport fiables adaptées aux besoins locaux comme internationaux."
+      }
+    ]
+  },
+  "ClientSatisfaction": {
+    "alt": "Image d’une femme d’affaires assise à l’arrière de sa voiture utilisant son ordinateur.",
+    "t1": "Nous Assurons une",
+    "t2": "Satisfaction Client d’Excellence",
+    "description": "Nous nous engageons à offrir une expérience de transport qui dépasse les attentes de vos clients à chaque déplacement. Grâce à un service ponctuel, fiable et personnalisé, ainsi qu’à des véhicules haut de gamme, chaque détail est pensé pour garantir confort, confiance et constance. Votre image de marque est essentielle, et nous veillons à ce que chaque trajet reflète un niveau de qualité irréprochable."
+  },
+  "ForAllOccasions": {
+    "alt": "Image d’une femme d’affaires assise à l’arrière de sa voiture utilisant son ordinateur.",
+    "t1": "Des Véhicules Prêts",
+    "t2": "Pour Toutes les Occasions",
+    "description": "Notre flotte de véhicules haut de gamme est conçue pour répondre à toutes les occasions, qu’il s’agisse de déplacements professionnels, de transferts aéroport ou d’événements spéciaux. Chaque véhicule est entretenu selon les normes les plus strictes en matière de sécurité, de confort et d’élégance, garantissant une expérience de transport irréprochable."
+  },
+  "BookARideTA": {
+    "title": "Offrez à vos clients un confort inégalé — réservez leur trajet dès maintenant !",
+    "description": "Assurez des déplacements fluides et fiables en quelques clics seulement — vos clients méritent ce qu’il y a de mieux.",
+    "Button": "RÉSERVER MAINTENANT"
+  },
+  "Benefits": {
+    "headingTop": "Découvrez nos",
+    "headingBottom": "Avantages pour Agences de Voyages",
+    "cards": [
+      {
+        "title": "Gestion simplifiée",
+        "alt": "Car Logo",
+        "description": "Gérez facilement les réservations, les préférences clients et les services de transport grâce à une plateforme intuitive et efficace."
+      },
+      {
+        "title": "Tarifs hautement compétitifs",
+        "alt": "Price Logo",
+        "description": "Bénéficiez de tarifs transparents et compétitifs tout en maintenant un niveau de service premium pour vos clients."
+      },
+      {
+        "title": "Mises à jour en temps réel",
+        "alt": "Private ride Logo",
+        "description": "Recevez des confirmations instantanées et des informations en temps réel sur les trajets afin d’assurer une coordination fluide et fiable."
+      }
+    ]
   }
 }
 

@@ -1,12 +1,11 @@
 import HeroSectionBC from './components/HeroSectionBC'
 import Services from './components/Services'
-import DedicatedServiceSection from './components/DedicatedServiceSection'
-import CorporateServiceOfferings from './components/CorporateServiceOfferings'
-import CorporateServicesAndFeatures from './components/CorporateServicesAndFeatures'
-import WhoWeSupport from './components/WhoWeSupport'
-import OurGlobalReach from './components/OurGlobalReach'
-import ContactForService from './components/ContactForService'
+import ChaufferReliability from './components/ChaufferReliability'
+import HighTechApproach from './components/HighTechApproach'
+import BookARide from './components/BookARide'
+import PremiumFleet from './components/PremiumFleet'
 import { useTranslations } from 'next-intl'
+
 
 export const metadata = {
   title: 'LIMOSPRO - For Business And Corporates',
@@ -41,12 +40,11 @@ export default function Page() {
     <main>
       <HeroSectionBC />
       <Services Service={t('service')} Subservice={t('subservice')} />
-      <DedicatedServiceSection />
-      <CorporateServiceOfferings />
-      <CorporateServicesAndFeatures />
-      <WhoWeSupport />
-      <OurGlobalReach />
-      <ContactForService />
+      <ChaufferReliability/>
+      <HighTechApproach/>
+      <BookARide/>
+      <PremiumFleet/>
+    
     </main>
   )
 }

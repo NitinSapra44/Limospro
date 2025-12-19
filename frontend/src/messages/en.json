@@ -11,8 +11,9 @@
       "austin": "Austin",
       "business": "Business & Diplomats",
       "corporation": "Corporation",
-      "vip": "VIP Services",
-      "diplomats": "Diplomatic Travel",
+      "Events": "Event Planners",
+      "Travel":"Travel Agents",
+      "diplomats": "Diplomatic Services",
       "chauffeurs": "Chauffeurs",
       "help": "Help",
       "english": "English",
@@ -541,26 +542,7 @@
     "Heading1": "Trusted by Professionals.",
     "Heading2": " Preferred by Diplomats. Ready for You.",
     "Button": "BOOK A RIDE"
-  },
-  "BCServices": {
-    "cards": [
-      {
-        "title": "Your chauffeur, your pace",
-        "alt": "Car Traffic Logo",
-        "description": "Decide where to go and when. With an hourly ride your chauffeur adapts to your schedule, giving you complete flexibility."
-      },
-      {
-        "title": "Effortless city trave",
-        "alt": "buildings logo",
-        "description": "Skip the hassle of multiple rides, waiting for taxis, and finding parking. Your chauffeur manages all logistics, so you can move through the city with ease and comfort."
-      },
-      {
-        "title": "Focus on what matters",
-        "alt": "focus logoo",
-        "description": "With Wi-Fi available in most cars, you can catch up on work, stream your favourite shows, or unwind in comfort while our chauffeur takes care of the road."
-      }
-    ]
-  },
+  }, 
   "DedicatedServiceSection": {
     "P1": "By-the-hour personal black car service for events",
     "P2": "Booking a personal Blacklane for an event? Our",
@@ -1107,7 +1089,304 @@
       "riyadh": "Riyadh",
       "cairo": "Cairo"
     }
+  },
+    "FleetFeatures": {
+    "cards": [
+      {
+        "title": "Trusted Fleet",
+        "alt": "Car Icon",
+        "description": "We offer Houston a variety of Standard, Business, luxurious and Limousine vehicles to satisfy all of your ground transportation needs in safety and at affordable prices! Our Cars are from the safest makes and models manufactured by world leaders car manufacturers, Such as G.M, Ford, Mercedes Benz, Toyota and BMW. All our cars are permitted by the city of Houston and insured with one million dollar each car. Our Cars are well maintained at the dealership facility of each car maker."
+      },
+      {
+        "title": "Luxury Fleet",
+        "alt": "Safety and privacy icon",
+        "description": "Each vehicle has the necessary amenities to make your transportation service safe, comfort and enjoyable. Our goal is to deliver a high quality transportation service to our clients with affordable rates. Please browse photos and information of the most requested cars of our selection of Standard, Business and luxury Sedan, SUVs VANs and Limousine vehicles to find the perfect one to accommodate your needs. Photos of VIPs Cars such as Mercedes Benz S class Rang Rover and Rolls Roys not included here, please call for information and quotes."
+      },
+      {
+        "title": "Easy Booking",
+        "alt": "Car Icon",
+        "description": "You may use our on-line transfer service reservation form. For your convenience, we offer corporate accounts and accept all major credit cards. Please Book and pay online or call us at +1 346-857-4294 / 800-994-5078 to make your reservation for AAdmirals transportation service. We have discounted prices for new and current customers, even more our online booking and payment is already %5 less than phone calls reservations and all rates are less than our competitors."
+      }
+
+    ]
+    },
+  "Navigation5": {
+    "service": "Services",
+    "subservice": "City to City"
+  },
+    "whyUsCity": {
+    "Heading1": "Why AAdmirals is Your Best Choice for",
+    "Heading2": "City to City ride?",
+    "Feature1": "Save time",
+    "Feature2": "Set the schedule",
+    "Feature3": "Enjoy peace of mind",
+    "Feature4": "Competitive rates",
+    "Feature5": " Reliable pickups",
+    "Feature6": "Wi-Fi available in most cars",
+    "Feature7": "Punctuality"
+  },
+  "GlobalNetwork": {
+    "alt": "Picture of a Steering wheel",
+    "t1": "Global Network",
+    "t2": "Global reach",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+    "LongDistanceCarService": {
+    "alt": "Picture of a business man sitting in the backseat of his car using his computer.",
+    "t1": "Long distance car service,",
+    "t2": "The better way between cities",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+    "Navigation6": {
+    "service": "Destination",
+    "subservice": "Dallas"
+  },
+    "ServiceForEveryOccasionDallas": {
+    "alt": "A few cars Lined up in a row manner",
+    "t1": "The Best Private Car Service In Dallas",
+    "t2": "Dallas Limo Services for Every Occasion",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "WhyChooseDallas": {
+    "alt": "Picture of a business man sitting in the backseat of his car using his computer.",
+    "t1": "Top-Notch Dallas Limo Car Service",
+    "t2": "Why Choose Our Dallas Limo Services Service?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+    "HowToBookDallas": {
+    "alt": "Business Men sitting in to taxi from his charted plane",
+    "t1": "Quick and Simple BookingQ",
+    "t2": "How to Easily Book Our Houston Limo Services",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+    "BookARideDallas": {
+    "title": "Enjoy reliable Dallas airport transportation with limo service to IAH & Hobby.",
+    "description": "Travel in comfort and style with our premium airport pick-up and drop-off options. Book now!",
+    "Button": "BOOK NOW"
+  },
+   "BCServices": {
+    "headingTop":"For every Occasion",
+    "headingBottom":"Corporate Chauffeur Services",
+
+    "cards": [
+      {
+        "title": "Business Trips-meetings",
+        "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna."
+      },
+      {
+        "title": "Global Airport Transfers",
+         "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna."
+      },
+      {
+        "title": "Client & Partner Travel",
+        "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna."
+      }
+    ]
+  },
+  "ChaufferReliability": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "A new level of ",
+    "t2": "Chauffeur reliability",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+    "HighTechApproach": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "High-Tech Approach to Hands-On-Service",
+    "t2": "We Make Your Business Our Mission",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+   "BookARideBC": {
+    "title": "Where Comfort Meets Corporate Class",
+    "description": "Experience executive travel designed for performance, professionalism, and peace of mind.",
+    "Button": "BOOK NOW"
+  },
+    "HeroSectionDS": {
+    "Heading1": "Confidential, Secure, and On-Time",
+    "Heading2": " Book Your Diplomatic Service Now.",
+    "Button": "BOOK A RIDE"
+  },
+    "Navigation7": {
+    "service": "Business & Diplomats",
+    "subservice": "Diplomatic Services"
+  },
+  "DSServices": {
+    "headingTop":"For Diplomatic Needs",
+    "headingBottom":"Elite Ground Services",
+
+    "cards": [
+      {
+        "title": "Diplomatic Etiquette",
+        "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Our chauffeurs are trained in diplomatic etiquette, ensuring every ride meets international standards of decorum and discretion."
+      },
+      {
+        "title": "Secure & Private Travel",
+         "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "We coordinate closely with embassy and defense teams to ensure safe, confidential, and seamless transport for dignitaries and officials."
+      },
+      {
+        "title": "24/7 Global Availability",
+        "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "From airport pickups to high-level meetings, we’re available around the clock to serve diplomats with professionalism and precision."
+      }
+    ]
+  },
+    "SecurityStandard": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "Uncompromising",
+    "t2": "Security Standards",
+    "description": "At AAdmirals, security is at the heart of everything we do. Our vehicles are equipped with the latest safety features, and our professional chauffeurs are trained to handle the unique needs of high-profile individuals. Whether you are traveling for business or diplomatic affairs, we ensure that every aspect of your journey is safe, secure, and fully compliant with all security protocols."
+  },
+  "HighLevelTravel": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "Comprehensive Support for ",
+    "t2": "High-Level Travel",
+    "description": "In addition to our secure transportation services, we offer a range of support options to make your travel experience effortless. From coordination with embassy security teams to multilingual chauffeurs, we handle all logistics to ensure that your trip is stress-free and aligned with your unique requirements. Our goal is to provide a service that allows you to focus on your priorities while we take care of the rest."
+  },
+  "SeemlessJourney": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "A Seamless Journey,",
+    "t2": "Tailored to You",
+    "description": "We pride ourselves on delivering a personalized, efficient, and stress-free experience. Our team is dedicated to making your travel plans as smooth as possible, from coordinating pickups to ensuring punctuality. With AAdmirals, you can relax knowing that every aspect of your journey is handled with care and professionalism."
+  },
+  "BookARideDS": {
+    "title": "Where security and professionalism drive your journey.",
+    "description": "Experience travel that prioritizes safety and seamless professionalism, ensuring every ride meets the highest standards of security and protocol.",
+    "Button": "BOOK NOW"
+  },
+  "HeroSectionEP": {
+    "Heading1": "On-Time, On-Point, Every Time",
+    "Heading2": " Book Reliable Rides for Unforgettable Events",
+    "Button": "BOOK A RIDE"
+  },
+  "Navigation8": {
+    "service": "Business & Diplomats",
+    "subservice": "Events Planners"
+  },
+    "EPServices": {
+    "headingTop":"Wherever the Event,",
+    "headingBottom":"We’ll Get You There",
+
+    "cards": [
+      {
+        "title": "Sports Event Transfer",
+        "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Seamless, reliable transport to and from sports events—skip the hassle of parking and traffic, and enjoy the game stress-free."
+      },
+      {
+        "title": "Concert Transfer",
+         "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Enjoy smooth, worry-free transport to and from your concert—arrive on time and in style without the stress of parking or traffic."
+      },
+      {
+        "title": "Rodeo Transfer",
+        "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Ride stress-free to and from the rodeo—safe, reliable transport that gets you there on time so you can enjoy the action without the hassle."
+      }
+    ]
+  },
+  "EventSchedules": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "Seamless Coordination with",
+    "t2": "Event Schedules",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+    "LargeScaleGatherings": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "Hassle-Free Event Transfers for",
+    "t2": "Large-Scale Gatherings",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "Sustainability": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "Sustainability in",
+    "t2": "Event Transportation",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+    "BookARideEP": {
+    "title": "Secure Premium Event Transportation for Your Next Gathering.",
+    "description": "Provide your guests with secure, luxurious transport tailored to your event needs, ensuring comfort and punctuality.",
+    "Button": "BOOK NOW"
+  },
+    "HeroSectionTA": {
+    "Heading1": "Book a ride today and ensure",
+    "Heading2": "your clients travel in comfort and style.",
+    "Button": "BOOK A RIDE"
+  },
+    "Navigation9": {
+    "service": "Business & Diplomats",
+    "subservice": "Travel Agents"
+  },
+   "TAServices": {
+    "headingTop":"The Perfect Travel Experience:",
+    "headingBottom":"Quality, Simplicity, and Global Reach",
+
+    "cards": [
+      {
+        "title": "Award-winning Quality",
+        "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Experience the highest standards of service with our award-winning quality, ensuring every ride is smooth, comfortable, and reliable."
+      },
+      {
+        "title": "Ease of Booking",
+         "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Booking your ride is effortless and quick, with an intuitive platform that ensures a smooth, hassle-free experience from start to finish, every time."
+      },
+      {
+        "title": "Global yet Local",
+        "alt": "Business Men sitting in to taxi from his charted plane",
+        "description": "Offering global reach with a personal touch, we provide reliable transportation solutions that cater to both international and local needs."
+      }
+    ]
+  },
+    "ClientSatisfaction": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "Deliver top-notch ",
+    "t2": "Client Satisfaction",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "WithoutHassle": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "without the hassle ",
+    "t2": "Additional revenue & commission",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+    "ForAllOccasions": {
+    "alt": "Picture of a business woman sitting in the backseat of his car using his computer.",
+    "t1": "Vehicles ready",
+    "t2": "For All Occasions",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+    "BookARideTA": {
+    "title": "Offer Your Clients Unmatched Comfort—Reserve Their Ride Now!",
+    "description": "Ensure smooth, reliable travel with just a few clicks—your clients deserve the best.",
+    "Button": "BOOK NOW"
+  },
+   "Benefits": {
+    "headingTop":"Experience our",
+    "headingBottom":"Travel Agency Benefits",
+    "cards": [
+      {
+        "title": "Easy management",
+        "alt": "Car Logo",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna."
+      },
+      {
+        "title": "Fully competitive rates",
+        "alt": "Price Logo",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna."
+      },
+      {
+        "title": "Real-time updates",
+        "alt": "Private ride Logo",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna."
+      }
+    ]
   }
+
 }
 
   
