@@ -1,10 +1,6 @@
 'use client'
 import { TestimonialData } from '../../../data/HomePageData'
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-} from '@/components/ui/carousel'
+import { Carousel, CarouselContent, CarouselItem } from '@/components/ui/carousel'
 import { useState, useEffect } from 'react'
 import { useTranslations } from 'next-intl'
 import TestimonialCard from '@/components/GlobalComponents/Reusable-Cards/TestimonialCard'
@@ -27,7 +23,7 @@ export default function TestimonialSection() {
   // Reverse direction for right carousel
   useEffect(() => {
     if (!rightCarouselApi) return
-    
+
     // Override the right carousel to scroll in opposite direction
     const interval = setInterval(() => {
       rightCarouselApi?.scrollPrev()
@@ -67,11 +63,11 @@ export default function TestimonialSection() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
             {/* Left Column - Scrolls Down */}
             <Carousel
-              opts={{ 
-                align: 'start', 
+              opts={{
+                align: 'start',
                 loop: true,
                 dragFree: true,
-                containScroll: 'trimSnaps'
+                containScroll: 'trimSnaps',
               }}
               orientation="vertical"
               plugins={[leftAutoplay]}
@@ -98,11 +94,11 @@ export default function TestimonialSection() {
 
             {/* Right Column - Scrolls Up */}
             <Carousel
-              opts={{ 
-                align: 'start', 
+              opts={{
+                align: 'start',
                 loop: true,
                 dragFree: true,
-                containScroll: 'trimSnaps'
+                containScroll: 'trimSnaps',
               }}
               orientation="vertical"
               setApi={setRightCarouselApi}

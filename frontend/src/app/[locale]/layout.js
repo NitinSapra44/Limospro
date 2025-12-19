@@ -23,7 +23,18 @@ export default async function LocaleLayout({ children, params }) {
   return (
     <NextIntlClientProvider locale={locale} messages={messages}>
       <div lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
-        <ClientLayout header2Routes={['/chauffeurs', '/blog','/privacypolicy','/termsandconditions','/sitemap','/findyourcity','/findyourairport']} locale={locale}>
+        <ClientLayout
+          header2Routes={[
+            '/chauffeurs',
+            '/blog',
+            '/privacypolicy',
+            '/termsandconditions',
+            '/sitemap',
+            '/findyourcity',
+            '/findyourairport',
+          ]}
+          locale={locale}
+        >
           {children}
         </ClientLayout>
 

@@ -7,7 +7,6 @@ import BookARide from './components/BookARide'
 import PremiumFleet from './components/PremiumFleet'
 import { useTranslations } from 'next-intl'
 
-
 export const metadata = {
   title: 'LIMOSPRO - For Business And Corporates',
   description: "Learn How LIMOSPRO's Services are used for Business and Corporates.",
@@ -41,11 +40,11 @@ export default function Page() {
     <main>
       <HeroSectionDS />
       <Services Service={t('service')} Subservice={t('subservice')} />
-      <SecurityStandards/>
-      <HighLevelTravel/>
-      <SeemlessJourney/>
-      <BookARide/>
-      <PremiumFleet/>
+      <SecurityStandards />
+      <HighLevelTravel />
+      <SeemlessJourney />
+      <BookARide />
+      <PremiumFleet />
     </main>
   )
 }

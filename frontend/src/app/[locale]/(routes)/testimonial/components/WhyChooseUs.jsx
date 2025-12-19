@@ -35,11 +35,7 @@ export default function WhyChooseUs() {
 
               {/* Features List */}
               <ul className="flex flex-col gap-2 md:gap-4 lg:gap-6 w-full">
-                {[
-                  t('Feature1'),
-                  t('Feature2'),
-                  t('Feature3'),
-                ].map((feature, idx) => (
+                {[t('Feature1'), t('Feature2'), t('Feature3')].map((feature, idx) => (
                   <li key={idx} className="flex gap-2 items-center">
                     <Check
                       color="white"

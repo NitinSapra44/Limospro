@@ -9,16 +9,13 @@ export default function FAQSection() {
   const t = useTranslations('faq')
   const [activeId, setActiveId] = useState(faqData[0].id)
 
-  const activeCategory = faqData.find(
-    (item) => item.id === activeId
-  )
+  const activeCategory = faqData.find((item) => item.id === activeId)
 
   return (
     <section className="w-full flex justify-center py-20 px-4">
       {/* 80% WIDTH ON LARGE SCREENS */}
       <div className="w-full lg:max-w-[80%]">
         <div className="grid grid-cols-12 gap-10">
-
           {/* SIDEBAR */}
           <aside
             className="
@@ -62,7 +59,6 @@ export default function FAQSection() {
               />
             )}
           </div>
-
         </div>
       </div>
     </section>

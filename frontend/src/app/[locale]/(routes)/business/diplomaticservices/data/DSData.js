@@ -6,7 +6,7 @@ export const ServicesData = [
     description: 'cards.0.description',
   },
   {
-   src: '/Pictures/pic-business-man-5.png',
+    src: '/Pictures/pic-business-man-5.png',
     alt: 'cards.1.alt',
     title: 'cards.1.title',
     description: 'cards.1.description',
@@ -45,7 +45,6 @@ export const SeemlessJourneyData = {
   description:
     'We pride ourselves on delivering a personalized, efficient, and stress-free experience. Our team is dedicated to making your travel plans as smooth as possible, from coordinating pickups to ensuring punctuality. With AAdmirals, you can relax knowing that every aspect of your journey is handled with care and professionalism.',
 }
-
 
 export const PremiumFleetData = [
   {

@@ -103,10 +103,7 @@ export default function Find() {
             ))
           ) : (
             <div className="col-span-full text-center py-8">
-              <p
-                style={{ fontFamily: 'var(--font-quicksand)' }}
-                className="text-gray-500"
-              >
+              <p style={{ fontFamily: 'var(--font-quicksand)' }} className="text-gray-500">
                 {t('noResults')}
               </p>
             </div>

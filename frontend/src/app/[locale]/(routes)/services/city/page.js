@@ -46,13 +46,13 @@ export default function Page() {
     <main>
       <HeroSectionCTC />
       <Features Service={t('service')} Subservice={t('subservice')} />
-      <CityRoutes/>
-      <PremiumFleet/>
-      <WhyUs/>
-      <GlobalNetwork/>
-      <LongDistanceCarService/>
-      <FAQ/>
-      <DownloadOptions/>
+      <CityRoutes />
+      <PremiumFleet />
+      <WhyUs />
+      <GlobalNetwork />
+      <LongDistanceCarService />
+      <FAQ />
+      <DownloadOptions />
     </main>
   )
 }

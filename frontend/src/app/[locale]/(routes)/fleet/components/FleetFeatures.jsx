@@ -9,7 +9,6 @@ export default function FleetFeatures() {
     <section id="why-choose" aria-labelledby="why-choose-limospro" className="w-full flex py-16">
       <div className="flex flex-col gap-4 lg:w-[80%] max-w-[1440px] w-full mx-auto items-start">
         {/* Section Heading */}
-  
 
         {/* Features Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3  items-stretch gap-4 px-3 lg:px-0 w-full mt-3">

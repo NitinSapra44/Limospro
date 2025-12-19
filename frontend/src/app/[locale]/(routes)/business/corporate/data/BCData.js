@@ -6,7 +6,7 @@ export const ServicesData = [
     description: 'cards.0.description',
   },
   {
-   src: '/Pictures/pic-business-man-4.png',
+    src: '/Pictures/pic-business-man-4.png',
     alt: 'cards.1.alt',
     title: 'cards.1.title',
     description: 'cards.1.description',

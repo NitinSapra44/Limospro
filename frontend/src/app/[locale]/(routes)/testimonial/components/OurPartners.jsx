@@ -11,7 +11,7 @@ import { Carousel, CarouselContent, CarouselItem } from '@/components/ui/carouse
 export default function OurPartners() {
   const plugin = React.useRef(Autoplay({ delay: 1000, stopOnInteraction: true }))
   const t = useTranslations('OurPartnersTestimonials')
-  
+
   return (
     <section
       id="partners"
@@ -69,10 +69,10 @@ export default function OurPartners() {
                     flex justify-center items-center"
                 >
                   <div className="w-full flex justify-center items-center p-4 hover:scale-105 transition-transform duration-300">
-                    <Image 
-                      src={data.src} 
-                      alt={data.alt} 
-                      width={160} 
+                    <Image
+                      src={data.src}
+                      alt={data.alt}
+                      width={160}
                       height={80}
                       className="object-contain grayscale hover:grayscale-0 transition-all duration-300"
                     />

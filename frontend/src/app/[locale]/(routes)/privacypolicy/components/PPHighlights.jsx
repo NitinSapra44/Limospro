@@ -7,7 +7,6 @@ export default function PPHighlights() {
       <div className="flex flex-col lg:w-[80%] max-w-[1440px] w-full mx-auto gap-8 items-start bg-[#EAEAEA] p-6">
         {/* Section heading */}
         <div className="gap-6 px-3 lg:px-0 flex flex-col">
-
           <h2
             id="our-story-heading"
             style={{ fontFamily: 'var(--font-montserrat)' }}
@@ -15,7 +14,6 @@ export default function PPHighlights() {
           >
             {t('Point1')}
           </h2>
-
 
           <h2
             id="our-story-heading"
@@ -25,7 +23,6 @@ export default function PPHighlights() {
             {t('Point2')}
           </h2>
 
-
           <h2
             id="our-story-heading"
             style={{ fontFamily: 'var(--font-montserrat)' }}
@@ -33,7 +30,6 @@ export default function PPHighlights() {
           >
             {t('Point3')}
           </h2>
-
 
           <h2
             id="our-story-heading"
@@ -45,7 +41,6 @@ export default function PPHighlights() {
         </div>
 
         {/* Section content */}
-    
       </div>
     </section>
   )

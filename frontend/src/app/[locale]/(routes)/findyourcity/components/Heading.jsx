@@ -38,7 +38,6 @@ export default function Heading() {
         </nav>
 
         {/* Page heading */}
-
       </div>
     </header>
   )

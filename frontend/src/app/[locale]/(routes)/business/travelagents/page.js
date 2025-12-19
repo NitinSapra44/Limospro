@@ -8,7 +8,6 @@ import PremiumFleet from './components/PremiumFleet'
 import TABenefits from './components/TABenefits'
 import { useTranslations } from 'next-intl'
 
-
 export const metadata = {
   title: 'LIMOSPRO - For Business And Corporates',
   description: "Learn How LIMOSPRO's Services are used for Business and Corporates.",
@@ -42,12 +41,12 @@ export default function Page() {
     <main>
       <HeroSectionTA />
       <Services Service={t('service')} Subservice={t('subservice')} />
-      <ClientSatisfaction/>
-      <WithoutHassle/>
-      <ForAllOccasions/>
-      <BookARide/>
-      <TABenefits/>
-      <PremiumFleet/>
+      <ClientSatisfaction />
+      <WithoutHassle />
+      <ForAllOccasions />
+      <BookARide />
+      <TABenefits />
+      <PremiumFleet />
     </main>
   )
 }
